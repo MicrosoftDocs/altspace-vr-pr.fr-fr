@@ -1,0 +1,61 @@
+---
+title: Prise en main de l’éditeur de monde
+description: Découvrez comment utiliser l’éditeur AltspaceVR World pour générer, manipuler et placer des objets dans vos mondes.
+ms.date: 03/11/2021
+ms.topic: article
+keywords: éditeur de monde
+ms.openlocfilehash: 6fa55de4e95c7cfee4cc771f1fe4e7ff8c67350b
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212523"
+---
+# <a name="getting-started-with-the-world-editor"></a><span data-ttu-id="2a6ef-104">Prise en main de l’éditeur de monde</span><span class="sxs-lookup"><span data-stu-id="2a6ef-104">Getting started with the World Editor</span></span>
+
+<span data-ttu-id="2a6ef-105">L’éditeur mondial contient les outils et les capacités dont vous avez besoin pour générer, manipuler et placer des objets et des éléments pour construire un monde.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-105">The World Editor contains the tools and abilities you need to spawn, manipulate, and place objects and elements to construct a world.</span></span> <span data-ttu-id="2a6ef-106">Elle dépend du rôle, ce qui signifie que vous pouvez accéder à l’éditeur de monde uniquement dans les endroits que vous souhaitez personnaliser, comme votre espace de résidence, vos événements ou vos mondes.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-106">It's role-dependent, which means you can only access the World Editor in places that are yours to customize, like your home-space, events, or worlds.</span></span> <span data-ttu-id="2a6ef-107">Dans ces espaces, votre éditeur de monde s’affiche dans le coin inférieur droit de votre champ de vue.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-107">In these spaces, your World Editor appears on the lower right-hand corner of your field of view.</span></span>
+
+![Options du panneau de l’éditeur de monde](images/world-editor-img-01.png)
+
+<span data-ttu-id="2a6ef-109">Le bouton principal de votre éditeur de monde est le panneau de l' **éditeur**.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-109">The primary button in your World Editor is your **Editor Panel**.</span></span> <span data-ttu-id="2a6ef-110">Cela ouvre votre fenêtre d’ouverture de passe unique à partir de laquelle vous avez accès à la plupart des contrôles d’édition du monde.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-110">This will open your one-stop-shop window from which you have access to most of the world editing controls.</span></span> <span data-ttu-id="2a6ef-111">Le panneau de l’éditeur vous permet de savoir rapidement quels éléments sont sélectionnés et s’ils sont verrouillés ou déverrouillés.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-111">The Editor Panel helps you easily tell at-a-glance which items are selected and whether they’re locked or unlocked.</span></span> <span data-ttu-id="2a6ef-112">Les éléments sont mis en surbrillance dans le monde entier et dans le panneau de l’éditeur pour faciliter leur recherche.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-112">Items are correspondingly highlighted both in-world and in your Editor Panel, to make finding them simple.</span></span> 
+
+![Fenêtre de l’éditeur de monde](images/world-editor-img-02.png)
+
+<span data-ttu-id="2a6ef-114">Lorsque vous faites défiler un objet, une limite de surbrillance bleue s’affiche.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-114">When you scroll over an object, a blue highlight boundary will appear.</span></span> <span data-ttu-id="2a6ef-115">Cliquez sur l’objet pour le sélectionner.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-115">Click on the object to select it.</span></span> <span data-ttu-id="2a6ef-116">La limite reste bleue tant qu’elle est sélectionnée.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-116">The boundary will stay blue as long as it's selected.</span></span> <span data-ttu-id="2a6ef-117">Vous pouvez également verrouiller un objet en place pour vous assurer qu’il est positionné exactement là où vous souhaitez qu’il soit.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-117">You can also lock an object in place to make sure it's positioned exactly where you'd like it to be.</span></span> <span data-ttu-id="2a6ef-118">En verrouillant l’objet, la couleur de la limite de surbrillance devient rouge.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-118">By locking the object, you'll see the highlight boundary color turn red.</span></span> <span data-ttu-id="2a6ef-119">Ces couleurs et signaux visuels correspondent dans le panneau de l’éditeur, ce qui vous permet de voir facilement ce que vous travaillez et l’état d’un objet.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-119">These colors and visual cues correspond in your Editor Panel, which makes it easy to see what you're working on and what state an object is in.</span></span>
+
+:::row:::
+    :::column:::
+       <span data-ttu-id="2a6ef-120">![Faire défiler jusqu’à l’élément de surbrillance ](images/world-editor-img-03.png) *pour sélectionner un élément*</span><span class="sxs-lookup"><span data-stu-id="2a6ef-120">![Scroll to highlight item](images/world-editor-img-03.png) *Scroll to highlight item*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="2a6ef-121">![Cliquez pour sélectionner l’élément ](images/world-editor-img-04.png) *Cliquer pour sélectionner*</span><span class="sxs-lookup"><span data-stu-id="2a6ef-121">![Click to select item](images/world-editor-img-04.png) *Click to select*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="2a6ef-122">![Défilement de l' ](images/world-editor-img-05.png) *élément verrouillé* défilant élément verrouillé</span><span class="sxs-lookup"><span data-stu-id="2a6ef-122">![Scroll locked item](images/world-editor-img-05.png) *Scroll locked item*</span></span>
+    :::column-end:::
+    :::column:::
+       <span data-ttu-id="2a6ef-123">![Sélectionner un élément verrouillé ](images/world-editor-img-06.png)
+     *Sélectionner un élément verrouillé*</span><span class="sxs-lookup"><span data-stu-id="2a6ef-123">![Select locked item](images/world-editor-img-06.png)
+*Select locked item*</span></span>
+    :::column-end:::
+:::row-end:::
+
+<span data-ttu-id="2a6ef-124">Les autres boutons qui se trouvent au-dessus du panneau de l’éditeur sont des raccourcis vers des fonctionnalités utiles et des fonctions qui rendent la création d’un peu plus lisse.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-124">The other buttons above the Editor Panel are quick short-cuts to helpful features and functions that make world-building a little smoother.</span></span> 
+
+<span data-ttu-id="2a6ef-125">Utilisez votre bouton de **mode d’édition** pour basculer rapidement entre les États de modification et en direct.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-125">Use your **Edit Mode** button to quickly toggle between the edit and live states.</span></span> <span data-ttu-id="2a6ef-126">Le bouton s’allume quand l’option est activée, ce qui vous permet de savoir à quel état vous vous êtes en un clin d’œil, même si vous fermez votre éditeur de monde.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-126">The button lights up when toggled on, so you’re able to tell which state you’re in at-a-glance even if you close your World Editor.</span></span> <span data-ttu-id="2a6ef-127">Si vous utilisez des éléments qui ont des propriétés interactives dans votre monde, elles sont statiques tant qu’elles sont sélectionnées.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-127">If you're working with items that have interable properties in your World, they will be static as long as they're selected.</span></span> <span data-ttu-id="2a6ef-128">Pour activer l’interactivité, vous devez désélectionner l’élément et quitter le mode édition.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-128">To enable interactivity, you must de-select the item and exit Edit Mode.</span></span>
+
+![Objet pour lequel le mode d’édition est sélectionné](images/world-editor-img-07.png)
+
+<span data-ttu-id="2a6ef-130">Utilisez le bouton **basculer l’environnement** pour masquer ou afficher votre espace.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-130">Use your **Toggle Environment** button to hide or display your space.</span></span> <span data-ttu-id="2a6ef-131">Cela est utile pour faciliter l’accès aux éléments que vous avez placés dans le monde entier.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-131">This is helpful for easy-access to items that you've placed throughout the world.</span></span> <span data-ttu-id="2a6ef-132">En désactivant l’environnement, vous pouvez voir avec moins de « bruit » visuel dans le champ de la vue.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-132">By turning off the environment, you can see with less visual "noise" in your field of view.</span></span>
+
+![Bouton Activer/désactiver l’environnement pour masquer ou afficher l’espace](images/world-editor-img-08.png)
+
+<span data-ttu-id="2a6ef-134">Utilisez votre bouton **basculer le vol** pour activer la fonction de Relevez de gravité.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-134">Use your **Toggle Flight** button to enable the ability to defy gravity.</span></span> <span data-ttu-id="2a6ef-135">Qui a besoin d’une génération de modèles automatique lorsque vous parcourez le skie ?</span><span class="sxs-lookup"><span data-stu-id="2a6ef-135">Who needs a scaffolding when you can soar through the skies?</span></span> <span data-ttu-id="2a6ef-136">Utilisez cette fonctionnalité pour faire passer votre « site de construction » au niveau supérieur.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-136">Use this feature to take your “construction site” to the next level.</span></span> <span data-ttu-id="2a6ef-137">Le volant est simple : il vous suffit de regarder dans la direction à laquelle vous souhaitez accéder et d’utiliser vos touches d’accès rapide (ou le stick analogique sur le contrôleur) pour y parvenir.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-137">Flying is simple: just look in the direction you want to fly and use your hot-keys (or thumbstick on controller) to get there.</span></span> 
+
+<span data-ttu-id="2a6ef-138">Utilisez le bouton de **découpage** de votre environnement pour passer facilement d’un objet à l’autres, ce qui vous permet de vous déplacer dans l’espace 3D sans avoir à franchir les éléments de votre monde.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-138">Use your **Environment Clipping** button to pass through objects with ease so you can maneuver around in 3D space without getting tripped up by the items in your world.</span></span> <span data-ttu-id="2a6ef-139">La possibilité de découper les éléments et les murs vous offre une liberté de mouvement totale, ce qui vous permet d’obtenir un environnement parfaitement détaillé.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-139">Being able to clip through items and walls give you total freedom of movement, so you can get your World perfectly detailed.</span></span>  
+
+<span data-ttu-id="2a6ef-140">N’oubliez pas que la pratique est parfaite.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-140">Remember, practice makes perfect.</span></span> <span data-ttu-id="2a6ef-141">Par conséquent, sautez dans le monde entier et soyez en train de créer avec l’éditeur du monde !</span><span class="sxs-lookup"><span data-stu-id="2a6ef-141">So hop in-world and get building with the World Editor!</span></span> 
+
+<span data-ttu-id="2a6ef-142">Si vous avez d’autres questions ou que vous souhaitez en savoir plus, consultez la chaîne de création de #world sur le [serveur](https://discord.com/invite/altspacevr)de votre communauté.</span><span class="sxs-lookup"><span data-stu-id="2a6ef-142">If you have other questions or want to learn from the pros, check out the #world-building channel on our community [Discord server](https://discord.com/invite/altspacevr).</span></span> 
+
+<span data-ttu-id="2a6ef-143">Bonne génération !</span><span class="sxs-lookup"><span data-stu-id="2a6ef-143">Happy building!</span></span>

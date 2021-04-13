@@ -1,0 +1,32 @@
+---
+title: Comment fonctionnent les étiquettes d’étiquettes ?
+description: En savoir plus sur les différents types d’étiquettes et leur fonctionnement dans AltspaceVR.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: faq
+ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212177"
+---
+# <a name="how-do-nametags-work"></a><span data-ttu-id="0fec1-104">Comment fonctionnent les étiquettes d’étiquettes ?</span><span class="sxs-lookup"><span data-stu-id="0fec1-104">How do nametags work?</span></span>
+
+<span data-ttu-id="0fec1-105">Si vous souhaitez voir la balise de l’utilisateur d’un autre utilisateur, sélectionnez son avatar avec votre curseur et leur étiquette d’étiquette, puis affichez ci-dessus.</span><span class="sxs-lookup"><span data-stu-id="0fec1-105">If you'd like to see another user's Nametag, select their avatar with your cursor and their Nametag will, then display above.</span></span>
+
+<span data-ttu-id="0fec1-106">Vous verrez quelques icônes sur l’étiquette d’étiquette : **Friend, bloquer** et **muet**.</span><span class="sxs-lookup"><span data-stu-id="0fec1-106">You'll see a few icons on the Nametag: **Friend, Block,** and **Mute**.</span></span>
+
+* <span data-ttu-id="0fec1-107">**Muet :** Le fait de cliquer sur l’icône muet vous permet de désactiver un utilisateur, il s’agit d’un muet temporaire et vous pouvez le désactiver à tout moment.</span><span class="sxs-lookup"><span data-stu-id="0fec1-107">**Mute:** Clicking the Mute icon will allow you to mute a user, this is a temporary mute and you can unmute them at any time.</span></span> <span data-ttu-id="0fec1-108">Si l’icône de sourdine de l’utilisateur est déjà rouge, cela signifie qu’elle est désactivée.</span><span class="sxs-lookup"><span data-stu-id="0fec1-108">If this users' mute icon is already red, it means they've muted themselves.</span></span>
+
+* <span data-ttu-id="0fec1-109">**Bloquer :** La fonctionnalité de blocage vous permettra de supprimer un utilisateur de votre expérience.</span><span class="sxs-lookup"><span data-stu-id="0fec1-109">**Block:** The block feature will allow you to remove a user from your experience.</span></span> <span data-ttu-id="0fec1-110">Vous ne verrez ou n’entendez plus cet utilisateur et celui-ci ne sera plus visible ni audible.</span><span class="sxs-lookup"><span data-stu-id="0fec1-110">You'll no longer see or hear that user, and they'll no longer see or hear you.</span></span> <span data-ttu-id="0fec1-111">Si vous devez débloquer un utilisateur, ouvrez le panneau amis dans AltspaceVR, sélectionnez l’onglet bloquer, puis Débloquez l’utilisateur.</span><span class="sxs-lookup"><span data-stu-id="0fec1-111">If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.</span></span>
+
+* <span data-ttu-id="0fec1-112">**Ami :** Le bouton Friend envoie une requête Friend à l’utilisateur. après avoir créé un autre utilisateur, vous pouvez lui envoyer un message à travers les espaces, voir quand cet utilisateur est en ligne et facilement rejoindre sa salle.</span><span class="sxs-lookup"><span data-stu-id="0fec1-112">**Friending:** The friend button will send that user a friend request, after Friending another user you can message them across spaces, see when that user is online, and easily join their room.</span></span> <span data-ttu-id="0fec1-113">L’étiquette d’identification de cet utilisateur inclut également une bordure bleue, ce qui vous permet de la reconnaître facilement comme un ami.</span><span class="sxs-lookup"><span data-stu-id="0fec1-113">That user's Nametag will also include a blue border so you can easily recognize them as a friend.</span></span> <span data-ttu-id="0fec1-114">Vous remarquerez également un compteur au bas de l’étiquette d’étiquette, qui affiche la durée que vous avez amis avec cet utilisateur.</span><span class="sxs-lookup"><span data-stu-id="0fec1-114">You'll also notice a counter at the bottom of their Nametag, which will show the duration that you've been friends with that user.</span></span>
+
+<span data-ttu-id="0fec1-115">Lorsque vous hébergez votre propre activité, vous recevrez d’autres outils de modération.</span><span class="sxs-lookup"><span data-stu-id="0fec1-115">When you host your own activity, you'll receive some other tools for moderation.</span></span> <span data-ttu-id="0fec1-116">Vous avez maintenant la possibilité de message aux utilisateurs dont vous n’êtes pas encore ami, et vous avez également la possibilité de lancer des utilisateurs.</span><span class="sxs-lookup"><span data-stu-id="0fec1-116">You'll now have the ability to message users who you aren't yet friends with, and you'll also have the ability to Kick users.</span></span>
+
+* <span data-ttu-id="0fec1-117">**Démarrer :** Si un utilisateur interrompt votre activité, vous pouvez toujours utiliser le bouton Démarrer pour supprimer cet utilisateur de votre activité.</span><span class="sxs-lookup"><span data-stu-id="0fec1-117">**Kick:** If a user interrupts your activity you can always use the Kick button, this will remove that user from your activity.</span></span> <span data-ttu-id="0fec1-118">Une fois qu’ils ont été lancés, ils ne seront plus en mesure de joindre votre activité actuelle.</span><span class="sxs-lookup"><span data-stu-id="0fec1-118">After being kicked they, they'll no longer be able to join your current activity.</span></span> 
+
+* <span data-ttu-id="0fec1-119">**Badge d’administration :** AltspaceVR a du personnel à la main 24/7 dans le Campfire pour vous aider en VR.</span><span class="sxs-lookup"><span data-stu-id="0fec1-119">**Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR.</span></span> <span data-ttu-id="0fec1-120">Tous les membres du personnel représentant AltspaceVR auront le badge Gold admin sur leur étiquette d’étiquette.</span><span class="sxs-lookup"><span data-stu-id="0fec1-120">All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.</span></span>
+
+<span data-ttu-id="0fec1-121">Notre personnel est ici pour vous aider à prendre en charge et vous aider. par conséquent, posez-nous vos questions !</span><span class="sxs-lookup"><span data-stu-id="0fec1-121">Our staff is here to support and assist you, so please ask them any questions you might have!</span></span> 
