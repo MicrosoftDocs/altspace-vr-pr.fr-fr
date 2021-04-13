@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: "Bienvenue dans AltspaceVR\_!"
+summary: Explorez le monde grandissant des événements VR avec AltspaceVR.
+brand: windows
+metadata:
+  title: "Bienvenue dans AltspaceVR\_!"
+  description: Explorez le monde grandissant des événements VR avec AltspaceVR.
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: Prise en main
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: Découvrir le contenu et les personnes
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: Création d’événements
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: Création de mondes
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: Accès en avant-première
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: Résolution des problèmes
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: Bien démarrer
+  summary: 'Utilisez AltspaceVR pour héberger des événements, créer des mondes virtuels et interagir à distance avec des utilisateurs et des communautés du monde entier.'
+  items:
+    - title: Configuration et installation
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: Inscription d’un compte
+        - url: getting-started/linking-microsoft-account.md
+          text: "Liaison des comptes\_Microsoft"
+        - url: getting-started/wmr-installation.md
+          text: "Installation de Windows\_Mixed\_Reality"
+        - url: getting-started/wmr-controls.md
+          text: Commandes Windows Mixed Reality
+        - url: getting-started/oculus-installation.md
+          text: Installation d’Oculus Quest
+        - url: getting-started/oculus-controls.md
+          text: Installation d’Oculus Quest
+    - title: Création et hébergement d’événements
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: Création d’un événement
+        - url: getting-started/roles.md
+          text: 'Rôles dans les événements, les mondes et les groupes'
+        - url: tutorials/main-events.md
+          text: Configuration requise des événements
+        - url: faqs/scaling-audiences.md
+          text: Adaptation des audiences
+        - url: tutorials/multimedia-console.md
+          text: Utilisation de la console multimédia
+        - url: tutorials/host-tools-overview.md
+          text: Vue d’ensemble des outils d’hébergement
+    - title: Création de mondes
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: Explorer l’Éditeur de monde
+        - url: world-building/managing-worlds.md
+          text: Gestion des mondes
+        - url: world-building/adding-custom-spawn-points.md
+          text: Ajout de points de génération
+        - url: world-building/adding-user-abilities.md
+          text: Octroi d’aptitudes à des utilisateurs
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: World Building Toolkit
+        - url: world-building/using-mixed-reality-extensions.md
+          text: Utilisation des extensions Mixed Reality
+additionalContent:
+  sections:
+    - title: Ressources supplémentaires
+      summary: "Besoin d’aide ou d’assistance\_?"
+      items:
+        - title: Communauté
+          links:
+            - text: S’inscrire à notre newsletter
+              url: community/newsletter-subscriptions.md
+            - text: Programme d’assistance de la communauté
+              url: community/community-helper-program.md
+            - text: Guide d’assistance de la communauté
+              url: community/community-helper-guide.md
+        - title: Dépannage et support
+          links:
+            - text: Problèmes audio
+              url: faqs/vr-headset-mic.md
+            - text: Comptes et avatars
+              url: faqs/nametags.md
+            - text: Application AltspaceVR
+              url: faqs/app-version.md
+            - text: Santé et sécurité
+              url: faqs/motion-sickness.md
+            - text: Événements
+              url: faqs/front-row-events.md
+        - title: Nous contacter
+          links:
+            - text: Ouverture d’un ticket de support
+              url: community/open-support-ticket.md
+            - text: Demandes de fonctionnalités
+              url: community/feature-requests.md
+            - text: Remplissage de rapports d’abus
+              url: community/filing-abuse-reports.md
