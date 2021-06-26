@@ -4,12 +4,12 @@ description: Découvrez comment configurer et télécharger vos mondes AltspaceV
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Phone
-ms.openlocfilehash: cf4660f46d93ca5c5f23de3f567ff04b12519617
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212113"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923076"
 ---
 # <a name="introducing-the-world-building-toolkit"></a>Présentation de la boîte à outils de création mondiale
 
@@ -24,8 +24,8 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 
 1. Rejoignez le [AltspaceVR officiel](https://discordapp.com/invite/altspacevr) et visitez le #world-les amis de la création de canaux ne permettent pas aux amis de créer des mondes uniquement.
 2. Lisez notre [Guide de prise en main international](world-building-getting-started.md) pour les principes de base
-3. [Installez Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) et installez **Unity 2019.4.2 F1**. Le téléchargeur ne fonctionne pas, sauf si vous faites correspondre exactement cette version. Si vous n’en avez pas, vous aurez besoin d’un compte Free Unity, si vous n’en avez pas et si vous **le souhaitez.** Pendant l’installation, vérifiez que l’option **Builds Android** est cochée et désactivez la mise à jour automatique.
-4. [Téléchargez le dernier chargeur Unity](https://aka.ms/AsvrCommunityUploader)
+3. [Installez Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) et installez **Unity 2020.3.9**. Le téléchargeur ne fonctionne pas, sauf si vous faites correspondre exactement cette version. Si vous n’en avez pas, vous aurez besoin d’un compte Free Unity, si vous n’en avez pas et si vous **le souhaitez.** Pendant l’installation, vérifiez que l’option **Builds Android** est cochée et désactivez la mise à jour automatique.
+4. [Téléchargez le dernier chargeur Unity](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
 5. [Créez un modèle](https://account.altvr.com/space_templates/new) sur notre site Web. Nommez-le **Hello World modèle**.
 6. [Créez un monde](https://account.altvr.com/worlds/my) et nommez-le **Hello World**. Sélectionnez **Hello World modèle** comme modèle.
 
@@ -35,7 +35,7 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
-1. Ouvrez Unity Hub et créez un nouveau projet Unity 2019.4.2 F1.
+1. Ouvrez Unity Hub et créez un nouveau projet Unity 2020.3.9.
 2. Une fois votre projet ouvert, importez le programme de chargement en double-cliquant sur le fichier que vous avez téléchargé (il s’agit d’un package Unity). Vous devez maintenant voir un nouvel onglet appelé **AltspaceVR**. Vous devez importer le package pour chaque projet Unity que vous souhaitez utiliser avec Altspace
 3. Ouvrir le **Menu > AltspaceVR > paramètres de build**
 4. Connectez-vous avec vos informations d’identification de compte Altspace
@@ -67,7 +67,7 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 * Définissez votre monde comme privé et dérépertorié pour éviter les distractions.
 * Placez un cube à l’origine pour voir où les gens seront générés par défaut. Masquez le cube lors du téléchargement.
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Je suis en chute ou ne peut pas se téléporter sur quoi que ce soit** Vous devez ajouter des collisions à des objets pour les réutiliser.
 

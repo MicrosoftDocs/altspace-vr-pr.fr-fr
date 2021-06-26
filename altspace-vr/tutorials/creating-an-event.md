@@ -4,12 +4,12 @@ description: En savoir plus sur les événements AltspaceVR, sur la façon de le
 ms.date: 03/11/2021
 ms.topic: article
 keywords: événements, terminologie, console, multimédia, éditeur universel, flux en direct
-ms.openlocfilehash: 9b9f7ac8ef5d036b739873fc19c879250a1e264e
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1e758b35b3bd5d5a580eb04e683d6b1dc4500b43
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212292"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923036"
 ---
 # <a name="creating-an-event"></a>Création d’un événement
 
@@ -38,7 +38,7 @@ Vous devez connaître les termes suivants pour créer votre événement et votre
 | Modèle | Un modèle (ou modèle d’espace) est un environnement ou un environnement prédéfinis qui peut être utilisé au lieu d’en créer un à l’aide des fonctionnalités de création de monde. AltspaceVR offre une large gamme de modèles pour différentes expériences et événements. |
 | Espace d’événements | Un espace d’événements est un synonyme de World dans AltspaceVR. En général, il fait référence à un monde utilisé pour héberger des événements. |
 | Site web | Les références au « site Web » sont le [site Web de AltspaceVR](https://altvr.com/). Il est souvent plus facile de créer et de modifier des événements via la [page Web événements](https://account.altvr.com/events/my) sur un ordinateur ou une tablette, plutôt que via votre appareil VR. Vous devez également accéder au site Web pour le [monde entier](../world-building/managing-worlds.md) . |
-| Rôles contextuels | Les [rôles contextuels](../getting-started/roles.md) sont assignés par le créateur d’événements ou le générateur de monde. Ces rôles offrent aux utilisateurs dans un monde entier ou des fonctions et fonctionnalités supplémentaires. À l’heure actuelle, il s’agit de l’hôte, du présentateur, du modérateur, du pilote (vol), de terraformer (bâtiment universel) et de mégaphone uniquement. Ils peuvent être attribués individuellement ou globalement, ce qui permet à tous les utilisateurs d’avoir les mêmes rôles dans l’espace ou le monde de l’événement. |
+| Rôles contextuels | Les [rôles contextuels](../getting-started/roles.md) sont assignés par le créateur d’événements ou le générateur de monde. Ces rôles offrent aux utilisateurs dans un monde entier ou des fonctions et fonctionnalités supplémentaires. À l’heure actuelle, il s’agit de l’hôte, du modérateur, du pilote (vol), de terraformer (bâtiment universel) et de mégaphone uniquement. Ils peuvent être attribués individuellement ou globalement, ce qui permet à tous les utilisateurs d’avoir les mêmes rôles dans l’espace ou le monde de l’événement. |
 | Interface utilisateur (IU)/menu | Lorsque vous êtes dans AltspaceVR dans le monde entier, il y a des menus à gauche et à droite de votre écran. Le cercle ou le menu principal avec le logo AltspaceVR ouvre l’interface utilisateur principale (IU) ou le menu permettant d’accéder à différents écrans permettant d’explorer AltspaceVR et de personnaliser votre expérience. Les éléments d’interface utilisateur facultatifs se trouvent à la bonne taille de l’écran et incluent généralement l’éditeur de monde et les outils hôtes. Vous pouvez les ouvrir et interagir avec en cliquant dessus avec votre curseur. |
 | SDK/MRE | Il s’agit des conditions générales associées au kit de développement logiciel (SDK) et aux [extensions de réalité mixte](../world-building/using-mixed-reality-extensions.md) utilisées pour ajouter des fonctionnalités et des fonctionnalités à l’expérience de création mondiale. Ils sont généralement destinés aux utilisateurs plus expérimentés. |
 
@@ -103,7 +103,7 @@ Dans la page [événements > mes événements](https://account.altvr.com/events/
 3. **Avancé :** Vous trouverez ci-dessous une explication rapide des fonctionnalités avancées des événements (certaines de ces fonctionnalités ne s’affichent pas tant que l’événement n’a pas été créé et que vous ne modifiez pas l’événement) :
     * **Administrateurs :** Les administrateurs sont des utilisateurs AltspaceVR auxquels vous faites confiance pour vous aider à gérer votre événement. Il peut s’agir de vos cohôtes ou de vos hôtes de sauvegarde. En ajoutant leur nom d’utilisateur à la liste des administrateurs, ils peuvent :
         * Modifiez le titre, la description et d’autres fonctionnalités de l’événement.
-        * Ajoutez et supprimez des rôles contextuels pour les modérateurs, les présentateurs et d’autres rôles.
+        * Ajoutez et supprimez des rôles contextuels pour les modérateurs, les hôtes et les autres rôles.
         * Supprimez l’événement.
     * **Groupe :** Choisissez parmi vos [groupes](group-features.md) privés à l’aide du menu déroulant. S’affiche uniquement si votre compte a été créé ou ajouté à un groupe.
     * **Slogan :** Cette phrase concise s’affiche sur la page Web de l’événement sous le titre.
@@ -119,14 +119,14 @@ Dans la page [événements > mes événements](https://account.altvr.com/events/
 
 3. **ID vidéo YouTube :** Visible sur la page Web de l’événement, cela ajoute des codes de fin ou des vidéos d’événements YouTube à la page Web d’événement, pas dans le monde. Vous n’aurez besoin que de la partie ID vidéo de l’URL : dQw4w9WgXcQ
 4. **Gestionnaire Twitter :** Vous ajoutez ainsi votre flux Twitter à la page Web de l’événement. Si le compte Twitter est personnel et non lié à l’événement ou à l’Association, vous êtes peut-être en cours de partage. Vous n’aurez besoin que du descripteur : @elonmusk
-5. **Rôles contextuels :** C’est là que vous contrôlez les super pouvoirs ou les [rôles contextuels](../world-building/granting-roles.md) de vos hôtes d’événements, présentateurs, modérateurs et autres rôles au sein de l’événement. Pour les ajouter, entrez leur nom d’utilisateur AltspaceVR et affectez-leur un rôle dans le menu déroulant. Pour les supprimer, activez la case à cocher pour supprimer et enregistrer la page Web de l’événement. Remarque : Si vous souhaitez accorder une fonctionnalité de modération de présentateur, vous devez les ajouter en tant que présentateur et modérateur. Les rôles contextuels suivants sont actuellement disponibles :
-    * **Présentateur :** Ajoute les [fonctionnalités de ligne avant](../faqs/front-row-events.md) à l’interface de la personne dans AltspaceVR pour ajouter ces fonctionnalités.
-    * **Modérateur :** Ajoute des fonctionnalités de modération à l’interface d’un individu, y compris la possibilité de texte pour chaque participant, de le désactiver globalement pour l’événement ou de les supprimer de l’événement. Rajoutez le présentateur et donnez-lui des rôles de modération si vous souhaitez qu’ils aient des privilèges de modération.
+5. **Rôles contextuels :** C’est là que vous contrôlez les super pouvoirs ou les [rôles contextuels](../world-building/granting-roles.md) de vos hôtes d’événements, modérateurs et autres rôles au sein de l’événement. Pour les ajouter, entrez leur nom d’utilisateur AltspaceVR et affectez-leur un rôle dans le menu déroulant. Pour les supprimer, activez la case à cocher pour supprimer et enregistrer la page Web de l’événement. Remarque : Si vous souhaitez accorder une fonctionnalité de modération de l’hôte, vous devez les ajouter en tant qu’hôte et modérateur. Les rôles contextuels suivants sont actuellement disponibles :
+    * **Hôte :** Ajoute les [fonctionnalités de ligne avant](../faqs/front-row-events.md) à l’interface de la personne dans AltspaceVR pour ajouter ces fonctionnalités.
+    * **Modérateur :** Ajoute des fonctionnalités de modération à l’interface d’un individu, y compris la possibilité de texte pour chaque participant, de le désactiver globalement pour l’événement ou de les supprimer de l’événement. Rajoutez l’ordinateur hôte et donnez-lui des rôles de modération si vous souhaitez qu’ils aient des privilèges de modération.
     * **Mégaphone uniquement :** Ajoute le bouton amplifier ma voix à leur interface via le bouton outils de l’ordinateur hôte.
     * **Terraformer :** Ajoute le bouton éditeur de monde à leur interface.
     * **Pilote :** Ajoute des fonctionnalités de vol pour cette personne. Remarque : ils doivent activer cette fonctionnalité dans paramètres/entrée/volée
     * **Intervenant musical :** Ajoute des fonctionnalités et des fonctionnalités associées à des événements de concert et de musique.
-6. **Bloquer les utilisateurs listés :** Si vous souhaitez empêcher un utilisateur d’accéder à un utilisateur ou qu’un utilisateur a été précédemment supprimé de l’événement par un modérateur ou un présentateur et l’événement dupliqué, le nom de l’utilisateur indiqué dans le bloc sera listé. Les hôtes d’événements ou les administrateurs peuvent ajouter ou supprimer un blocage de l’utilisateur dans la liste à tout moment.
+6. **Bloquer les utilisateurs listés :** Si vous souhaitez empêcher un utilisateur d’accéder à un utilisateur ou qu’un utilisateur a été précédemment supprimé de l’événement par un modérateur ou un hôte et si l’événement a été dupliqué, le nom de l’utilisateur de la liste rouge apparaîtra dans la liste. Les hôtes d’événements ou les administrateurs peuvent ajouter ou supprimer un blocage de l’utilisateur dans la liste à tout moment.
 
 Une fois le formulaire terminé et triple coché, sélectionnez **créer un événement**.
 

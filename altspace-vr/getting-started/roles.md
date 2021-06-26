@@ -4,12 +4,12 @@ description: En savoir plus sur les différents rôles que vous pouvez attribuer
 ms.date: 03/11/2021
 ms.topic: article
 keywords: rôles, événements, mondes, groupes, promotion
-ms.openlocfilehash: eea759faf4504f62da7ce3d8a757b8dcac28b5a2
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 7434002b9926b424ac08a0f93a368966fefe6606
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212371"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923146"
 ---
 # <a name="roles-in-events-worlds-groups-and-in-altspacevr"></a>Rôles dans les événements, mondes, groupes et AltspaceVR
 
@@ -21,13 +21,13 @@ Vous devez d’abord créer votre événement, puis ajouter les rôles après. U
 
 ### <a name="event-creator-roles"></a>Rôles créateurs d’événements
 
-Lorsque vous créez un événement, vous accédez automatiquement aux rôles Admin, Presenter et modérateur :
+Lorsque vous créez un événement, vous accédez automatiquement à l’administrateur, à l’hôte et aux rôles de modérateur :
 
 * **Administrateur**
     - Tous les outils de gestion des événements via le site Web. Vous pouvez modifier, terminer l’événement, définir sur brouillon, Re-Import monde, dupliquer l’événement, supprimer l’événement et ajouter en tant qu’événement principal (événements publics uniquement).
     - Active l’éditeur de monde dans votre événement : découpage de l’environnement, basculer vers le volant, basculer l’environnement, le mode édition et le panneau de l’éditeur.
 
-* **Présentateur**
+* **Hôte**
     - Active les outils hôtes dans votre événement : activer/désactiver le mode muet-tout, message tout, amplifier ma voix, aller à l’air (événements FrontRow uniquement), activer/désactiver le bloqueur de phase et le panneau hôte.
 
 * **Modérateur** 
@@ -39,11 +39,10 @@ Disponible lorsque vous modifiez l’événement :
 
 | Role | Autorisations |
 |---|---|
-| Hôte ^ | Toutes les mêmes fonctionnalités que le présentateur ci-dessus, y compris les outils d’ordinateur hôte |
+| HBA | Toutes les mêmes fonctionnalités que l’hôte ci-dessus, y compris les outils d’ordinateur hôte |
 | Mégaphone uniquement | Permet à l’utilisateur d’accéder aux outils de l’hôte, mais d’amplifier uniquement ma voix |
 | Modérateur ^ | Identique au rôle de modérateur du créateur d’événements |
 | Pilote | Ajoute des fonctionnalités de vol pour cette personne. Remarque : vous devez activer cette fonctionnalité dans paramètres/entrée/vol |
-| Présentateur ^ | Identique au rôle de présentateur créateur d’événements |
 | Terraformer | Ajoute le bouton éditeur de monde à leur interface |
 
 > [!NOTE]
@@ -51,7 +50,7 @@ Disponible lorsque vous modifiez l’événement :
 
 ### <a name="mid-event-role-promotion"></a>Promotion de rôle Mid-Event
 
-Toute personne disposant du rôle animateur/hôte peut attribuer des rôles aux utilisateurs qui se trouvent dans votre événement, pendant votre événement, à l’aide des outils de l’hôte/panneau de l’hôte/invités/sélectionner un invité :
+Toute personne disposant du rôle hôte peut attribuer des rôles aux utilisateurs qui se trouvent dans votre événement, au cours de votre événement, à l’aide des outils de l’hôte/panneau de l’hôte/invités/sélectionner un invité :
 
 * **Make Host**: donne à cet utilisateur le rôle d’hôte pour le reste de l’événement.
 * **Créer un modérateur**: donne à cet utilisateur le rôle de modérateur pour le reste de l’événement.
@@ -66,7 +65,7 @@ Pour ajouter un administrateur :
 3. Cliquez sur **Ajouter un utilisateur** et ajoutez son nom d’utilisateur. 
 
 > [!NOTE] 
-> Cela leur donne uniquement le rôle d’administrateur. Si vous souhaitez qu’ils aient d’autres rôles (hôte, présentateur, modérateur), ceux-ci doivent être ajoutés comme normal sous des rôles contextuels.
+> Cela leur donne uniquement le rôle d’administrateur. Si vous souhaitez qu’ils aient d’autres rôles (hôte, modérateur), ceux-ci doivent être ajoutés comme normal sous des rôles contextuels.
 
 ### <a name="giving-everyone-in-your-event-a-role"></a>Attribution d’un rôle à tous les membres de votre événement
 
@@ -99,7 +98,7 @@ Disponible lorsque vous modifiez votre monde :
 | Modérateur | Identique au rôle de modérateur World Creator |
 | Intervenant musical |Meilleure qualité audio pour les instruments de Singers ou de jeux de musiciens  |
 | Pilote | Ajoute des fonctionnalités de vol pour cette personne. Remarque : vous devez activer cette fonctionnalité dans paramètres/entrée/vol |
-| Présentateur | Identique au rôle World Creator presenter |
+| Host | Identique au rôle d’hôte créateur de monde |
 | Terraformer | Ajoute le bouton éditeur de monde à leur interface | 
 
 ### <a name="adding-more-admins-to-your-world"></a>Ajout de plus d’administrateurs à votre monde
@@ -107,11 +106,11 @@ Disponible lorsque vous modifiez votre monde :
 Modifiez votre environnement, cliquez sur Options avancées, puis Regardez sous la section avancé pour administrateurs, cliquez sur Ajouter un utilisateur et ajoutez son nom d’utilisateur. 
 
 > [!NOTE] 
-> Cela leur donne uniquement le rôle d’administrateur. Si vous souhaitez qu’ils aient d’autres rôles (hôte, présentateur, modérateur), ceux-ci doivent être ajoutés comme normal sous des rôles contextuels.
+> Cela leur donne uniquement le rôle d’administrateur. Si vous souhaitez qu’ils aient d’autres rôles (hôte, modérateur), ceux-ci doivent être ajoutés comme normal sous des rôles contextuels.
 
 ## <a name="roles-in-groups"></a>Rôles dans des groupes
 
-Vous n’ajoutez pas de rôles de présentateur ou de modérateur à un groupe, mais vous pouvez ajouter des administrateurs pour vous aider à organiser votre groupe. Veillez à ce qu’ils puissent modifier votre groupe, y compris la suppression, assurez-vous que vous faites confiance aux administrateurs que vous ajoutez.
+Vous n’ajoutez pas de rôles d’ordinateur hôte ou de modérateur à un groupe, mais vous pouvez ajouter des administrateurs pour vous aider à organiser votre groupe. Veillez à ce qu’ils puissent modifier votre groupe, y compris la suppression, assurez-vous que vous faites confiance aux administrateurs que vous ajoutez.
 
 ### <a name="adding-more-admins-to-your-group"></a>Ajout d’administrateurs supplémentaires à votre groupe
 

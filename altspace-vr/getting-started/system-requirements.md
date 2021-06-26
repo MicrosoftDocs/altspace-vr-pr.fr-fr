@@ -1,15 +1,15 @@
 ---
 title: Configuration système minimale requise
 description: Restez à jour avec la dernière configuration système requise pour AltspaceVR sur les écrans montés en tête, le rift Oculus et les appareils très vives HTC.
-ms.date: 03/11/2021
+ms.date: 06/03/2021
 ms.topic: article
 keywords: exigences, affichages montés en tête, Rift Oculus, HTC, mode 2D Windows
-ms.openlocfilehash: 2220b876568fa2f5f253c08120d7e5cf0a2e5c50
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212330"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923156"
 ---
 # <a name="minimum-system-requirements"></a>Configuration système minimale requise
 

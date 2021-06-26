@@ -4,12 +4,12 @@ description: Découvrez comment utiliser l’application AltspaceVR, les paramè
 ms.date: 02/10/2021
 ms.topic: article
 keywords: version de l’application
-ms.openlocfilehash: 5d503d3b89cd213696dd53616c5c7e3013aeef01
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212403"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923176"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>Recherche de la version de l’application AltspaceVR
 
@@ -42,8 +42,8 @@ AltspaceVR signale la version de l’application dans le fichier journal du clie
 Sur Windows, vous pouvez trouver le fichier journal du client via l’Explorateur Windows à l’adresse suivante :
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
 Ce fichier est remplacé chaque fois que vous lancez AltspaceVR. 'Player. log’représente la dernière session et’Player-PREV. log’représente la session précédente.

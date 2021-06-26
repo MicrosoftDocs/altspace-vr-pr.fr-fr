@@ -4,22 +4,23 @@ description: Découvrez comment utiliser le projecteur Web pour diffuser du cont
 ms.date: 03/11/2021
 ms.topic: article
 keywords: projecteur Web, flux, navigateur
-ms.openlocfilehash: 4f89757a572ae3d77a7b11f068760268a4089ddd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2c5cb6ef917b7e799b8da3f1a769d77258866992
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212239"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112922996"
 ---
 # <a name="using-the-web-projector-to-stream-a-browser"></a>Utilisation du projecteur Web pour diffuser un navigateur
 
 Le projecteur Web AltspaceVR est une solution de partage de médias robuste qui vous permet de diffuser un onglet de navigateur désigné de votre ordinateur de bureau directement dans AltspaceVR. Il peut être utilisé pour partager des diapositives, des vidéos, des photos et d’autres éléments que vous pouvez ouvrir à partir d’un navigateur. * le projecteur Web nécessite le téléchargement d’une extension de navigateur et est actuellement disponible exclusivement par le biais de l’éditeur du monde. Vous trouverez ci-dessous une vue d’ensemble complète de la fonctionnalité et de son utilisation :
 
-## <a name="requirements"></a>Configuration requise
+## <a name="requirements"></a>Spécifications
 
 1. Vous devez utiliser un PC ou un Mac pour diffuser votre navigateur.
 2. L’extension de navigateur nécessaire est actuellement prise en charge par le navigateur Edge. (Nous travaillons pour développer cette liste.)
 3. Si vous pouvez diffuser en continu à partir d’un ordinateur Mac, le projecteur Web n’est pas encore disponible dans le client Mac AltspaceVR.
+4. Si tout est correctement configuré (connecté à l’extension de navigateur/AltspaceVR avec le même compte, connecté/diffusé avec le projecteur Web dans AltspaceVR) et que vous voyez toujours un écran vert, webprojecter a besoin du port TCP 443 ouvert et de la plage de ports UDP 20000-20400.
 
 > [!NOTE]
 > Cette fonctionnalité est principalement conçue pour diffuser un onglet de navigateur de votre choix. Si vous tentez de diffuser en continu votre application de bureau, le projecteur Web diffuse en continu toutes les données audio de l’ordinateur (y compris AltspaceVR), ce qui peut générer des échos et des commentaires. Vous devez désactiver AltspaceVR pour éviter ce problème. Vous pouvez également utiliser un autre appareil pour exécuter AltspaceVR pendant que vous diffusez en continu à partir de votre ordinateur.
@@ -29,7 +30,7 @@ Le projecteur Web AltspaceVR est une solution de partage de médias robuste qui 
 1. Pour commencer, vous devez télécharger et installer l’extension de navigateur, qui se trouve [ici](https://account.altvr.com/web_projector).
 2. Ensuite, [chargement votre extension dans votre navigateur Edge](https://docs.microsoft.com/microsoft-edge/extensions-chromium/getting-started/extension-sideloading).
     * Une fois le téléchargement terminé, accédez à la section **Extensions** de votre navigateur. (Situé sous **paramètres**)
-    * Décompressez le fichier. zip.
+    * Décompressez le fichier .zip.
     * Basculer en **mode développeur** et sélectionner **charger décompressé**
     * Choisissez le dossier que vous venez de décompressé. Il s’agit de l’extension de projecteur Web.
     * Une fois votre extension ajoutée, vous pouvez accéder à des **Détails** pour configurer vos paramètres.
@@ -41,7 +42,7 @@ Une fois votre extension téléchargée et installée, vous êtes prêt à l’u
 1. Ouvrez un onglet dans votre navigateur Edge et accédez au média que vous souhaitez partager.
 2. Configurez votre fenêtre pour que vous soyez prêt à partager. (Remarque : la totalité de la fenêtre du navigateur sera projetée dans le monde entier)
 3. Recherchez l’extension qui vient d’être installée (qui s’affiche sous la forme d’une icône de AltspaceVR près de votre barre d’URL dans votre navigateur). Sélectionnez AltspaceVR. Vous serez invité à vous connecter à votre compte. (* Remarque : il est important que vous vous connectiez au même compte que celui que vous utiliserez pour configurer votre projecteur Web.)
-4. Une fois que vous êtes connecté, l’écran extension vous offre une option **Démarrer la diffusion en continu** . Sélectionnez-le.
+4. Une fois que vous êtes connecté, l’écran extension vous offre une option **Démarrer la diffusion en continu** . Sélectionnez-la.
 
 ## <a name="projecting-your-browser-in-world"></a>Projection de votre navigateur dans le monde entier
 

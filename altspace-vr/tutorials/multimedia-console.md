@@ -4,12 +4,12 @@ description: Découvrez comment démarrer la configuration, la publication et le
 ms.date: 03/11/2021
 ms.topic: article
 keywords: console, multimédia
-ms.openlocfilehash: 601328eb6f266dbcfc9d81fc4f1c2d09ac62b318
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212238"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923006"
 ---
 # <a name="using-the-multimedia-console"></a>Utilisation de la console multimédia
 
@@ -21,7 +21,7 @@ La prise en main de la console multimédia est un processus en deux parties.  To
 
 ### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Configuration de la console multimédia avec le portail Web
 
-1. Tout d’abord, vous devez vous assurer que votre contenu est hébergé en ligne, car vous aurez besoin d’une URL. (Vous pouvez télécharger des photos sur altvr.com, héberger un fichier Video. MP4 en ligne ou utiliser le lien Twitch Live Stream : https://www.twitch.tv/ninja) 
+1. Tout d’abord, vous devez vous assurer que votre contenu est hébergé en ligne, car vous aurez besoin d’une URL. (Vous pouvez télécharger des photos sur altvr.com, héberger une vidéo .mp4 fichier en ligne ou utiliser un lien Dlive Live Stream : https://dlive.tv/yourlivestream) 
 2. Accédez au portail Web pour la console multimédia à l’adresse [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
 3. À partir du portail Web, vous pouvez générer et publier une configuration pour la console multimédia.  (Voir ci-dessous pour plus d’informations sur les différentes propriétés).
 4. Une fois que vous avez entré le média dans la liste des médias et que vous avez configuré les paramètres généraux, sélectionnez le bouton publier dans la partie supérieure droite de l’application.
@@ -69,10 +69,10 @@ Paramètres de lecture généraux pour la liste des médias
 Attributions de rôles pour le contrôle et la configuration de la console multimédia.    Ces rôles sont décomposés dans l’ensemble suivant :
 
 * **Propriétaire uniquement** : utilisateur propriétaire de la session de la console multimédia
-* **Utilisateurs avec élévation de privilèges** : utilisateurs disposant de rôles de modérateur, d’hôte ou de présentateur dans l’espace dans lequel la console multimédia est configurée à l’origine
+* **Utilisateurs avec élévation de privilèges** : utilisateurs disposant d’un modérateur ou de rôles d’hôte dans l’espace dans lequel la console multimédia est configurée à l’origine
 * **Tous les utilisateurs** -tous les utilisateurs
 
-Ces rôles empilent dans le sens que tous les rôles au-dessus de celui choisi dans cette liste seront également autorisés à utiliser cette fonctionnalité.  Exemple : les **utilisateurs avec élévation de privilèges** incluent le **propriétaire** même s’ils ne sont pas un modérateur, un hôte ou un présentateur * * dans AltspaceVR. Les fonctionnalités contrôlées par les attributions de rôles sont les suivantes :
+Ces rôles empilent dans le sens que tous les rôles au-dessus de celui choisi dans cette liste seront également autorisés à utiliser cette fonctionnalité.  Exemple : les **utilisateurs avec élévation de privilèges** incluent le **propriétaire** même s’ils ne sont pas un modérateur ou un hôte * * dans AltspaceVR. Les fonctionnalités contrôlées par les attributions de rôles sont les suivantes :
 
 * **Peut contrôler le lecteur multimédia** : détermine les rôles qui peuvent contrôler les boutons de lecture du média pour la console multimédia.
 * **Peut configurer le lecteur multimédia** : détermine les rôles qui peuvent configurer la console multimédia en lui accordant l’accès au bouton de **configuration**
@@ -96,6 +96,10 @@ Les vidéos peuvent être des vidéos hébergées ou des flux en direct via Twit
 * **Nom** : nom (obligatoire) avec lequel vous souhaitez identifier la vidéo.
 * **URL** de la vidéo : (obligatoire) URL à partir de laquelle la vidéo est hébergée ou à partir de laquelle le flux en direct est servi.
 * **Ignorer après** : nombre de secondes pendant lesquelles la vidéo doit être ignorée après
+
+> [!NOTE]
+> OBLIGATOIRE : placez dans le temps qui correspond à la longueur de la vidéo pour permettre aux vidéos de se transférer correctement. Par exemple, si votre vidéo dure 5 minutes à 300 secondes, dans le cas contraire, votre vidéo ne passera pas à la partie suivante du contenu.
+
 * **Volume** : volume de la vidéo de 0 (min)-1 (max) valeurs.
 * **Heure de début** : nombre de secondes à partir du début de la vidéo à partir de.
 * **Distance de début** de l’annulation : distance en mètres dans le monde selon laquelle le volume commence à tomber à mesure que vous quittez la console multimédia

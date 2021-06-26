@@ -1,17 +1,17 @@
 ---
-title: Exploration de AltspaceVR
+title: Exploration d’AltspaceVR
 description: Commencez à créer et à héberger des événements virtuels sur la plateforme AltspaceVR avec notre parcours de point de contrôle organisée.
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, réalité virtuelle, événements, génération mondiale, didacticiels
-ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212359"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923056"
 ---
-# <a name="exploring-altspacevr"></a>Exploration de AltspaceVR
+# <a name="exploring-altspacevr"></a>Exploration d’AltspaceVR
 
 ![Image de bannière AltspaceVR](images/altspace-vr-banner.png)
 
@@ -27,8 +27,7 @@ Avant de commencer à créer et à héberger vos propres événements virtuels, 
 | --- | --- |
 | [Configuration système requise](getting-started/system-requirements.md) | Vérifiez que vous disposez des bons outils et de la configuration système requise pour commencer |
 | Installer [Windows Mixed Reality](getting-started/wmr-installation.md) ou [Oculus Quest](getting-started/oculus-installation.md)| Téléchargez et installez la dernière version de Windows Mixed Reality ou Oculus Quest apps |
-| [Inscrire un compte AltspaceVR](getting-started/registration.md) | Créer et s’inscrire pour un compte directement à l’intérieur de l’application AltspaceVR |
-| [Lier votre compte Microsoft](getting-started/linking-microsoft-account.md) | Intégrez vos compte Microsoft pour accéder à vos produits et services Microsoft préférés à l’aide d’une seule connexion |
+| [Créer et lier un compte AltspaceVR](getting-started/creating-and-linking-accounts.md) | Créez et inscrivez un compte directement à l’intérieur de l’application AltspaceVR et liez-le à votre compte Microsoft|
 
 ## <a name="2-getting-comfortable"></a>2. Familiarisez-vous avec
 
@@ -92,7 +91,7 @@ Si vous avez des difficultés à créer des événements, de l’audio, de l’a
 
 AltspaceVR est une communauté et nous aimerions vous joindre. Prenez une minute pour examiner les normes de la Communauté, les conditions de service, la politique de confidentialité et abonnez-vous à notre bulletin d’informations pour obtenir les dernières informations.
 
-* [Normes de la communauté](community/community-standards.md)
+* [Standards de la communauté](community/community-standards.md)
 * [Conditions de service AltspaceVR](community/terms-of-service.md)
 * [Politique de confidentialité Microsoft](https://privacy.microsoft.com/privacystatement)
-* [S’abonner à notre bulletin d’informations](community/newsletter-subscriptions.md)
+* [S’inscrire à notre newsletter](community/newsletter-subscriptions.md)
