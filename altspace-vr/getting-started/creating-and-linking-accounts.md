@@ -1,17 +1,26 @@
 ---
 title: Création et liaison de votre compte AltspaceVR
 description: Obtenir des instructions pas à pas sur la création d’un compte AltspaceVR et la liaison d’un compte AltspaceVR existant à un compte Microsoft.
-ms.date: 05/18/2021
+ms.date: 06/25/2021
 ms.topic: article
-keywords: inscription, compte, création de compte, liaison de comptes, comptes Microsoft, FAQ, dépannage, mode 2D, mode VR
-ms.openlocfilehash: f6009a868810f566590d076b3aa5606c885697b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: inscription, compte, création de compte, liaison de comptes, comptes Microsoft, FAQ, dépannage, mode 2D, mode VR, nom d’utilisateur, affichage, nom
+ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
+ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961244"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "112975838"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Création et liaison de votre compte AltspaceVR
+
+## <a name="disclaimer-regarding-account-linking"></a>Exclusion de responsabilité concernant la liaison de compte
+
+Vous trouverez ci-dessous les différentes façons de créer et de lier votre compte AltspaceVR.
+
+Lorsque vous créez ou mettez à jour votre compte, gardez à l’esprit qu’il existe toujours des fonctionnalités qui requièrent un mot de passe AltspaceVR.
+
+Si vous avez créé un compte avec MSA et que vous n’avez pas de mot de passe AltspaceVR, connectez-vous https://www.altvr.com/ , accédez à votre profil, puis cliquez sur « se déconnecter et obtenir un nouveau mot de passe ».
+
 
 ## <a name="how-to-create-an-account-in-vr"></a>Comment créer un compte dans VR
 
@@ -88,9 +97,11 @@ Non, votre nom d’utilisateur peut partager le même nom complet que d’autres
 
 **Comment puis-je modifier le nom d’utilisateur ou le nom d’affichage ?**
 
-Si vous souhaitez modifier le nom d’utilisateur associé à votre compte, [envoyez-nous un ticket](https://help.altvr.com/hc/requests/new). Veillez à inclure l’adresse de messagerie associée à votre compte, votre nom actuel et le nom d’utilisateur que vous souhaitez utiliser à l’avenir.
+Pour modifier le **nom d’utilisateur ou le nom d’affichage**, connectez-vous à altvr.com, sélectionnez l’icône de votre profil dans le coin supérieur droit, le profil utilisateur, modifiez et mettez à jour votre nom d’utilisateur ou nom d’affichage. 
 
-Pour modifier votre **nom d’affichage**, connectez-vous à altvr.com, sélectionnez l’icône de votre profil dans le coin supérieur droit, profil utilisateur, modifier et mettre à jour le nom d’affichage.
+*Remarque : vous ne pourrez modifier votre nom d’utilisateur qu’une seule fois. À tout moment après cela, vous devrez envoyer un ticket de support.*
+
+Si vous souhaitez modifier le nom d’utilisateur associé à votre compte, [envoyez-nous un ticket](https://help.altvr.com/hc/requests/new). Veillez à inclure l’adresse de messagerie associée à votre compte, votre nom actuel et le nom d’utilisateur que vous souhaitez utiliser à l’avenir.
 
 **Mon menu est vide et je ne parviens pas à m’inscrire, que puis-je faire ?**
 
