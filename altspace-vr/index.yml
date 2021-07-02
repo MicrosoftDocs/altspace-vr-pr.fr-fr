@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: Prise en main
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: Découvrir le contenu et les personnes
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: Configuration et installation
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: Inscription d’un compte
-        - url: getting-started/linking-microsoft-account.md
-          text: "Liaison des comptes\_Microsoft"
+        - url: getting-started/creating-and-linking-accounts.md
+          text: Création et liaison de votre compte
         - url: getting-started/wmr-installation.md
           text: "Installation de Windows\_Mixed\_Reality"
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Installation d’Oculus Quest
         - url: getting-started/oculus-controls.md
-          text: Installation d’Oculus Quest
+          text: Commandes Oculus Quest
     - title: Création et hébergement d’événements
       imageSrc: images/icon-events.png
       links:
