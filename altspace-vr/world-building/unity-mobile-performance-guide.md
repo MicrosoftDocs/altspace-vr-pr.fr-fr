@@ -4,12 +4,12 @@ description: Découvrez comment utiliser diverses propriétés Unity pour rendre
 ms.date: 04/20/2021
 ms.topic: article
 keywords: éditeur universel, performance, Oculus, Quest, Unity, textures, lightmaps, stats, profiler, appels de dessin, altspacevr, téléchargeur
-ms.openlocfilehash: 9d6afba6fff85adfaa2ba290916f25c84c5377cd
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
+ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961227"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113634290"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>Guide des performances mobile AltspaceVR
 
@@ -23,11 +23,11 @@ ms.locfileid: "112961227"
 * **Utilisez les nuanceurs de qualité Mobile** (c’est-à-dire « mobile/diffuse », etc.), évitez les sondes standard/de nuanceur/PBR/reflet standard Unity, car il s’agit d’opérations lourdes et, dans le cas des sondes, ajoutera des appels de dessin.
 * **Moins de 100 000 triangles** à l’écran
 * L' **élimination des occlusions** peut aider à réduire les polygones à l’écran, bien qu’il y ait un coût initial pour activer l’élimination des occlusions, ce qui mesure l’effet sur la cadence dans Altspace à l’aide du panneau Diagnostics.
-* Pour toutes les **textures** dans une scène, utilisez **« override pour Android »** et affectez-leur le **format de bloc ASTC 6X6 compressé RVB (a)**.  Laissez la compression des paramètres de build Android à la valeur par défaut (trouvée dans : paramètres de fichier/Build/Android/compression de texture : 'ne pas remplacer'), afin que lightmaps n’obtient pas la compression ASTC.  En procédant de la façon décrite ci-dessus, et en partageant des documents entre les objets, nous essayons de conserver le package Unity de notre scène à environ **10-20 Mo pour Android**.
+* Pour toutes les **textures** dans une scène, utilisez **« override pour Android »** et affectez-leur le **format de bloc ASTC 6X6 compressé RVB (a)**.  laissez votre Build Android Paramètres la compression à la valeur par défaut (trouvée dans : fichier/build Paramètres compression/Android/Texture : 'ne pas remplacer'), afin que Lightmaps n’obtient pas la compression ASTC.  En procédant de la façon décrite ci-dessus, et en partageant des documents entre les objets, nous essayons de conserver le package Unity de notre scène à environ **10-20 Mo pour Android**.
 
 L’objectif général est d’atteindre une cadence acceptable entre les appareils : sur Oculus Quest 1 et 2, idéalement, la scène s’exécutera à 72 FPS à partir de tous les points de bourré lorsque la scène est remplie, bien qu’une plage de 60-72 FPS soit souvent plus réaliste.
 
-La cadence peut être mesurée dans AltspaceVR sur l’appareil que vous utilisez (situé dans l’application AltspaceVR sous **Paramètres/support/afficher le panneau diagnostic/fps**).
+la cadence peut être mesurée dans AltspaceVR sur l’appareil que vous utilisez (situé dans l’application AltspaceVR sous **Paramètres panneau de diagnostic/Support/Show/FPS**).
 
 Un récapitulatif des outils Unity standard disponibles pour vous aider à optimiser vos scènes :
 
@@ -81,6 +81,8 @@ Un récapitulatif des outils Unity standard disponibles pour vous aider à optim
 En outre, comme référence, voici quelques paramètres qui ont été utilisés pour l’environnement d’effet de la porte d’écran :
 
 ![Fenêtre d’éclairage dans Unity](images/world-building-lightmaps.png)
+
+Remarque : Si vous utilisez ces paramètres, vous pouvez définir Lightmapper sur « GPU Lightmapper » et définir la taille de lightmap sur « 2048 » pour obtenir des préversions de préversion beaucoup plus rapides, puis sauvegarder sur le processeur et 4 Ko pour votre cuisson finale.
 
 ## <a name="texture-compressionfile-size"></a>**Compression de texture/taille de fichier**
 
