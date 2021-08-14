@@ -4,12 +4,12 @@ description: En savoir plus sur les champs du journal client disponibles et sur 
 ms.date: 02/10/2021
 ms.topic: article
 keywords: journaux client
-ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a9e937c99a69139cd2b91372ef7b36180c55574f6b34d99f59a2a099b92c4081
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121210"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>Comment faire télécharger mes journaux client ?
 
@@ -19,18 +19,18 @@ L’application cliente AltspaceVR conserve un journal des données de diagnosti
 
 Pour télécharger les journaux du client dans AltspaceVR, accédez au **menu paramètres** et sélectionnez **prise en charge** dans la barre de navigation de gauche. Plusieurs options de téléchargement des journaux sont disponibles ici, comme indiqué dans la capture d’écran ci-dessous.
 
-![Menu paramètres avec le volet de support ouvert et les champs de journal mis en surbrillance](images/help-altvr-uploadlogs.png)
+![menu Paramètres avec le volet de support ouvert et les champs de journal mis en surbrillance](images/help-altvr-uploadlogs.png)
 
 ## <a name="fields"></a>Champs
 
 **« Que s’est-il passé ? »**
 Décrivez ce qui s’est passé : par exemple, si vous trouvez un bogue, décrivez ce que vous attendiez à ce qu’il s’est effectivement produit. Ces informations sont envoyées avec le journal lorsque vous appuyez sur Télécharger.
 
-**« Charger les journaux »** Ce bouton permet de charger les journaux à partir de la session active. Utilisez cette option si vous rencontrez un problème dans cette même session (par exemple, si vous n’avez pas fermé le client AltspaceVR) et que vous souhaitez le signaler.
+**« journaux de Télécharger »** Ce bouton permet de charger les journaux à partir de la session active. Utilisez cette option si vous rencontrez un problème dans cette même session (par exemple, si vous n’avez pas fermé le client AltspaceVR) et que vous souhaitez le signaler.
 
 **« Télécharger les derniers journaux »** Ce bouton permet de charger les journaux à partir de la session précédente.
 
-**« Télécharger le dernier journal des incidents »** Ce bouton permet de charger plus de contenu du journal à partir de l’incident le plus récent que vous avez rencontré.
+**« Télécharger dernier journal des incidents »** Ce bouton permet de charger plus de contenu du journal à partir de l’incident le plus récent que vous avez rencontré.
 
 ## <a name="in-client-logs"></a>Dans les journaux client
 

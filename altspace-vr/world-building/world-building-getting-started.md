@@ -4,12 +4,12 @@ description: Découvrez des instructions pas à pas sur la façon de créer et d
 ms.date: 03/11/2021
 ms.topic: article
 keywords: monde entier, partage
-ms.openlocfilehash: 56b3f942c7288e4dd10a096205a412f796704c78
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e8f95adc0e8c14007313132cd2b0dba89516dd06d98adf59bfd62a00dd3dadee
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212423"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125780"
 ---
 # <a name="creating-your-first-altspacevr-world"></a>Création de votre premier AltspaceVR World
 

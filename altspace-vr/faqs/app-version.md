@@ -4,12 +4,12 @@ description: Découvrez comment utiliser l’application AltspaceVR, les paramè
 ms.date: 02/10/2021
 ms.topic: article
 keywords: version de l’application
-ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: fbf67a8302a67ddb916772420949cf0509a0d4a60c472711975c651862438b93
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923176"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128250"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>Recherche de la version de l’application AltspaceVR
 
@@ -19,13 +19,13 @@ Au cours de la résolution d’un problème, vous pouvez être invité à indiqu
 
 Pour trouver la version de l’application dans AltspaceVR, accédez au **menu paramètres** et sélectionnez **à propos** de dans la barre de navigation de gauche. La version de l’application est indiquée ici, comme indiqué dans la capture d’écran ci-dessous.
 
-![Menu paramètres ouvert avec à propos du panneau ouvert](images/app-version-img-01.png)
+![Paramètres menu ouvert avec à propos du panneau ouvert](images/app-version-img-01.png)
 
-## <a name="in-windows-system-settings"></a>Dans les paramètres système Windows
+## <a name="in-windows-system-settings"></a>dans Windows Paramètres système
 
-Si vous avez installé AltspaceVR via la Microsoft Store, vous pouvez également trouver la version de l’application dans les paramètres système Windows.  Ce scénario est adapté lorsque vous signalez la version de l’application si vous ne parvenez pas à vous connecter au client.
+si vous avez installé AltspaceVR via la Microsoft Store, vous pouvez également trouver la version de l’application dans les paramètres du système Windows.  Ce scénario est adapté lorsque vous signalez la version de l’application si vous ne parvenez pas à vous connecter au client.
 
-Pour rechercher la version de l’application dans les paramètres système Windows, ouvrez le **menu Démarrer**, tapez dans **applications & fonctionnalités**, puis sélectionnez le résultat. Accédez à **AltspaceVR** dans la liste des applications. Cliquez sur AltspaceVR et sélectionnez **Options avancées** dans le menu qui s’affiche.
+pour trouver la version de l’application dans Windows paramètres système, ouvrez le **Menu démarrer**, tapez **applications & fonctionnalités**, puis sélectionnez le résultat. Accédez à **AltspaceVR** dans la liste des applications. Cliquez sur AltspaceVR et sélectionnez **Options avancées** dans le menu qui s’affiche.
 
 ![Menu applications et fonctionnalités ouvert avec l’option avancé mise en surbrillance](images/app-version-img-02.png)
 
@@ -39,7 +39,7 @@ AltspaceVR signale la version de l’application dans le fichier journal du clie
 
 ## <a name="windows"></a>Windows
 
-Sur Windows, vous pouvez trouver le fichier journal du client via l’Explorateur Windows à l’adresse suivante :
+sur Windows, le fichier journal du client est accessible via Windows Explorer à l’adresse suivante :
 
 ```
 %userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log

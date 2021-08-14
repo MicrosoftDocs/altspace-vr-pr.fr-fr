@@ -4,18 +4,18 @@ description: Obtenir des instructions à jour sur le classement des rapports d�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: rapports, problèmes
-ms.openlocfilehash: b2b7a5818b068dde6252dade072d5f7625bc35dc
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: c3bab1b520998ec8dd77ca92c2eedcaae7158551aecc190d0654795d8b26db57
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212602"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126504"
 ---
 # <a name="filing-an-abuse-report"></a>Classement d’un rapport d’abus
 
-Dans AltspaceVR, votre confort et votre sécurité sont une priorité de premier plan. Nous n’avons pas effectué de conversions des actes ou comportements offensants, dérogatoires ou inappropriés. Le fait de classer un rapport d’abus vous permet de faire savoir à notre équipe de modération tout utilisateur ou contenu en violation de nos normes ou conditions d’utilisation de la communauté.
+Dans AltspaceVR, votre confort et votre sécurité sont une priorité de premier plan. Nous n’avons pas effectué de conversions des actes ou comportements offensants, dérogatoires ou inappropriés. le classement d’un rapport d’abus vous permet de faire savoir à notre équipe de modération tout utilisateur ou contenu en violation de nos normes de Community ou de vos conditions d’utilisation.
 
-Prenez un moment pour passer en revue nos normes et [conditions d’utilisation de](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)la [communauté](community-standards.md) , afin de déterminer si les actions de l’individu enfreignent notre prévision de comportement de l’utilisateur. Si vous pensez qu’elle ne garantit pas notre attention, [Signalez un rapport d’abus](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154). Veillez à fournir un compte détaillé de votre expérience, une orthographe exacte de tous les noms d’affichage et noms d’utilisateur pertinents, ainsi que la spécification du moment où l’instance d’abus s’est produite. 
+prenez un moment pour passer en revue nos [normes de Community](community-standards.md) et [conditions d’utilisation](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20), afin de déterminer si les actions des individus enfreignent notre prévision de comportement de l’utilisateur. Si vous pensez qu’elle ne garantit pas notre attention, [Signalez un rapport d’abus](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154). Veillez à fournir un compte détaillé de votre expérience, une orthographe exacte de tous les noms d’affichage et noms d’utilisateur pertinents, ainsi que la spécification du moment où l’instance d’abus s’est produite. 
 
 Nous allons suivre le cas échéant et prendre les mesures nécessaires pour maintenir les AltspaceVR dans la mesure où les gens se sentent sûrs et sont libres de communiquer avec d’autres utilisateurs. Dans le cadre de notre politique de confidentialité, nous ne vous informerons pas de nos décisions ou de l’état d’un compte individuel.
 

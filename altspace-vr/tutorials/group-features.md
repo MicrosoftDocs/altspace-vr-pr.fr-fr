@@ -4,19 +4,19 @@ description: Découvrez comment créer des espaces privés de VR qui sont ouvert
 ms.date: 03/11/2021
 ms.topic: article
 keywords: groupes, événements privés, patreon, Eventbrite, résolution des problèmes
-ms.openlocfilehash: f53bddd27a573016d882ee33086867dc51915658
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0599792b6dd5ea73a3f4c15b00cdee36dea5ceaab3fc646ef0f72e965e0cbad2
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212153"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126606"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Utilisation de la fonctionnalité groupes pour créer des événements privés
 
 Notre fonctionnalité de groupes offre aux hôtes la possibilité de créer un espace de VR ouvert à une liste approuvée d’invités. Les hôtes peuvent ajouter manuellement les noms d’utilisateur/courriers AltspaceVR auxquels ils souhaitent accorder l’accès à leur espace. Voici comment vous pouvez utiliser cette fonctionnalité pour héberger des événements, des réunions et des conférences :
 
 > [!NOTE]
-> Avant de pouvoir accéder aux « groupes », vous devez vous abonner aux fonctionnalités d’accès anticipé en vous connectant à altvr.com, en modifiant votre profil utilisateur sur le site Web et en sélectionnant accès en avant. Ou à l’intérieur de l’application AltspaceVR, paramètres, général, participez au programme d’accès anticipé.
+> Avant de pouvoir accéder aux « groupes », vous devez vous abonner aux fonctionnalités d’accès anticipé en vous connectant à altvr.com, en modifiant votre profil utilisateur sur le site Web et en sélectionnant accès en avant. ou à l’intérieur de l’application AltspaceVR, Paramètres, général, participez au programme d’accès anticipé.
 
 1. Dans votre navigateur, accédez à  [https://altvr.com](https://altvr.com)   et connectez-vous à votre compte. 
 2. Recherchez le menu déroulant **plus** .
@@ -79,25 +79,25 @@ Utilisez un programme de feuille de calcul pour créer une colonne unique avec t
 
 1. Créez ou modifiez votre groupe.  
 2. Recherchez le champ **e-mails des membres** .  
-3. Recherchez l’option **Choose file (choisir un fichier** ) pour importer vos courriers électroniques à partir d’un fichier *. csv.
+3. Recherchez l’option **Choose file (choisir un fichier** ) pour importer vos courriers électroniques à partir d’un fichier * .csv.
 4. Votre liste doit être importée avec un e-mail par ligne.
 
 > [!NOTE]
-> Si vous le souhaitez, vous pouvez également copier et coller des courriers électroniques dans le champ au lieu d’importer à partir d’un fichier *. csv.
+> Si vous le souhaitez, vous pouvez également copier et coller des courriers électroniques dans le champ au lieu d’importer à partir d’un fichier * .csv.
 
 ### <a name="importing-a-list"></a>Importation d’une liste
 
-Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un fichier *. csv (valeur séparée par des virgules) qui a une colonne « adresse de messagerie » dédiée.Vous pouvez sélectionner cette colonne pour l’utiliser.Une fois que cette opération est disponible, les étapes sont essentiellement les mêmes :  
+Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un fichier * .csv (valeur séparée par des virgules) qui a une colonne « adresse de messagerie » dédiée.Vous pouvez sélectionner cette colonne pour l’utiliser.Une fois que cette opération est disponible, les étapes sont essentiellement les mêmes :  
 
 1. Créez ou modifiez votre groupe.  
 2. Recherchez le champ **e-mails des membres** .  
-3. Recherchez l’option **Choose file (choisir un fichier** ) pour importer vos courriers électroniques à partir d’un fichier *. csv.
+3. Recherchez l’option **Choose file (choisir un fichier** ) pour importer vos courriers électroniques à partir d’un fichier * .csv.
 4. Votre liste doit être importée avec un e-mail par ligne.
 
 > [!NOTE]
-> Si vous le souhaitez, vous pouvez également copier et coller des courriers électroniques dans le champ au lieu d’importer à partir d’un fichier *. csv.
+> Si vous le souhaitez, vous pouvez également copier et coller des courriers électroniques dans le champ au lieu d’importer à partir d’un fichier * .csv.
 
-## <a name="faq"></a>Forum aux questions 
+## <a name="faq"></a>Questions fréquentes (FAQ) 
 
 ### <a name="im-having-trouble-filling-out-the-fields-in-groups-what-do-they-mean"></a>Je ne parviens pas à renseigner les champs dans des groupes. Qu’est-ce que cela signifie ?
 
@@ -133,7 +133,7 @@ Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un
     * Lorsque vous renseignez ce champ, assurez-vous que le courrier électronique associé à votre compte AltspaceVR est listé ou que vous risquez de perdre l’accès au groupe.  
     * Lorsque vous collez des adresses dans son champ, assurez-vous qu’un seul message électronique par ligne est présent.  
     * Cette liste accepte les courriers électroniques sans compte AltspaceVR valide.Les noms d’utilisateur AltspaceVR sont vérifiés, les adresses de messagerie ne le sont pas. Toutefois, lorsque ce courrier électronique est utilisé pour créer un compte AltspaceVR, l’utilisateur auquel il est associé peut accéder au groupe.  
-    * Vous pouvez importer une liste à partir d’un fichier *. csv. Sélectionnez l’option « choisir un fichier » et sélectionnez votre fichier.
+    * Vous pouvez importer une liste à partir d’un fichier * .csv. Sélectionnez l’option « choisir un fichier » et sélectionnez votre fichier.
     * Nous vous recommandons d’utiliser des E-mails de membre pour gérer les groupes créés à partir de plateformes de paiement telles que Patreon ou Eventbrite, car il s’agit d’un moyen plus définitif de concilier vos membres.Notez que les administrateurs de groupe doivent informer leurs utilisateurs/membres qu’ils doivent utiliser la même adresse de messagerie exacte qu’ils ont utilisée sur la plateforme de paiement pour créer un compte AltspaceVR.  
     * Pour obtenir des instructions sur l’obtention de votre liste d’utilisateurs, consultez la section importation d’utilisateurs dans des groupes.   
 * **Activer l’importation automatique**   – L’importation automatique est un processus périodique exécuté dans la liste d’autorisation de courrier électronique. Il rapproche si un compte de AltspaceVR valide est associé à un message électronique et accorde l’accès.   

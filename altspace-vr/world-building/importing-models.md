@@ -1,17 +1,17 @@
 ---
-title: Importation de modèles glTF
+title: Importation des modèles glTF
 description: Découvrez comment importer correctement des modèles glTF 3D dans vos expériences AltspaceVR et résoudre les problèmes.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: modèles, glTF, importation, sketchfab, résolution des problèmes
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212434"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127058"
 ---
-# <a name="importing-gltf-models"></a>Importation de modèles glTF
+# <a name="importing-gltf-models"></a>Importation des modèles glTF
 
 > [!NOTE]
 > Cette fonctionnalité est disponible pour les utilisateurs sélectionnés dans le programme d’accès anticipé à l’heure actuelle.
@@ -44,7 +44,7 @@ L’une des façons de placer des modèles et des scènes 3D dans Altspace consi
 
 Félicitations ! Vous venez de générer votre premier modèle.
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Lorsque j’ai cliqué sur **confirmer** , rien ne s’est produit**
     * Nous avons actuellement une limite de 100 000 polygone. En cas d’échec, supprimez l’objet pour éviter des problèmes potentiels avec les utilisateurs qui rejoignent votre monde

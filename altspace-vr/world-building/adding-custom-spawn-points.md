@@ -4,12 +4,12 @@ description: Découvrez comment créer, ajouter et dépanner vos points de gén�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: spawnpoint, résolution des problèmes
-ms.openlocfilehash: 0f53bdc229eb21e50edef34981c592556236fc55
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 53ff2e60d929aed9be5650b132da6d1dab8e6f1c5a78425dc5f17c10f2c4dfdb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212221"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127257"
 ---
 # <a name="adding-custom-spawn-points"></a>Ajout de points de génération personnalisés
 
@@ -23,15 +23,15 @@ Les personnes qui entrent dans votre monde peuvent **générer** ou apparaître 
 
 ![Mettre à jour les points de génération dans le monde des paramètres de l’éditeur](images/spawn-points-img-02.png)
 
-3. Entrez à nouveau votre univers via les **paramètres de > de Menu > général > entrer à nouveau l’espace >**
+3. entrez à nouveau votre univers via le **Menu > Paramètres > général > entrer à nouveau l’espace >**
 4. Vous devez générer votre nouveau point de génération !
 5. Si vous souhaitez que les gens fassent face à une direction différente, sélectionnez les paramètres du point de génération et définissez la **Rotation > Y** uniquement. Essayez d’affecter la valeur 180 à X et Z à 0 (AVERTISSEMENT : X et Z sont avancés peuvent rendre les personnes malades). Sélectionnez ensuite **confirmer** et entrez de nouveau le monde. Cela devrait vous faire face à la direction opposée. 
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Les gens génèrent toujours à l’origine ?**
     * Assurez-vous que vos points de génération sont légèrement au-dessus du sol ou de la surface. Si le point de génération chevauche d’autres objets, les personnes génèrent à l’emplacement par défaut, l’origine. Cela peut se produire si le point de génération à l’intérieur d’un objet et la hauteur de la personne varient. 
-    * Essayez de réinitialiser votre environnement via le **Menu > paramètres > l’espace de réinitialisation modérée >**
+    * essayez de réinitialiser votre environnement via le **Menu > Paramètres > l’espace de réinitialisation > modéré**
 
 **Vous avez plusieurs points de Spawn, tout en continuant de générer le même emplacement ?**
 Vous êtes peut-être Unlucky--il est aléatoire après tout. Essayez une entrée de nouveau au moins cinq fois avant de supposer qu’il y a une erreur. 

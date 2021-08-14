@@ -4,12 +4,12 @@ description: Obtenir des instructions pas à pas sur le téléchargement et la r
 ms.date: 03/11/2021
 ms.topic: article
 keywords: skyboxes, résolution des problèmes
-ms.openlocfilehash: 02d5bc762dc36d4195100e8155d6250789e833f7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 912df5a4c87b7a5817824c6ee75ec8707439636b83b4d46996bbc4129ee6e9de
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212435"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126791"
 ---
 # <a name="uploading-custom-skyboxes"></a>Téléchargement de skyboxes personnalisés
 
@@ -34,11 +34,11 @@ Vous pouvez également utiliser le [chargeur Unity](world-building-toolkit-getti
 
 4. Accédez à votre monde et ouvrez l’éditeur de monde. Sous skyboxes, sélectionnez votre nouveau skybox. En quelques secondes, le ciel change littéralement. D’autres dans votre monde voient également la modification du ciel. Pour revenir en arrière, choisissez le skybox **par défaut** dans cette même liste. 
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Il y a une couture ou une ligne dans le ciel :-(.** Il s’agit d’un bogue que nous corrigerons bientôt
 
-**Échec du chargement**
+**échec de la Télécharger**
     * essayez de charger uniquement l’image 360 seule
     * Essayez avec un autre fichier plus petit comme un test
 

@@ -3,13 +3,13 @@ title: Attribution de rôles de monde
 description: Découvrez le système de rôles et de capacités et obtenez des instructions pas à pas pour donner aux utilisateurs des rôles dans vos mondes AltspaceVR.
 ms.date: 04/14/2021
 ms.topic: article
-keywords: roles
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: Rôles
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127116"
 ---
 # <a name="granting-world-roles"></a>Attribution de rôles de monde
 

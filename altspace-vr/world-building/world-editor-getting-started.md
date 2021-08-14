@@ -1,17 +1,17 @@
 ---
-title: Prise en main de l’éditeur de monde
+title: Bien démarrer avec l’Éditeur de monde
 description: Découvrez comment utiliser l’éditeur AltspaceVR World pour générer, manipuler et placer des objets dans vos mondes.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: éditeur de monde
-ms.openlocfilehash: 6fa55de4e95c7cfee4cc771f1fe4e7ff8c67350b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: da0bfc3f9df9ba17388dc68ce5776c6ae9433274d77511efd18b70cfc7eeffc6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212523"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125899"
 ---
-# <a name="getting-started-with-the-world-editor"></a>Prise en main de l’éditeur de monde
+# <a name="getting-started-with-the-world-editor"></a>Bien démarrer avec l’Éditeur de monde
 
 L’éditeur mondial contient les outils et les capacités dont vous avez besoin pour générer, manipuler et placer des objets et des éléments pour construire un monde. Elle dépend du rôle, ce qui signifie que vous pouvez accéder à l’éditeur de monde uniquement dans les endroits que vous souhaitez personnaliser, comme votre espace de résidence, vos événements ou vos mondes. Dans ces espaces, votre éditeur de monde s’affiche dans le coin inférieur droit de votre champ de vue.
 
@@ -49,7 +49,7 @@ Utilisez le bouton **basculer l’environnement** pour masquer ou afficher votre
 
 ![Bouton Activer/désactiver l’environnement pour masquer ou afficher l’espace](images/world-editor-img-08.png)
 
-Utilisez votre bouton **basculer le vol** pour activer la fonction de Relevez de gravité. Qui a besoin d’une génération de modèles automatique lorsque vous parcourez le skie ? Utilisez cette fonctionnalité pour faire passer votre « site de construction » au niveau supérieur. Le volant est simple : il vous suffit de regarder dans la direction à laquelle vous souhaitez accéder et d’utiliser vos touches d’accès rapide (ou le stick analogique sur le contrôleur) pour y parvenir. 
+Utilisez votre bouton **basculer le vol** pour activer la fonction de Relevez de gravité. Qui avez besoin d’une génération de modèles automatique lorsque vous parcourez le skie ? Utilisez cette fonctionnalité pour faire passer votre « site de construction » au niveau supérieur. Le volant est simple : il vous suffit de regarder dans la direction à laquelle vous souhaitez accéder et d’utiliser vos touches d’accès rapide (ou le stick analogique sur le contrôleur) pour y parvenir. 
 
 Utilisez le bouton de **découpage** de votre environnement pour passer facilement d’un objet à l’autres, ce qui vous permet de vous déplacer dans l’espace 3D sans avoir à franchir les éléments de votre monde. La possibilité de découper les éléments et les murs vous offre une liberté de mouvement totale, ce qui vous permet d’obtenir un environnement parfaitement détaillé.  
 

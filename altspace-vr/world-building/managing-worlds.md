@@ -4,12 +4,12 @@ description: Apprenez à créer, gérer et promouvoir vos mondes AltspaceVR et �
 ms.date: 03/11/2021
 ms.topic: article
 keywords: mondes, fonctionnalités
-ms.openlocfilehash: 48a294efb151461d79d707b66aeeeaa47528d2f8
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f5faab6311a245035a374060ef6306dd0f2b469970ccbea8df999c72721f321
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212495"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125609"
 ---
 # <a name="managing-worlds"></a>Gestion des mondes
 

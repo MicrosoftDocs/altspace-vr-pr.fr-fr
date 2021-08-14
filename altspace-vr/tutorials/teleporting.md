@@ -4,12 +4,12 @@ description: Découvrez comment vous déplacer d’un événement ou d’un mond
 ms.date: 03/11/2021
 ms.topic: article
 keywords: téléporteur
-ms.openlocfilehash: afc199e958824bb5f0a9ff6d74865cbcd3f16868
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79c5b09e1643a70939ba1e967a948ac6c80c2b615bce9eef598d0e07b7722ea3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212510"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126181"
 ---
 # <a name="using-the-teleporter"></a>Utilisation du téléportateur
 
@@ -45,7 +45,7 @@ Vous pouvez sélectionner l’option sur le téléporteur à l’aide de votre c
 
 Si vous créez une conférence, un sommet ou un événement plus grand en utilisant une ligne de base avec un monde personnalisé (par exemple, un modèle de fondation, un modèle d’espace de téléchargeur Unity, Re-Import monde), vous devez configurer le téléportateur dans le monde de la Fondation et non pas dans l’événement réel. Assurez-vous que vous configurez le téléporteur pour vous déplacer vers le bon événement (qui doit figurer dans la liste récente) dans le monde de la Fondation, puis Re-Import monde dans l’éventualité de faire apparaître les téléporteurs dans tous les espaces d’événements de ligne avant.
 
-## <a name="faqs"></a>Foire aux questions
+## <a name="faqs"></a>FAQ
 
 **Erreur : «Désolé, nous aimerions, mais nous ne pouvons pas vous laisser ici**
 

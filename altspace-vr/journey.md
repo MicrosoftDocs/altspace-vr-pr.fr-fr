@@ -4,12 +4,12 @@ description: Commencez à créer et à héberger des événements virtuels sur l
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace, réalité virtuelle, événements, génération mondiale, didacticiels
-ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923056"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126446"
 ---
 # <a name="exploring-altspacevr"></a>Exploration d’AltspaceVR
 
@@ -26,7 +26,7 @@ Avant de commencer à créer et à héberger vos propres événements virtuels, 
 |  Point de contrôle  |  Résultat  |
 | --- | --- |
 | [Configuration système requise](getting-started/system-requirements.md) | Vérifiez que vous disposez des bons outils et de la configuration système requise pour commencer |
-| Installer [Windows Mixed Reality](getting-started/wmr-installation.md) ou [Oculus Quest](getting-started/oculus-installation.md)| Téléchargez et installez la dernière version de Windows Mixed Reality ou Oculus Quest apps |
+| installer [Windows Mixed Reality](getting-started/wmr-installation.md) ou [Oculus Quest](getting-started/oculus-installation.md)| télécharger et installer la dernière version de Windows Mixed Reality ou Oculus Quest apps |
 | [Créer et lier un compte AltspaceVR](getting-started/creating-and-linking-accounts.md) | Créez et inscrivez un compte directement à l’intérieur de l’application AltspaceVR et liez-le à votre compte Microsoft|
 
 ## <a name="2-getting-comfortable"></a>2. Familiarisez-vous avec
@@ -35,7 +35,7 @@ Avant de commencer à créer et à héberger vos propres événements virtuels, 
 
 |  Point de contrôle  |  Résultat  |
 | --- | --- |
-| En savoir plus sur les contrôles d’entrée [Windows Mixed Reality](getting-started/wmr-controls.md) ou [Oculus Quest](getting-started/oculus-controls.md) | Familiarisez-vous avec les contrôles virtuels dans Windows Mixed Reality et Oculus Quest |
+| découvrez les contrôles d’entrée de [Windows Mixed Reality](getting-started/wmr-controls.md) ou de [Oculus Quest](getting-started/oculus-controls.md) | familiarisez-vous avec les contrôles virtuels dans Windows Mixed Reality et Oculus Quest |
 | [Contrôler vos avatars](getting-started/avatar-controls.md) | En savoir plus sur les différents schémas de contrôle pour le contrôle de vos avatars virtuels |
 | [Raccourcis clavier utiles](getting-started/keyboard-shortcuts.md) | Restez à jour avec les derniers raccourcis clavier |
 
@@ -87,7 +87,7 @@ Si vous avez des difficultés à créer des événements, de l’audio, de l’a
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. ressources & de la communauté
+## <a name="6-community--resources"></a>6. Community & des ressources
 
 AltspaceVR est une communauté et nous aimerions vous joindre. Prenez une minute pour examiner les normes de la Communauté, les conditions de service, la politique de confidentialité et abonnez-vous à notre bulletin d’informations pour obtenir les dernières informations.
 

@@ -1,17 +1,17 @@
 ---
-title: Mon audio est haché
+title: Mon son audio est hachuré
 description: Découvrez comment diagnostiquer et corriger du son haché dans les événements AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212169"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128208"
 ---
-# <a name="my-audio-is-choppy"></a>Mon audio est haché
+# <a name="my-audio-is-choppy"></a>Mon son audio est hachuré
 
 Certains utilisateurs ont remarqué que lorsqu’un autre avatar parle de la voix, le son est instable ou avec des dépassements réguliers. Vous pouvez être informé par d’autres utilisateurs que votre propre audio est instable ou robotique.
 

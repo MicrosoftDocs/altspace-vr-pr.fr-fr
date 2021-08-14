@@ -4,12 +4,12 @@ description: Restez à jour sur les dernières questions et solutions fréquemme
 ms.date: 02/10/2021
 ms.topic: article
 keywords: aide, FAQ
-ms.openlocfilehash: 814ff293cb98490900cd929f33477d15d3d668ae
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cb983ba4e23186f7cc62043f75e7ea1b2969e92b6bd30b132f1733b5e25e92dd
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212494"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125694"
 ---
 # <a name="unity-uploader-help"></a>Aide du chargeur d’Unity
 
@@ -41,7 +41,7 @@ Ce n’est pas le moment, mais vous pouvez placer des sources audio à jouer dan
 Oui, mais vos lumières doivent être définies sur « cuit » et non sur « mixte »
 
 **8. l’éclairage global fonctionne-t-il ?**
-Yes
+Oui
 
 **9. avez-vous toujours besoin de réinitialiser le monde ?**
 Oui. Nous devons recharger les regroupements d’actifs Unity à chaque fois. 
@@ -65,13 +65,13 @@ Nous vous suggérons de commencer petit et de tenir à l’esprit des gens de Al
 Non, Altspace sert les fichiers une fois que vous les avez téléchargés
 
 **15. les ombres sont-elles autorisées ?**
-Yes
+Oui
 
 **16. quelle est la rapidité avec laquelle puis-je effectuer une itération à l’aide du chargeur ?**
-Si vous êtes déjà dans votre monde, vous pouvez appuyer sur Télécharger dans le téléchargeur, réinitialiser votre univers et voir la scène mise à jour en 10 secondes. En règle générale, vous verrez des boucles de 30 secondes à quelques minutes, selon la complexité de votre scène. Ayez une boisson, vous méritez-vous qu’il s’agit d’un générateur de monde !
+si vous êtes déjà dans votre monde, vous pouvez appuyer sur Télécharger dans le téléchargeur, réinitialiser votre univers et voir la scène mise à jour en 10 secondes. En règle générale, vous verrez des boucles de 30 secondes à quelques minutes, selon la complexité de votre scène. Ayez une boisson, vous méritez-vous qu’il s’agit d’un générateur de monde !
 
 **17. où puis-je me procurer des modèles 3D ?**
-Sketchfab, SketchUp, Minecraft, Unity Asset Store, etc.
+Sketchfab, Sketchup, Minecraft, magasin d’actifs unity, etc.
 
 **18. les animations sont-elles prises en charge ?**
 
@@ -80,4 +80,4 @@ Sketchfab, SketchUp, Minecraft, Unity Asset Store, etc.
 **19. Comment configurer le son spatial ?** Importez le fichier WAV de votre choix, créez un objet de jeu vide dans la scène et sélectionnez cet objet. Faites glisser et déposez le son importé dans l’inspecteur de l’objet pour créer une source audio. Ajustez ensuite le volume à 0,5, modifiez le lissage spatial en 3D et ajustez les distances min et Max pour créer une zone de son appropriée. Cela s’affiche comme une sphère comme les conflits par défaut. Pour obtenir une véritable remise, vous devez ajuster la courbe de dépose à votre convenance. [(via @IsThatToasted )](https://www.youtube.com/watch?v=ktb2vAAwknw&list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4&t=642s&index=29)
 
 **20. Comment suis-je confronté à ébahis/étrange ?**
-Parfois, le chargeur ne parvient pas à remplacer vos paramètres de rendu. « Accédez à modifier > paramètres du projet > Player ». Vérifiez que la case à cocher « paramètres XR > la réalité virtuelle prise en charge » est activée et que « méthode de rendu stéréo » est « passe unique » ou « passe unique (préversion) » pour PC et Android (sélectionnez l’icône de l’automate). Ensuite, générez + téléchargez à nouveau et réinitialisez votre monde. 
+Parfois, le chargeur ne parvient pas à remplacer vos paramètres de rendu. « accédez à Edit > Project Paramètres > Player ». vérifiez que « XR Paramètres > la réalité virtuelle prise en charge » est coché et que « méthode de rendu stéréo » est « passe unique » ou « passe unique (préversion) » pour PC et Android (sélectionnez l’icône de l’automate). Ensuite, générez + téléchargez à nouveau et réinitialisez votre monde. 

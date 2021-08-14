@@ -1,17 +1,17 @@
 ---
-title: Vue d’ensemble des outils hôtes
+title: Vue d’ensemble des outils d’hébergement
 description: Découvrez comment utiliser vos outils hôtes pour les événements non FrontRow, notamment la sourdine, la messagerie et la modération.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: outils hôtes, muet, message, blocage de phase, participation audience
-ms.openlocfilehash: d5f4714e532b55e86e1ee45622097338d4651daa
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: bd5aa3da37173ecf6975e3ab82096d7cef5f02d0964ddd1fc28c078a31d0c520
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212262"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126350"
 ---
-# <a name="host-tools-overview"></a>Vue d’ensemble des outils hôtes
+# <a name="host-tools-overview"></a>Vue d’ensemble des outils d’hébergement
 
 Lorsque vous créez un événement, vous êtes l’hôte automatique de cet événement. Le rôle d’hôte vous donne accès aux fonctionnalités spéciales et aux capacités créées spécifiquement pour faciliter et simplifier l’hébergement d’un événement virtuel en direct. Vous trouverez ci-dessous une vue d’ensemble détaillée de ces fonctions et capacités, ainsi que d’autres conseils utiles pour héberger des événements dans AltspaceVR.
 

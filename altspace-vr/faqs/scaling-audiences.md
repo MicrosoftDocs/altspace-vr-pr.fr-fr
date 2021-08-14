@@ -4,12 +4,12 @@ description: Découvrez comment activer, dépanner et mettre à l’échelle vot
 ms.date: 03/11/2021
 ms.topic: article
 keywords: mise à l’échelle, ligne avant
-ms.openlocfilehash: 30632564da2465b3cd54a7c080e73ad835a3a514
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b6a518a463fc373439f411d4ae75352a0343304b1fb73c8848d3bfd5fa19973
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212479"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128061"
 ---
 # <a name="scaling-your-audiences-with-frontrow-feature"></a>Mise à l’échelle de votre public avec la fonctionnalité FrontRow
 
@@ -56,7 +56,7 @@ La conversion de votre événement en événement FrontRow ajoute des outils et 
 * **Redistribuer** : redistribuez tous les invités actuellement dans une salle dans d’autres salles. (Bon pour la foule).
 * Téléportez **-vous à une** autre salle.
 
-Dans un événement FrontRow, les hôtes verront également d’autres outils et fonctionnalités comme **on-air**. Ce bouton, situé en regard de **Outils hôtes**, permet à un hôte ou à un modérateur de mettre en miroir les membres de l’audience et les autres participants afin qu’ils puissent être visibles sur tous les espaces. (En tant qu’ordinateur hôte, vous souhaiterez peut **-être également vous-même** utiliser. (Conseil Pro : [Utilisez les zones hôtes](https://altvr.com/holiday2020/) pour activer automatiquement l’air pour toute personne à l’intérieur de la zone.)
+Dans un événement FrontRow, les hôtes verront également d’autres outils et fonctionnalités comme **on-air**. Ce bouton, situé en regard de **Outils hôtes**, permet à un hôte ou à un modérateur de mettre en miroir les membres de l’audience et les autres participants afin qu’ils puissent être visibles sur tous les espaces. (En tant qu’ordinateur hôte, vous souhaiterez peut **-être également vous-même** utiliser. (Pro conseil : [utilisez les Zones d’hôte](https://altvr.com/holiday2020/) pour activer automatiquement l’Air pour quiconque à l’intérieur de la zone.)
 
 Consultez l’article [vue d’ensemble des outils de l’hôte pour les événements FrontRow](../tutorials/host-tools-for-events.md) pour une présentation complète et détaillée de chacune des fonctions et fonctions disponibles pour les hôtes dans les événements FrontRow.
 

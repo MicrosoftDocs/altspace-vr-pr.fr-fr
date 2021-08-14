@@ -1,17 +1,17 @@
 ---
-title: Enregistrement et diffusion en continu en direct
+title: Enregistrement et streaming en direct
 description: Découvrez comment enregistrer et diffuser en direct vos événements AltspaceVR à partir de votre PC pour les promouvoir et les partager avec vos utilisateurs.
 ms.date: 04/26/2021
 ms.topic: article
 keywords: streaming, enregistrement, vidéo, audio, YouTube, OBS
-ms.openlocfilehash: 0bf32d8ac7e2d409eb5e2c31a9da8a878e0e5eef
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 95a742cb2bfe5c277e698175bd9f657fcac5923d181c3eeb6905004d25f81aa6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923016"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126105"
 ---
-# <a name="recording-and-live-streaming"></a>Enregistrement et diffusion en continu en direct
+# <a name="recording-and-live-streaming"></a>Enregistrement et streaming en direct
 
 L’enregistrement et la diffusion en continu de votre expérience AltspaceVR pour montrer d’autres personnes du monde entier sont un excellent moyen de promouvoir vos événements, AltspaceVR et VR en général ! Jetez un coup d’œil ci-dessous pour découvrir comment démarrer :
 
@@ -29,7 +29,7 @@ Dans cet article, vous allez apprendre à :
 ### <a name="the-slightly-longer-version"></a>Version légèrement plus longue
 
 1. Consultez [https://obsproject.com/](https://obsproject.com/)
-2. Sélectionnez **Windows** pour télécharger OBS. Cette publication utilise **OBS v 22.0.2**
+2. sélectionnez **Windows** pour télécharger OBS. Cette publication utilise **OBS v 22.0.2**
 3. Installer OBS
 
 ### <a name="have-altspacevr-running-in-2d-mode-before-you-run-obs"></a>AltspaceVR s’exécuter en mode 2D avant d’exécuter OBS
@@ -49,12 +49,12 @@ Maintenant, Alt-Tab sur OBS :
 7. Faites défiler jusqu’au curseur de capture : décochez
 8. Sélectionnez OK (OK).
 
-Cela devrait faire apparaître AltspaceVR dans OBS. Maintenant, pour définir les propriétés suivantes dans OBS, accédez à **fichier > paramètres**:
+Cela devrait faire apparaître AltspaceVR dans OBS. maintenant, pour définir les propriétés suivantes dans OBS, accédez à **fichier > Paramètres**:
 
 |Onglet|Paramètres|
 |---|---|
 | **Général** | Conservez la valeur par défaut |
-| **STREAM** | Conservez la valeur par défaut |
+| **Train** | Conservez la valeur par défaut |
 | Mode de sortie | Basculer vers la configuration avancée |
 | Onglet streaming | Piste audio 1 <br> Encodeur : x264 <br> Mise à l’échelle de la sortie : incochée <br> Contrôle de la fréquence : CBR <br> Débit binaire : 6000 (6000 pour 30 i/s ou 9000 pour 60 fps) <br> Intervalle d’image clé = 2 <br> Présélection de l’utilisation de l’UC = veryfast |
 | Onglet Enregistrement | Type : standard <br> Chemin d’enregistrement : D:/Video (accédez à l’emplacement où vous souhaitez enregistrer le fichier vidéo) <br> Format d’enregistrement : MP4 (si vous recevez un incident lors de l’enregistrement, essayez FLV ici au lieu de MP4, si vous rencontrez une panne, la vidéo sera toujours utilisable avec FLV) <br> Piste audio 1 <br> Encodeur : utiliser l’encodeur de flux |
@@ -81,10 +81,10 @@ En général, le micro/les est muet lors de l’enregistrement. Continuez et sé
 
 * Il est très difficile de faire correspondre votre audio et l’audio de l’autre utilisateur, de sorte que le micro est le meilleur en sourdine lorsque vous enregistrez un événement.
 * Un autre problème avec l’audio est la configuration de OBS. Il capture tout l’audio de votre ordinateur, si bien que vous regardez YouTube sur votre ordinateur, il enregistre ces notifications audio ou de discordon.
-* Pour enregistrer uniquement l’audio de AltspaceVR, accédez à mixer de volume (cliquez avec le bouton droit sur l’icône en forme de haut-parleur en bas à droite de Windows) et désactivez les sons système, les navigateurs, etc., mais pas muet OBS ou AltspaceVR.
+* pour enregistrer uniquement l’audio de AltspaceVR, accédez à Volume Mixer (cliquez avec le bouton droit sur l’icône de haut-parleur en bas à droite de Windows) et désactivez les sons système, les navigateurs, etc., mais pas muet OBS ou AltspaceVR.
 
 > [!IMPORTANT]
-> N’oubliez pas de réactiver ces paramètres de mélangeur de volume après l’enregistrement.
+> n’oubliez pas de réactiver ces paramètres de Mixer du Volume après l’enregistrement.
 
 À présent, revenez à OBS et sélectionnez **arrêter l’enregistrement** à partir du **fichier>afficher les enregistrements**. Cela ouvre le dossier avec vos fichiers vidéo OBS, double-cliquez sur la vidéo de test.
 
@@ -100,7 +100,7 @@ AltspaceVR et OBS doivent être installés. Lancez AltspaceVR en mode 2D, lancez
 ### <a name="the-slightly-longer-version"></a>Version légèrement plus longue
 
 1. Consultez [https://obsproject.com/](https://obsproject.com/)
-2. Sélectionnez **Windows** pour télécharger OBS (ce billet utilise OBS v 22.0.2)
+2. sélectionnez **Windows** pour télécharger OBS (cette publication utilise OBS v 22.0.2)
 3. Installer OBS
 
 AltspaceVR s’exécuter en mode 2D avant d’exécuter OBS
@@ -118,12 +118,12 @@ AltspaceVR s’exécuter en mode 2D avant d’exécuter OBS
 
 Cela devrait faire apparaître AltspaceVR dans OBS. Bravo !
 
-Maintenant, dans OBS, accéder aux paramètres de>de fichiers :
+maintenant, dans OBS, accéder au fichier>Paramètres :
 
 | Onglet | Paramètres |
 |---|---|
 | Général | Tick enregistre automatiquement la diffusion en continu (enregistre un fichier vidéo sur votre ordinateur en plus de la diffusion en continu) |
-| STREAM | Type de flux : services de streaming <br> Service : jeu YouTube/YouTube (peut également diffuser en continu vers Twitch, mixer, Facebook Live, etc.)<br>Serveur : serveur de réception YouTube principal <br>Clé de flux : collez votre clé de flux à partir de YouTube * * * (consultez « Configuration de la diffusion en continu en direct sur YouTube » ci-dessous) |
+| STREAM | Type de flux : services de streaming <br> Service : jeu youtube/youtube (peut également diffuser en continu vers Twitch, Mixer, Facebook Live, etc.)<br>Serveur : serveur de réception YouTube principal <br>Clé de flux : collez votre clé de flux à partir de YouTube * * * (consultez « Configuration de la diffusion en continu en direct sur YouTube » ci-dessous) |
 | Sortie | Mode de sortie : basculer vers avancé |
 | Diffusion en continu | Piste audio 1 <br>Encodeur : x264 <br>Appliquer les paramètres de l’encodeur de service de diffusion en continu : Tick <br>Mise à l’échelle de la sortie : incochée <br>Contrôle de la fréquence : CBR <br>Débit binaire : 6000 (6000 pour 30 i/s ou 9000 pour 60 fps) <br>Intervalle d’image clé = 2 <br>Présélection de l’utilisation de l’UC = veryfast |
 | Enregistrement | Type : standard <br>Chemin d’enregistrement : D:/Video (accédez à l’emplacement où vous souhaitez enregistrer le fichier vidéo si vous avez sélectionné enregistrer automatiquement lors de la diffusion en continu) <br>Format d’enregistrement : MP4 (si vous recevez un incident lors de l’enregistrement, essayez FLV ici au lieu de MP4, si vous rencontrez une panne, la vidéo sera toujours utilisable avec FLV) <br>Piste audio 1 <br>Encodeur : utiliser l’encodeur de flux |
@@ -138,9 +138,9 @@ Maintenant, dans OBS, accéder aux paramètres de>de fichiers :
 
 Consultez la section « Comment enregistrer des AltspaceVR en mode 2D sur le PC » ci-dessus pour obtenir des instructions sur la façon de tester l’enregistrement à l’aide d’un enregistrement local au lieu du flux de données en direct et comment faire commencer la configuration de votre appareil photo avant l’enregistrement.
 
-Un autre problème avec l’audio est la configuration de OBS. Il capture tous les éléments audio de votre ordinateur. par conséquent, si vous regardez YouTube, il enregistre ces messages audio ou d’équipe, ou les sons de notification.
+Un autre problème avec l’audio est la configuration de OBS. il capture tout l’audio à partir de votre ordinateur. si vous regardez YouTube, il enregistre ce fichier audio, ou Teams des messages ou des sons de notification.
 
-Pour enregistrer uniquement l’audio de AltspaceVR, accédez à mixer de volume (cliquez avec le bouton droit sur l’icône en forme de haut-parleur en bas à droite de Windows) et désactivez les sons système, les navigateurs, etc., mais pas muet OBS ou AltspaceVR.
+pour enregistrer uniquement l’audio de AltspaceVR, accédez à Volume Mixer (cliquez avec le bouton droit sur l’icône de haut-parleur en bas à droite de Windows) et désactivez les sons système, les navigateurs, etc., mais pas muet OBS ou AltspaceVR.
 
 N’oubliez pas de réactiver l’audio après l’enregistrement ;)
 
@@ -157,9 +157,9 @@ Vous pouvez obtenir rapidement un flux en direct (**flux**) ou configurer un fut
 Méthode «**Stream Now**» :
 
 * Sélectionnez Modifier pour entrer vos informations de flux Live<br>
-* Sous paramètres de flux, conservez les valeurs par défaut<br>
+* sous Paramètres de flux, conservez les valeurs par défaut<br>
 * Clé de flux (coller dans l’encodeur), sélectionnez « révéler » et copiez cette clé pour pouvoir la coller dans OBS<br>
-* Ouvrir OBS/Settings/Stream<br>
+* ouvrir OBS/Paramètres/Stream<br>
 * Collez la clé de flux de YouTube dans le champ de clé de flux dans OBS<br>
 * Appliquer, puis sur OK<br>
 * Sélectionnez Démarrer la diffusion en continu dans OBS<br>
@@ -172,14 +172,14 @@ Méthode «**Stream Now**» :
 
 Méthode'**Manage**' :
 * Sélectionnez « planifier le flux »
-* Créer des paramètres ou les réutiliser si vous avez déjà configuré un flux Live managé précédent
-* Ajouter un titre, une date, une heure de début, une description, charger une miniature et des balises – n’oubliez pas de baliser AltspaceVR :)
+* créez ou réutilisez Paramètres si vous avez déjà configuré un flux live managé précédent
+* ajouter un titre, une Date, une heure de début, une Description Télécharger miniature et des balises – n’oubliez pas de baliser AltspaceVR :)
 * Choisissez public dans le menu déroulant (la valeur par défaut est « non répertoriée »)
 * Utilisation des valeurs par défaut
 * Copier la clé de flux (coller dans l’encodeur)
 * Pour voir votre véritable page vidéo de flux Live YouTube, vous devez sélectionner l’icône de partage en haut à droite. Il s’agit de votre lien d’événement de flux Live YouTube. vous pouvez le partager sur les réseaux sociaux avant votre événement réel !
 * Maintenant, ouvrez OBS
-* Fichier/paramètres
+* fichier/Paramètres
 * STREAM
 * Collez la clé de flux que vous avez copiée dans le champ de clé de flux.
 * Appliquer, puis sur OK
@@ -187,7 +187,7 @@ Méthode'**Manage**' :
 * Dans YouTube, vous verrez que la fenêtre « Aperçu » affiche votre flux et que vous êtes en ligne.
 * Sélectionner GO LIVE
 * Vous êtes maintenant en ligne !
-* Accédez à l’onglet de votre navigateur avec le lien « Afficher sur la page espion » ouvert pour vous assurer que la vidéo semble correcte. N’oubliez pas que vous n’entendez pas le son, car vous avez désactivé l’audio de vos navigateurs lorsque vous les avez mis en sourdine dans le mélangeur de volume Windows. Vérifiez le son sur votre téléphone ou demandez à un ami de vérifier le son pour vous.
+* Accédez à l’onglet de votre navigateur avec le lien « Afficher sur la page espion » ouvert pour vous assurer que la vidéo semble correcte. n’oubliez pas que vous n’entendez pas le son, car vous avez désactivé l’audio de vos navigateurs lorsque vous les avez mis en sourdine dans Windows Mixer de Volume. Vérifiez le son sur votre téléphone ou demandez à un ami de vérifier le son pour vous.
 * L’aspect est parfait !
 * Alt-Tab de revenir à AltspaceVR pour déplacer votre appareil photo (c’est-à-dire votre avatar) dans votre événement.
 * Une fois que vous avez terminé avec votre flux Live, revenez à la page « salle de contrôle en direct » de YouTube.

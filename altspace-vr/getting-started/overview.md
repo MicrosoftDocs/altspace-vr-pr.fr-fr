@@ -4,12 +4,12 @@ description: Découvrez les AltspaceVR, les extensions de réalité mixte, l’�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: éditeur universel, téléchargeur Unity, forums
-ms.openlocfilehash: e2277e1425af72544d2e1ed450e01a15ff537039
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 97003073facfa0f4135111fff0ed6128b42ca81b96a8a70fdebef22d8988f548
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212374"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126317"
 ---
 # <a name="getting-started-with-altspacevr"></a>Prise en main de AltspaceVR
 
@@ -25,9 +25,9 @@ Le kit de développement logiciel (SDK) MRE est le nouveau kit de développement
 
 Vous pouvez également :
 
-* Rejoignez la [communauté des MRE du kit de développement logiciel (SDK)](https://discord.com/invite/xyBcQec) pour discuter avec d’autres développeurs mre.
+* participez au [Community du kit de développement logiciel (SDK) MRE](https://discord.com/invite/xyBcQec) pour discuter avec d’autres développeurs MRE.
 * [Visionnez la vidéo de génération de TIC-TAC-TOE](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
-* Découvrez comment modifier et générer des MREs avec [Visual Studio code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)
+* découvrez comment modifier et générer des MREs avec [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)
 * Parcourir le [code source](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world) de l’Hello World
 * Participez [à notre rassemblements hebdomadaire Developer dans AltspaceVR](https://account.altvr.com/channels/sdk)
 
@@ -35,7 +35,7 @@ Autres ressources bientôt disponibles !
 
 ## <a name="world-editor"></a>Éditeur de monde
 
-À l’intérieur de AltspaceVR, vous pouvez utiliser notre éditeur mondial intégré dans votre espace d’habitation. C’est le moyen le plus simple de commencer à modifier votre espace. Sélectionnez le bouton éditeur de monde, en bas à droite, lorsque vous vous trouvez dans votre espace d’habitation. Consultez notre [page prise en main de la génération de monde](../world-building/world-building-getting-started.md). Avec l’éditeur World, vous pouvez placer des objets 3D, des téléporteurs et des extensions (MREs), et modifier le skybox World.
+À l’intérieur de AltspaceVR, vous pouvez utiliser notre éditeur mondial intégré dans votre espace d’habitation. C’est le moyen le plus simple de commencer à modifier votre espace. Sélectionnez le bouton éditeur de monde, en bas à droite, lorsque vous vous trouvez dans votre espace d’habitation. consultez notre [Prise en main avec la page de création mondiale](../world-building/world-building-getting-started.md). Avec l’éditeur World, vous pouvez placer des objets 3D, des téléporteurs et des extensions (MREs), et modifier le skybox World.
 
 Si vous rejoignez le [programme d’accès anticipé](../world-building/early-access.md), vous pouvez créer des mondes supplémentaires sur la [page mes mondes AltspaceVR](https://account.altvr.com/users/sign_in).
 

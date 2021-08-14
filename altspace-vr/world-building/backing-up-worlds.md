@@ -4,12 +4,12 @@ description: Découvrez comment créer, gérer et dépanner des instantanés de 
 ms.date: 03/11/2021
 ms.topic: article
 keywords: enregistrer
-ms.openlocfilehash: fdef692c737bf2f92db315e04556831d60c2f377
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2f4f232fd843b612563b2d7425de2b5d17720c539cc02a1493bc4b118de4f117
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212129"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125467"
 ---
 # <a name="backing-up-your-worlds"></a>Sauvegarde de vos mondes
 
@@ -18,13 +18,13 @@ Une sauvegarde est un « instantané » ou un enregistrement de tous les objet
 ## <a name="whats-included-in-a-backup"></a>Qu’est-ce qui est inclus dans une sauvegarde ?
 
 Une sauvegarde contient actuellement la plupart des éléments que vous pouvez générer avec l’éditeur de monde :
-* Artefacts (objets de kit)
+* Artifacts (objets de Kit)
 * Étiquettes
 * Téléporteurs
 * Points de génération
 * Photo
 * Applications SDK MRE
-* Applications natives (par exemple, hologrammes contre la réalité)
+* applications natives (par exemple, Hologrammes contre la réalité)
 
 Les éléments suivants ne sont pas inclus :
 
@@ -55,7 +55,7 @@ Il n’y a pas de limite au nombre de sauvegardes et le fait d’avoir plus de s
 * Créez un autre environnement, affichez les options avancées et importez à partir de tout le monde. Choisissez le monde que vous souhaitez sauvegarder dans le menu déroulant dans le nouveau. Aucune limite n’est définie pour les importations.
 * Si vous utilisez le chargeur Unity, nous vous recommandons vivement d’utiliser le contrôle de version. Par exemple, [GitHub pour Unity](https://unity.github.com).
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Aide ! J’ai restauré accidentellement une sauvegarde et mon travail n’a** pas de crainte. Nous créons automatiquement une nouvelle sauvegarde avant la restauration de l’ancienne. Recherchez-en un dont le nom commence par **auto** avec l’horodateur approprié et restaurez celui-ci (par exemple, **auto-01-14T08:23:33-08:00**).  Si cela ne fonctionne pas, envoyer un [support Request](https://help.altvr.com/hc/requests/new)
 

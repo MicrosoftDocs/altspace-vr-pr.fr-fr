@@ -4,16 +4,16 @@ description: Apprenez à mesurer, dépanner et améliorer les performances de vo
 ms.date: 03/11/2021
 ms.topic: article
 keywords: performances, résolution des problèmes
-ms.openlocfilehash: 558ce2e089aecc206445c6b7bf99423f2d5c45cc
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79d2bc43858c99652439aafa159c23f48eb3aa299c2b183936e40b1794fe444e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212117"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126919"
 ---
 # <a name="improving-world-performance"></a>Amélioration des performances mondiales
 
-Nous souhaitons que les gens aient une bonne expérience en ce qui concerne les performances, ou la manière dont votre monde s’exécute sur des casques de VR, est très important. Notre système de construction mondiale est conçu pour des performances exceptionnelles pour les cas d’utilisation les plus courants. Si vous envisagez d’optimiser la présence, ce guide vous est destiné. Altspace aspire à prendre en charge toutes les plateformes matérielles. Nous encourageons les intégrateurs de systèmes à pousser les limites, pour les mondes publics, nous vous recommandons de cibler le Oculus Quest et toute plateforme PC comme Windows Mixed Reality, Oculus Rift/Rift S ou HTC vive. Pour simplifier, si votre monde s’exécute bien sur une quête, c’est probablement parfait pour Altspace.
+Nous souhaitons que les gens aient une bonne expérience en ce qui concerne les performances, ou la manière dont votre monde s’exécute sur des casques de VR, est très important. Notre système de construction mondiale est conçu pour des performances exceptionnelles pour les cas d’utilisation les plus courants. Si vous envisagez d’optimiser la présence, ce guide vous est destiné. Altspace aspire à prendre en charge toutes les plateformes matérielles. nous encourageons les intégrateurs de systèmes à pousser les limites, pour les mondes publics, nous vous recommandons de cibler le Oculus Quest et toute plateforme PC comme Windows Mixed Reality, le rift Oculus/le rift S ou HTC Vive. Pour simplifier, si votre monde s’exécute bien sur une quête, c’est probablement parfait pour Altspace.
 
 ## <a name="tools-and-measurement"></a>Outils et mesures
 
@@ -25,17 +25,17 @@ Il s’agit d’instructions supplémentaires par rapport aux exigences. Les per
 
 En respectant ces recommandations, vous vous configurez pour la réussite. Passons en revue cet exemple de diagnostic tiré d’un monde réel : 
 
-* **Objets** -nombre total d’objets dans le monde. Tout est un objet : artefacts, photos, moments de génération, etc. Nous vous recommandons de rester sous un certain nombre, mais cela est flexible. Si vous continuez, nous indiquons notre préoccupation avec un point d’exclamation jaune, comme illustré ici. Toutefois, dans ce cas, il existe deux zones distinctes dans ce monde, ce qui signifie que la densité n’est pas élevée.
-* **Kits** : nombre total de kits de construction universels uniques utilisés. Cela a un impact sur le temps de téléchargement initial lors du chargement du monde. Les kits contiennent des artefacts, le menu des objets que vous pouvez générer dans le monde entier. 
+* **Objets** -nombre total d’objets dans le monde. tout est un objet, Artifacts, Photos, générer des Points, etc. Nous vous recommandons de rester sous un certain nombre, mais cela est flexible. Si vous continuez, nous indiquons notre préoccupation avec un point d’exclamation jaune, comme illustré ici. Toutefois, dans ce cas, il existe deux zones distinctes dans ce monde, ce qui signifie que la densité n’est pas élevée.
+* **Kits** : nombre total de kits de construction universels uniques utilisés. Cela a un impact sur le temps de téléchargement initial lors du chargement du monde. les Kits contiennent des Artifacts, le menu des objets que vous pouvez générer dans le monde entier. 
 
 > [!NOTE] 
-> Si un seul artefact est utilisé à partir d’un kit, les ressources de ce kit doivent être téléchargées. Il est donc terriblement coûteux d’utiliser simplement quelques artefacts d’un seul kit. 
+> Si un seul artefact est utilisé à partir d’un kit, les ressources de ce kit doivent être téléchargées. il est donc terriblement coûteux d’utiliser simplement quelques Artifacts à partir d’un seul Kit. 
 
 * **Kits--mobile** : taille totale de toutes les ressources de kit qu’une personne sur une quête doit télécharger avant de pénétrer dans le monde. Essayez de ne pas faire patienter 5 minutes pour télécharger tout ce dont il a besoin pour votre monde.
-* **Photos** -nombre total de photos utilisées, qui ont tendance à avoir un impact plus élevé sur les performances que les artefacts. Utilisez avec modération.
+* **Photos** : nombre Total de Photos utilisées, qui ont tendance à avoir un impact plus élevé sur les performances que Artifacts. Utilisez avec modération.
 Modèle--mobile : Si vous utilisez le chargeur Unity, conservez une taille de téléchargement faible.
 * **Skybox--mobile** : Si vous utilisez des skyboxes personnalisées, conservez une taille de fichier réduite afin que les utilisateurs n’obtiennent pas « écran noir » (mémoire vidéo insuffisante).
-* **Kits/artefacts manquants/non valides** -références aux kits ou artefacts problématiques... Vous avez une idée d’une mesure ? Faites-le-nous savoir !
+* **kits/Artifacts manquants/non valides** -références aux kits ou Artifacts problématiques... Vous avez une idée d’une mesure ? Faites-le nous savoir !
 Une fois encore, il n’y a pas d’exigences pour les icônes d’état vert, jaune et rouge. Même un monde avec un ensemble d’indicateurs rouges peut toujours être proposé. Nous testons Altspace. [N’hésitez pas à nous contacter si vous avez besoin d’aide](getting-help.md). 
 
 ## <a name="load-time"></a>Temps de chargement
@@ -44,7 +44,7 @@ Lorsqu’une personne commence à se déplacer vers votre monde (tentatives d’
 
 ## <a name="troubleshooting-and-tips"></a>Résolution des problèmes et conseils
 
-**Les personnes voient un « écran noir »** En général, cela est dû au fait que l’appareil a manqué de mémoire vidéo. Essayez de réduire le nombre d’objets dans la zone problématique du monde et de réduire les tailles d’éléments tels que votre skybox ou modèle ou le nombre de photos. Ces types ont tendance à avoir l’impact le plus élevé sur l’utilisation de la mémoire vidéo.
+**Les personnes voient un « écran noir »** En général, cela est dû au fait que l’appareil a manqué de mémoire vidéo. Essayez de réduire le nombre d’objets dans la zone problématique du monde et de réduire les tailles d’éléments tels que votre skybox ou modèle ou le nombre de Photos. Ces types ont tendance à avoir l’impact le plus élevé sur l’utilisation de la mémoire vidéo.
 
 **Les personnes se bloquent**
     * Parfois, un kit ou un artefact cassé peut entraîner ce problème.

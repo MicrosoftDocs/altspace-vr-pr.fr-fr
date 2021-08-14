@@ -4,12 +4,12 @@ description: Découvrez comment créer et configurer des événements principaux
 ms.date: 03/11/2021
 ms.topic: article
 keywords: événements
-ms.openlocfilehash: 44581d900b5853d051198cd2e2fefe6bc2d04a18
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2df15e01be4dbf0b440574da0e6931f1f11ec26fc2ca451ad98858db624e1f1f
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212471"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126290"
 ---
 # <a name="main-events-and-maximizing-event-visibility"></a>Événements principaux et optimisation de la visibilité des événements
 
@@ -27,7 +27,7 @@ Les événements principaux sont des événements publics qui répondent à des 
 
 ## <a name="what-is-the-all-tab-of-the-calendar"></a>Qu’est-ce que l’onglet « tout » du calendrier ?
 
-L’onglet « tout » est la liste totale de tous les événements publics dans AltspaceVR. Il contient souvent des événements rapides tels que des jeux impromptus d’hologrammes contre la réalité ou la AltQuiz. Les événements publics qui ne sont pas répertoriés en tant qu’événements principaux sont toujours détectables sous l’onglet « tout », mais ne sont pas considérés comme éligibles pour la promotion.
+L’onglet « tout » est la liste totale de tous les événements publics dans AltspaceVR. il contient souvent des événements rapides, comme les jeux impromptus de Hologrammes contre la réalité ou AltQuiz. Les événements publics qui ne sont pas répertoriés en tant qu’événements principaux sont toujours détectables sous l’onglet « tout », mais ne sont pas considérés comme éligibles pour la promotion.
 
 ## <a name="how-can-my-event-become-a-main-event"></a>Comment mon événement peut-il devenir un événement principal ?
 
@@ -41,7 +41,7 @@ Pendant le processus de création d’événements, vous pouvez sélectionner «
 * Le compte AltspaceVR du créateur/de l’hôte doit avoir une semaine au minimum (sept jours).
 * Le créateur/hôte doit avoir hébergé au moins un (1) événement public précédent.
 * Le créateur/l’hôte doit être OK avec AltspaceVR en promouvant son événement par le biais des méthodes pertinentes (réseaux sociaux, bulletins d’informations, événements Oculus, etc.).
-* Si un événement est jugé non performant, contenant du contenu inapproprié ou en violation de nos conditions de service ou normes de la Communauté, l’hôte doit suivre les demandes/modifications émises par le personnel AltspaceVR pour maintenir la désignation des événements principaux.
+* si un événement est détecté comme étant non performant, contenant du contenu inapproprié, ou en violation de nos Community normes/conditions de Service, l’hôte doit suivre les demandes/modifications émises par le personnel AltspaceVR pour maintenir la désignation des événements principaux.
 * Le monde source doit réussir la vérification des diagnostics : (toutes les métriques dans les tables GOOD et OKAY sont autorisées. Les métriques dans la table incorrecte ne sont pas.)
 
 | Diagnostic | Bon (passera) | OK (réussit) | Incorrect (échoue) |
@@ -54,8 +54,8 @@ Pendant le processus de création d’événements, vous pouvez sélectionner «
 | Modèle (mobile) | 0 À 10 MO | 11-20 MO | plus de 21 Mo |
 | Skybox (mobile) | 0-2 MO | 3-5 MO | plus de 6 Mo |
 | Kits manquants |  |  | Quelconque |
-| Artefacts manquants |  |  | Quelconque |
-| Artefacts non valides |  |  | Quelconque |
+| Artifacts manquant |  |  | Quelconque |
+| Artifacts non valide |  |  | Quelconque |
 
 > [!IMPORTANT]
 > Les hôtes se limitent à répertorier un maximum de 3 événements principaux par jour, par personne.  

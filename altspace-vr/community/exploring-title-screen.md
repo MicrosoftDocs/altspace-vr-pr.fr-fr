@@ -4,12 +4,12 @@ description: Découvrez comment accéder à toutes les fonctions et fonctions de
 ms.date: 03/19/2021
 ms.topic: article
 keywords: écran de titre, fonctionnalités, didacticiels, connexion, compte, code d’entrée, destinations
-ms.openlocfilehash: 2c19002712fd645ce4b2fcb344c90d52520494be
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: d304f46528ea41296ba7be00457212dc92629d5e1489e4d2dc656622f2a584e3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212586"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125193"
 ---
 # <a name="exploring-the-title-screen"></a>Exploration de l’écran de titre
 

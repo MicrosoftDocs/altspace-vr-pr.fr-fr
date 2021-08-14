@@ -4,12 +4,12 @@ description: Découvrez comment utiliser diverses propriétés Unity pour rendre
 ms.date: 04/20/2021
 ms.topic: article
 keywords: éditeur universel, performance, Oculus, Quest, Unity, textures, lightmaps, stats, profiler, appels de dessin, altspacevr, téléchargeur
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634290"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126982"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>Guide des performances mobile AltspaceVR
 
@@ -44,7 +44,7 @@ Un récapitulatif des outils Unity standard disponibles pour vous aider à optim
 
 * **Débogueur de frame** (trouvé sous le débogueur Window/Analysis/Frame).  Le panneau statistiques sur steroids qui, lorsqu’il est activé, vous permet de voir ce que le GPU dessine pour créer l’image finale, en vous indiquant une liste de drawcalls du premier au dernier.  Il vous donnera des raisons pour lesquelles un appel de dessin n’a pas été traité par lot avec un appel de dessin précédent (autrement dit, « cet objet utilise un autre matériau » ou « cet objet utilise un lightmap différent ») et est un excellent moyen de développer une compréhension de ce qui se passe dans votre scène, et comment et pourquoi certains choix visuels peuvent être coûteux en calcul.
 
-* Le **profileur** vous indique quelles parties de l’ordinateur sont utilisées à tout moment pendant l’exécution du jeu. Utile pour déterminer où les performances sont des goulots d’étranglement.  Par exemple, si vous constatez une utilisation intensive du processeur dans votre scène, il peut s’agir d’un trop grand nombre d’appels de dessin, ou si vous constatez une utilisation intensive du GPU, il se peut qu’il y ait trop de surdessin (c’est-à-dire le nombre de fois qu’un seul pixel est rendu pour produire l’image finale), ce qui peut être dû à l' , ou les objets ne sont pas supprimés lorsque vous êtes hors de l’affichage.
+* Le **profileur** vous indique quelles parties de l’ordinateur sont utilisées à tout moment pendant l’exécution du jeu. Utile pour déterminer où les performances sont des goulots d’étranglement.  Par exemple, si vous constatez une utilisation intensive du processeur dans votre scène, il peut s’agir d’un trop grand nombre d’appels de dessin, ou si vous constatez une utilisation intensive du GPU, il se peut qu’il y ait trop de surdessin (c’est-à-dire le nombre de fois qu’un seul pixel est rendu pour produire l’image finale), ce qui peut être dû à l'  ou objets qui ne sont pas en cours d’élimination lorsqu’ils sont hors de la vue.
 
 ## <a name="draw-calls-shadersmaterialsobjects"></a>**Appels de dessin (nuanciers/matériaux/objets)**
 
