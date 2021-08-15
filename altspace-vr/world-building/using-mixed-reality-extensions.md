@@ -4,12 +4,12 @@ description: Découvrez comment utiliser et résoudre les problèmes liés aux e
 ms.date: 03/11/2021
 ms.topic: article
 keywords: réalité mixte, extensions, résolution des problèmes
-ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1439ca76eaf4e0235c6552d037e55b6151e08407871bf470b3011b6cf8cbccd5
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212121"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125355"
 ---
 # <a name="using-a-mixed-reality-extension"></a>Utilisation d’une extension de réalité mixte
 
@@ -22,7 +22,7 @@ Les [extensions de réalité mixte](https://developer.altvr.com/) (MREs) sont de
 
 Félicitations ! Vous utilisez MREs Now, vous êtes tellement cool !
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **MRE présente un Emoji mécontent** 
     * Vérifier que l’URL est correcte
@@ -32,4 +32,4 @@ Félicitations ! Vous utilisez MREs Now, vous êtes tellement cool !
 **MRE est en retard** En fonction de l’emplacement d’hébergement d’un MRE, vous pouvez rencontrer une latence du réseau.
 
 **Pourquoi devons-nous coller des URL ?**
-À l’avenir, vous pouvez gérer et générer des MREs comme des artefacts à partir de kits. Jusqu’à présent, nous continuerons à utiliser des URL
+à l’avenir, vous pouvez gérer et générer des MREs comme vous le feriez Artifacts à partir de Kits. Jusqu’à présent, nous continuerons à utiliser des URL

@@ -4,12 +4,12 @@ description: Découvrez comment utiliser tous vos outils hôtes pour les événe
 ms.date: 02/10/2021
 ms.topic: article
 keywords: outils hôtes, ligne avant, événement
-ms.openlocfilehash: 34354041b0ab0044c69c42273f66478f382f52e6
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 2f8aebc1f2e1f318e51c4d61c22901e69b72b0025b3f0be64a9afe1bf015fa3d
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923126"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127707"
 ---
 # <a name="host-tools-for-frontrow-events"></a>Outils hôtes pour les événements FrontRow
 

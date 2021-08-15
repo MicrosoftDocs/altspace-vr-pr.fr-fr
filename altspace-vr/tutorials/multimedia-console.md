@@ -4,12 +4,12 @@ description: Découvrez comment démarrer la configuration, la publication et le
 ms.date: 03/11/2021
 ms.topic: article
 keywords: console, multimédia
-ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a24b3700f1687aed6bc00fd218aacd7cc12908e521af6239fac0ae97f48b4b9a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923006"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127366"
 ---
 # <a name="using-the-multimedia-console"></a>Utilisation de la console multimédia
 
@@ -126,7 +126,7 @@ La console multimédia prend en charge l’entrée de JSON directement dans à l
 
 ### <a name="media-list"></a>Liste des médias
 
-La liste des médias est une propriété définie à la racine de la structure JSON, comme les rôles et les paramètres de lecture.  Il s’agit d’un tableau simple qui peut contenir l’une des structures de configuration de média suivantes. (Consultez les descriptions de propriétés ci-dessus pour plus d’informations sur ce que fait.)
+la liste des médias est une propriété définie à la racine de la structure JSON, comme les rôles et la lecture Paramètres.  Il s’agit d’un tableau simple qui peut contenir l’une des structures de configuration de média suivantes. (Consultez les descriptions de propriétés ci-dessus pour plus d’informations sur ce que fait.)
 
 **Exemple d’image**
 

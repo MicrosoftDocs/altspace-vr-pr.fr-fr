@@ -4,12 +4,12 @@ description: Découvrez les contrôles de base pour les appareils Oculus Quest e
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Oculus, Oculus Quest, contrôles, autorisations, mouvements manuels
-ms.openlocfilehash: 9a10c782a4fac587621dec33d97bdfb9b9eca04d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127859"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Contrôles et autorisations Oculus Quest/Quest 2
 

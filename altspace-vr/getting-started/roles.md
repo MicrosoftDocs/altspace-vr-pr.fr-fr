@@ -4,12 +4,12 @@ description: En savoir plus sur les différents rôles que vous pouvez attribuer
 ms.date: 03/11/2021
 ms.topic: article
 keywords: rôles, événements, mondes, groupes, promotion
-ms.openlocfilehash: 7434002b9926b424ac08a0f93a368966fefe6606
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a4f612fb80a95fa775aa34f4b73f0d29ba446e3541756a99eefd0feeeb1e004d
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127744"
 ---
 # <a name="roles-in-events-worlds-groups-and-in-altspacevr"></a>Rôles dans les événements, mondes, groupes et AltspaceVR
 
@@ -42,7 +42,7 @@ Disponible lorsque vous modifiez l’événement :
 | HBA | Toutes les mêmes fonctionnalités que l’hôte ci-dessus, y compris les outils d’ordinateur hôte |
 | Mégaphone uniquement | Permet à l’utilisateur d’accéder aux outils de l’hôte, mais d’amplifier uniquement ma voix |
 | Modérateur ^ | Identique au rôle de modérateur du créateur d’événements |
-| Pilote | Ajoute des fonctionnalités de vol pour cette personne. Remarque : vous devez activer cette fonctionnalité dans paramètres/entrée/vol |
+| Pilote | Ajoute des fonctionnalités de vol pour cette personne. remarque : vous devez activer cette procédure dans Paramètres/Input/Fly |
 | Terraformer | Ajoute le bouton éditeur de monde à leur interface |
 
 > [!NOTE]
@@ -72,7 +72,7 @@ Pour ajouter un administrateur :
 Certains événements bénéficient lorsque tous les utilisateurs peuvent avoir des super pouvoirs ! Par exemple, si votre événement se trouve dans une grande zone, vous souhaiterez peut-être que tout le monde ait la possibilité de le battre et de l’amplifier. Pour l’ajouter, modifiez votre événement, cliquez sur Options avancées et, sous la section en VR, est rôles contextuels par défaut. Remontez le cercle vert pour tous les rôles que vous pouvez ajouter. Pour l’exemple ci-dessus, ajoutez : megaphone_only, pilote.
 
 > [!NOTE] 
-> Chaque personne doit l’activer dans paramètres/entrée/volée.
+> chaque personne doit l’activer dans Paramètres/Input/Fly.
 
 ## <a name="roles-in-worlds"></a>Rôles dans des mondes
 
@@ -97,7 +97,7 @@ Disponible lorsque vous modifiez votre monde :
 | Mégaphone uniquement | Permet à l’utilisateur d’accéder aux outils de l’hôte, mais d’amplifier uniquement ma voix |
 | Modérateur | Identique au rôle de modérateur World Creator |
 | Intervenant musical |Meilleure qualité audio pour les instruments de Singers ou de jeux de musiciens  |
-| Pilote | Ajoute des fonctionnalités de vol pour cette personne. Remarque : vous devez activer cette fonctionnalité dans paramètres/entrée/vol |
+| Pilote | Ajoute des fonctionnalités de vol pour cette personne. remarque : vous devez activer cette procédure dans Paramètres/Input/Fly |
 | Host | Identique au rôle d’hôte créateur de monde |
 | Terraformer | Ajoute le bouton éditeur de monde à leur interface | 
 
@@ -120,6 +120,6 @@ Vous devez d’abord créer votre groupe, puis ajouter des administrateurs aprè
 
 * **Programme d’accès anticipé**: le programme d’accès anticipé vous donne accès aux fonctionnalités les plus récentes qui sont encore en cours de développement. Un grand nombre de fonctionnalités de menus et de groupes universels sont disponibles uniquement pour les utilisateurs qui ont un accès anticipé. Voici donc comment vous pouvez vous abonner : qu’est-ce que le programme d’accès anticipé ?
 
-* **Mondes Beta**: dans l’application AltspaceVR, ouvrez le menu/les paramètres/activez les mondes bêta pour les activer. Cette opération active l’onglet mondes (BETA) dans votre menu principal pour vous permettre d’accéder à vos mondes.
+* **mondes bêta**: dans l’application AltspaceVR, ouvrez le Menu/Paramètres/activez les mondes de la version bêta pour l’activer. Cette opération active l’onglet mondes (BETA) dans votre menu principal pour vous permettre d’accéder à vos mondes.
 
-* **Programme d’assistance** de la communauté : vote à suspendre, accès au canal d’assistance de la Communauté dans le serveur de disAltspaceVR et accès anticipé à certaines annonces de la communauté. Plus d’informations sur la façon dont vous pouvez devenir un programme d’assistance de la communauté : programme d’assistance de la communauté
+* **Community helper**: Vote-à-interruption, accès au canal d’assistance Community dans le serveur de disAltspaceVR et accès précoce à certaines annonces de la communauté. plus d’informations sur la façon dont vous pouvez devenir un programme d’assistance Community : programme d’assistance d’Community

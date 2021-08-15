@@ -4,12 +4,12 @@ description: Obtenir des instructions pas à pas sur la création d’un compte 
 ms.date: 06/25/2021
 ms.topic: article
 keywords: inscription, compte, création de compte, liaison de comptes, comptes Microsoft, FAQ, dépannage, mode 2D, mode VR, nom d’utilisateur, affichage, nom
-ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
-ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
+ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "112975838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127910"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Création et liaison de votre compte AltspaceVR
 
@@ -78,7 +78,7 @@ Conseils de dépannage :
 * Si vous êtes en mode VR et que vous rencontrez des problèmes, essayez de débrancher votre casque et de basculer en mode PC 2D (ou inversement).
 * Si vous ne parvenez pas à vous reconnecter à votre compte Microsoft, vous pouvez toujours revenir à AltspaceVR à l’aide de votre nom d’utilisateur et de votre mot de passe. Sélectionnez simplement le bouton « se connecter avec AltspaceVR ».
 * Si vous utilisez VR, lorsque vous êtes invité à ouvrir une boîte de dialogue, essayez de le faire sur un PC qui utilise déjà les informations d’identification Microsoft que vous avez l’intention d’utiliser avec AltspaceVR.
-* Soumettez vos journaux si vous rencontrez des problèmes en accédant au **menu principal > paramètres > prendre en charge les journaux de chargement >**.
+* soumettez vos journaux si vous rencontrez des problèmes en accédant au **MENU principal > paramètres > prendre en charge les journaux de Télécharger >**.
 
 ## <a name="account-registration-faq"></a>FAQ sur l’inscription du compte
 
@@ -113,13 +113,13 @@ Si votre menu « vous » ne s’affiche pas, le redémarrage du client Altspac
 
 La liaison de votre compte AltspaceVR avec votre compte Microsoft ne modifiera pas votre nom d’utilisateur ou prénom affiché publiquement. Elle modifie uniquement les informations d’identification de connexion de votre compte (qui vous sont privées). Vous bénéficiez toujours d’un contrôle total sur la façon dont votre nom, votre nom d’utilisateur et votre image de profil apparaissent à d’autres utilisateurs dans AltspaceVR.
 
-**Puis-je continuer à basculer les comptes ? Cette option n’est plus sous paramètres.**
+**Puis-je continuer à basculer les comptes ? cette option n’est plus sous Paramètres.**
 
 Oui, nous avons redécoré un peu. Vous pouvez désormais gérer votre compte & basculer entre les comptes sous le **menu principal > mon compte >**
 
 **Ai-je déjà un compte Microsoft ?**
 
-Il est possible que vous disposiez déjà d’un compte Microsoft. Jouez-vous Minecraft, Game sur une Xbox, vous abonnez à Office 365 ou utiliser d’autres produits ou services Microsoft régulièrement ? Si c’est le cas, vous disposez probablement déjà d’un compte de connexion Microsoft ! Vous pouvez vérifier si votre adresse de messagerie est déjà liée à un MSA existant [ici](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2).
+Il est possible que vous disposiez déjà d’un compte Microsoft. jouez-vous Minecraft, le jeu sur une Xbox, s’abonner à Office 365 ou utiliser d’autres produits ou services Microsoft régulièrement ? Si c’est le cas, vous disposez probablement déjà d’un compte de connexion Microsoft ! Vous pouvez vérifier si votre adresse de messagerie est déjà liée à un MSA existant [ici](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2).
 
 **Cela signifie-t-il que je dois créer une nouvelle adresse de messagerie avec Outlook ?**
 
@@ -127,7 +127,7 @@ Non. Vous pouvez configurer un compte Microsoft avec une adresse e-mail actuelle
 
 **L’argent coûte-t-il ?**
 
-Non! La création d’un compte Microsoft est gratuite. L’utilisation de AltspaceVR est également gratuite. Rappelez-vous simplement que votre compte Microsoft est lié à d’autres produits et services. vous pouvez donc l’utiliser pour effectuer des achats en dehors de AltspaceVR, comme les abonnements (par exemple, Office 365) ou les biens spécialisés (par exemple, Minecraft Marketplace), par exemple.
+Non! La création d’un compte Microsoft est gratuite. L’utilisation de AltspaceVR est également gratuite. rappelez-vous que votre compte Microsoft est lié à d’autres produits et services. vous pouvez donc l’utiliser pour effectuer des achats d’objets en dehors de AltspaceVR, comme les abonnements (par exemple, Office 365) ou les biens spécialisés (par exemple, Minecraft Marketplace).
 
 **Que se passe-t-il si je rencontre des problèmes lors de la liaison de mes comptes ?**
 

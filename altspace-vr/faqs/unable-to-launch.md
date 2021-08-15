@@ -4,12 +4,12 @@ description: Découvrez comment identifier, signaler et résoudre les problèmes
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: fc49b5b7ed708e43a12616d782a397a364b2264e
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 50edddef669aca14640fd6e910c12c15864cf46a099e54bceed40494e9817de4
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212383"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127927"
 ---
 # <a name="i-cant-launch-altspacevr"></a>Impossible de lancer AltspaceVR
 
@@ -18,7 +18,7 @@ Il existe plusieurs raisons pour lesquelles AltspaceVR peut ne pas s’exécuter
 ## <a name="if-youre-trying-to-launch-altspacevr-for-the-first-time"></a>Si vous essayez de lancer AltspaceVR pour la première fois :
 
 1. Vérifiez que votre appareil est pris en charge et répond à la [Configuration minimale requise spécifiée](../getting-started/system-requirements.md).
-2. Assurez-vous que le dernier [logiciel Oculus](https://www.oculus.com/setup) est installé et que paramètres-> général-> périphériques inconnus est défini sur activé. Si vous lancez en mode 2D, Oculus n’est pas nécessaire.
+2. assurez-vous que le dernier [logiciel Oculus](https://www.oculus.com/setup) est installé et que Paramètres > général-> périphériques inconnus est défini sur activé. Si vous lancez en mode 2D, Oculus n’est pas nécessaire.
 3. Vérifiez que vous disposez d’une connexion Internet opérationnelle. Si vous essayez de lancer Altspace à partir d’un pare-feu réseau, ouvrez les ports UDP 5055 et 5056, ainsi que les ports TCP 80 et 443. Si vous vous trouvez dans le réseau d’un pare-feu d’entreprise ou d’éducation, vous devrez peut-être contacter l’administrateur réseau ou le service informatique.
 4. Voir aussi :
     * [Installation de AltspaceVR pour Oculus Quest](../getting-started/oculus-installation.md)
@@ -28,7 +28,7 @@ Il existe plusieurs raisons pour lesquelles AltspaceVR peut ne pas s’exécuter
 
 * La version de l’application que vous utilisez n’est plus prise en charge. Si vous avez téléchargé AltspaceVR dans une vitrine, la mise à jour a peut-être été lancée récemment avant que votre magasin ait pu mettre à jour votre client.
 * Si vous souhaitez forcer la mise à jour, vous pouvez le faire via les différentes vitrines :
-    * **Microsoft Store :** [Microsoft Store support-obtenir des mises à jour pour les applications et les jeux dans Microsoft Store](https://support.microsoft.com/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f)
+    * **Microsoft Store :** [Microsoft Store Support-obtenir des mises à jour pour les applications et les jeux dans Microsoft Store](https://support.microsoft.com/account-billing/get-updates-for-apps-and-games-in-microsoft-store-a1fe19c0-532d-ec47-7035-d1c5a1dd464f)
     * **Oculus :** Ouvrez votre bibliothèque Oculus et accédez à « mises à jour » dans la barre de navigation de gauche.
     * **Vapeur :** [support à la vapeur-mettre à jour & problèmes d’installation](https://support.steampowered.com/kb_article.php?ref=2274-IFLV-5334)
 

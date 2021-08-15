@@ -4,12 +4,12 @@ description: En savoir plus sur les événements AltspaceVR, sur la façon de le
 ms.date: 03/11/2021
 ms.topic: article
 keywords: événements, terminologie, console, multimédia, éditeur universel, flux en direct
-ms.openlocfilehash: 1e758b35b3bd5d5a580eb04e683d6b1dc4500b43
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 0c6e59604339ad354dc0241ca81335f92d65b0845529f6d1fe5eb2eb0d18627f
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923036"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127451"
 ---
 # <a name="creating-an-event"></a>Création d’un événement
 
@@ -63,9 +63,9 @@ Le processus de création d’un événement est le même pour les deux, à une 
 Les modifications apportées au monde d’origine ne seront pas dans le monde de l’événement, sauf si l’espace de l’événement est mis à jour :
 1. Utilisez le bouton **RÉimporter le monde** dans la page Web de l’événement.
 2. Autorisez 2-3 minutes avant la fin de la synchronisation. 
-3. Si l’espace de l’événement n’a pas changé, accédez à **paramètres > modéré > réinitialiser l’espace** pour réinitialiser l’espace de l’événement. Vous allez réinitialiser l’espace d’un grand nombre en tant que générateur de monde !
+3. si l’espace de l’événement n’a pas changé, accédez à **Paramètres > modéré > réinitialiser l’espace** pour réinitialiser l’espace de l’événement. Vous allez réinitialiser l’espace d’un grand nombre en tant que générateur de monde !
 
-Si vous avez des problèmes techniques, tels que les éléments ne se chargent pas correctement, accédez à votre menu AltspaceVR et sélectionnez **paramètres > modéré > l’espace de réinitialisation** pour réinitialiser l’espace d’événements et voir les nouvelles modifications. Les utilisateurs de PC Windows en 2D peuvent utiliser le raccourci clavier : **Ctrl + Alt + R** dans AltspaceVR pour réinitialiser rapidement l’espace.
+si vous avez des problèmes techniques, tels que les éléments ne se chargent pas correctement, accédez à votre menu AltspaceVR et sélectionnez **Paramètres > modéré > réinitialiser l’espace** pour réinitialiser l’espace d’événements et voir les nouvelles modifications. Windows Les utilisateurs de PC en 2D peuvent utiliser le raccourci clavier : **Ctrl + Alt + R** dans AltspaceVR pour réinitialiser rapidement l’espace.
 
 ## <a name="creating-your-event-and-event-space-or-world"></a>Création de votre événement et de votre espace d’événements ou de votre monde
 
@@ -98,7 +98,7 @@ Dans la page [événements > mes événements](https://account.altvr.com/events/
     * **Bannière :** Les images de bannière doivent être 1920x576. Ce sera automatiquement redimensionné en fonction des besoins et sera visible dans les informations sur l’événement ou la page Web. Une superposition semi-transparente couvre les 25% inférieurs de l’image. Évitez de placer du texte dans cette zone.
     * Une autre option (plus rapide) consiste à copier l’image **de vignette sur une image de bannière d’arrière-plan**, qui utilise également votre image de vignette comme image de bannière. Essayez :). Si le résultat n’est pas correct, vous pouvez créer une nouvelle image de bannière.
 2. **En VR :** Cette section comprend des fonctionnalités qui s’appliquent à l’expérience virtuelle pendant l’événement à l’intérieur de l’application AltspaceVR :
-    * **Rôles contextuels par défaut :** Le point d’interrogation vert répertorie les rôles spécifiques disponibles pour *tous les membres du public dans l’événement*. Le plus courant est *megaphone_only*. Ajoutez ceci pour attribuer à l’option « amplifier ma voix », sous le bouton outils de l’ordinateur hôte, tous les membres de l’audience, afin qu’ils puissent être entendus dans votre événement s’il s’agit d’un espace important. Si votre événement requiert Flight, ajoutez le *pilote*. Pour les ajouter, le format est le suivant : *megaphone_only, pilote*. Chaque utilisateur doit activer le mode de vol dans l’application AltspaceVR en accédant à paramètres/entrée/à la volée.
+    * **Rôles contextuels par défaut :** Le point d’interrogation vert répertorie les rôles spécifiques disponibles pour *tous les membres du public dans l’événement*. Le plus courant est *megaphone_only*. Ajoutez ceci pour attribuer à l’option « amplifier ma voix », sous le bouton outils de l’ordinateur hôte, tous les membres de l’audience, afin qu’ils puissent être entendus dans votre événement s’il s’agit d’un espace important. Si votre événement requiert Flight, ajoutez le *pilote*. Pour les ajouter, le format est le suivant : *megaphone_only, pilote*. chaque utilisateur doit activer le mode de vol dans l’application AltspaceVR en accédant à Paramètres/Input/Fly.
     * **Instructions :** Les [instructions s’affichent](../world-building/adding-welcome-messages.md) pour le texte qui génère une image de bienvenue à l’arrivée dans l’espace. Les utilisateurs doivent sélectionner « OK » pour le supprimer de leur affichage. Il est souvent utilisé pour fournir des instructions d’assistance telles que « Restez en sourdine jusqu’à ce qu’il soit invité à parler » ou « Bienvenue à l’événement XYZ où nous allons nous intéresser à ABC ». Cela n’est pas obligatoire, donc utilisez judicieusement. Vous pouvez également utiliser la démarque pour ajouter le dimensionnement de la couleur et de la police, plus de détails : [http://digitalnativestudios.com/textmeshpro/docs/rich-text](http://digitalnativestudios.com/textmeshpro/docs/rich-text)
 3. **Avancé :** Vous trouverez ci-dessous une explication rapide des fonctionnalités avancées des événements (certaines de ces fonctionnalités ne s’affichent pas tant que l’événement n’a pas été créé et que vous ne modifiez pas l’événement) :
     * **Administrateurs :** Les administrateurs sont des utilisateurs AltspaceVR auxquels vous faites confiance pour vous aider à gérer votre événement. Il peut s’agir de vos cohôtes ou de vos hôtes de sauvegarde. En ajoutant leur nom d’utilisateur à la liste des administrateurs, ils peuvent :
@@ -124,7 +124,7 @@ Dans la page [événements > mes événements](https://account.altvr.com/events/
     * **Modérateur :** Ajoute des fonctionnalités de modération à l’interface d’un individu, y compris la possibilité de texte pour chaque participant, de le désactiver globalement pour l’événement ou de les supprimer de l’événement. Rajoutez l’ordinateur hôte et donnez-lui des rôles de modération si vous souhaitez qu’ils aient des privilèges de modération.
     * **Mégaphone uniquement :** Ajoute le bouton amplifier ma voix à leur interface via le bouton outils de l’ordinateur hôte.
     * **Terraformer :** Ajoute le bouton éditeur de monde à leur interface.
-    * **Pilote :** Ajoute des fonctionnalités de vol pour cette personne. Remarque : ils doivent activer cette fonctionnalité dans paramètres/entrée/volée
+    * **Pilote :** Ajoute des fonctionnalités de vol pour cette personne. remarque : ils doivent l’activer dans Paramètres/Input/Fly
     * **Intervenant musical :** Ajoute des fonctionnalités et des fonctionnalités associées à des événements de concert et de musique.
 6. **Bloquer les utilisateurs listés :** Si vous souhaitez empêcher un utilisateur d’accéder à un utilisateur ou qu’un utilisateur a été précédemment supprimé de l’événement par un modérateur ou un hôte et si l’événement a été dupliqué, le nom de l’utilisateur de la liste rouge apparaîtra dans la liste. Les hôtes d’événements ou les administrateurs peuvent ajouter ou supprimer un blocage de l’utilisateur dans la liste à tout moment.
 
@@ -159,7 +159,7 @@ Pour plus d’informations sur la personnalisation de votre espace d’événeme
 * [FAQ sur la création de monde](../world-building/world-building-faq.md)
 * [Comment faire ajouter des points de génération personnalisés à mes mondes ?](../world-building/adding-custom-spawn-points.md)
 * [Comment faire télécharger mes propres kits ?](../world-building/uploading-custom-kits.md)
-* [Comment faire bien démarrer avec le kit de développement de la construction](../world-building/world-building-toolkit-getting-started.md)
+* [Comment faire la prise en main de la création de Shared Computer Toolkit universels (rechargeur unity)](../world-building/world-building-toolkit-getting-started.md)
 
 ## <a name="using-the-multimedia-console-for-a-slide-presentation"></a>Utilisation de la console multimédia pour une présentation de diapositives
 
@@ -175,9 +175,9 @@ Les exigences en matière d’images sont les suivantes :
 * Résolution : 72 ppp
 * Taille de fichier : inférieure à 250 Ko par fichier
 
-Le processus implique le chargement de votre image sur vos [photos AltspaceVR](https://account.altvr.com/photos), puis l’utilisation des photos dans l’éditeur mondial dans le monde entier pour les importer et les placer dans l’espace de l’univers des événements.
+le processus implique le téléchargement de votre image vers votre [Photos AltspaceVR](https://account.altvr.com/photos), puis l’utilisation de l’Photos dans l’éditeur universel dans le monde entier pour l’importer et la placer dans l’espace universel des événements.
 
-1. Accédez à [photos](https://account.altvr.com/photos) sur le site Web AltspaceVR.
+1. accédez à [Photos](https://account.altvr.com/photos) sur le site web AltspaceVR.
 2. Sélectionnez **Télécharger**.
 3. Sélectionnez **Parcourir** pour ouvrir une boîte de dialogue sur votre ordinateur, puis recherchez et sélectionnez l’image optimisée.
 4. Sélectionnez **Ouvrir**.
@@ -189,7 +189,7 @@ Dans AltspaceVR et dans le monde de l’événement, placez-vous à proximité d
 1. Dans l’interface utilisateur, dans l’angle inférieur droit, sélectionnez **éditeur universel/panneau** de l’éditeur
 2. Cliquez sur l’onglet **mine** en bas.
 3. Sélectionnez **photos**.
-4. Les photos étant stockées dans l’ordre chronologique de chargement, la dernière image téléchargée doit être la première image de la liste. Sélectionnez-le pour l’ajouter dans le monde.
+4. Photos sont stockées dans l’ordre chronologique de chargement, la dernière image téléchargée doit être la première image de la liste. Sélectionnez-le pour l’ajouter dans le monde.
 5. À l’aide du curseur de votre appareil, récupérez l’image et placez-la là où vous le souhaitez.
     * Vous pouvez le redimensionner à l’aide de vos contrôleurs (en faisant glisser le curseur horizontalement sur le pavé tactile en VR ou en utilisant votre souris en mode 2D).
     * Pour ajuster la position et la rotation de l’image, sélectionnez le symbole de l' **engrenage** sur l’image dans l’éditeur et définissez la rotation et la position de manière appropriée.
@@ -200,7 +200,7 @@ Dans AltspaceVR et dans le monde de l’événement, placez-vous à proximité d
 
 6. Répétez cette opération pour chaque placement d’image.
 7. Lorsque les images sont définies sur place, sélectionnez **Verrouiller tout** si vous ne les avez pas verrouillées individuellement, puis désactivez le mode édition et fermez l’éditeur.
-8. N’utilisez qu’un maximum de cinq photos par événement.
+8. utilisez uniquement un maximum de cinq Photos par événement.
 
 ## <a name="adding-3d-objects-using-world-editor-and-kits"></a>Ajout d’objets 3D à l’aide de l’éditeur et des kits World
 

@@ -1,17 +1,17 @@
 ---
-title: AltspaceVR entraînera-t-elle des mouvements de maladie ?
+title: Est-ce qu’AltspaceVR peut déclencher des nausées ?
 description: Restez informé des dernières questions fréquentes et des solutions pour y faire des mouvements de maladie dans des environnements VR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Motion maladie, VR, incrédulité
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212486"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128154"
 ---
-# <a name="will-altspacevr-cause-motion-sickness"></a>AltspaceVR entraînera-t-elle des mouvements de maladie ?
+# <a name="will-altspacevr-cause-motion-sickness"></a>Est-ce qu’AltspaceVR peut déclencher des nausées ?
 
 ## <a name="why-do-some-people-feel-ill-in-vr"></a>Pourquoi certaines personnes se sentent-elles mal en VR ?
 

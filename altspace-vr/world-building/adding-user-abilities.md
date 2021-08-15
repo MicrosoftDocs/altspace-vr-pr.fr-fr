@@ -4,12 +4,12 @@ description: Découvrez comment offrir aux utilisateurs des fonctionnalités sp�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: capacités, utilisateurs, rôles
-ms.openlocfilehash: 7f60a9bcdd61a71cfc86373f66c702903365456d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: de03bcff2c0239ba5709e848523690c5fb5c85dc350661eca822094d21b87785
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212149"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126138"
 ---
 # <a name="adding-user-abilities"></a>Ajout de capacités d’utilisateur
 
@@ -24,7 +24,7 @@ Vous ne pouvez pas vous battre dans des événements ou dans le Campfire, car il
 
 ## <a name="roles-and-abilities"></a>Rôles et capacités
 
-* **Pilote** -volant (pour activer cette fonctionnalité en VR, accédez à paramètres > entrée > à la volée)
+* **pilote** -volant (il doit activer cette fonctionnalité en VR en accédant à Paramètres > entrée > à la volée)
 * **megaphone_only** -tout le monde vous entende dans son oreille si elle est activée
 * **musical_performer** -augmentation de l’utilisation de la bande passante et de la qualité audio
 * **Terraformer** -accès à l’éditeur World

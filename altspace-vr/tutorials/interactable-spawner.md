@@ -4,12 +4,12 @@ description: Découvrez comment créer, utiliser et personnaliser le Spawn inter
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Spawn, interactions, personnalisations
-ms.openlocfilehash: 7f4b87591b2e11b2084af4d2bf83748ed51fd193
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: abeddec5c2b50e0612db5efb6bc2e3c5bd9de4a8b67c50b19afee18b17c5e746
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212575"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127398"
 ---
 # <a name="using-the-interactables-spawner"></a>Utilisation du Spawn Interactables
 
@@ -44,6 +44,6 @@ Une fois que vous avez activé la **« génération d’objets »** lorsque vo
 
 Les décideurs peuvent remarquer que les modifications apportées à votre kit pendant l’exécution de AltspaceVR ne prennent pas effet tant que vous n’avez pas redémarré AltspaceVR.
 
-Récemment, nous avons ajouté un bouton sous l’onglet **paramètres modérés** appelé **recharger les kits**. Si vous cliquez sur ce bouton, (vous pouvez simplement) entrer à nouveau l’espace, recharger tous les kits, ce qui a pour effet de télécharger uniquement les nouvelles versions des kits qui ont été mis à jour pendant que vous étiez dans AltspaceVR.
+récemment, nous avons ajouté un bouton sous l’onglet **modéré Paramètres** appelé **recharger les Kits**. Si vous cliquez sur ce bouton, (vous pouvez simplement) entrer à nouveau l’espace, recharger tous les kits, ce qui a pour effet de télécharger uniquement les nouvelles versions des kits qui ont été mis à jour pendant que vous étiez dans AltspaceVR.
 
 ![Panneau Paramètres modérés ouvert dans l’application AltspaceVR](images/interactables-spawner-img-03.png)

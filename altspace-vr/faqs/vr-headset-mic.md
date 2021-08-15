@@ -1,15 +1,15 @@
 ---
 title: Mes casques VR possèdent-ils un MIC intégré ?
-description: Découvrez comment rechercher un microphone intégré à votre Oculus Windows Mixed Reality, au Rift, à la Oculus Quest ou au casque à HTC vive.
+description: découvrez comment rechercher un microphone intégré sur votre Windows Mixed Reality, le Rift Oculus, le Oculus Quest ou le casque à HTC Vive.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: VR, Windows
-ms.openlocfilehash: 6fc5bc192fd9cf285f3203ff07fe4614476c8ec9
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0847c2baa63f866ae473d1eee20f5d4515e47078d4070ca349ffc812cb82f2aa
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212318"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121168"
 ---
 # <a name="does-my-vr-headsets-have-a-built-in-mic"></a>Mes casques VR possèdent-ils un MIC intégré ?
 
@@ -19,7 +19,7 @@ Oui, ces casques VR ont des microphones intégrés.
 
 ## <a name="windows"></a>Windows
 
-Pour les casques utilisés avec Windows, vous devez être en mesure de trouver le microphone listé sous vos **appareils d’enregistrement** lorsque le casque est branché.
+pour les casques utilisés avec Windows, vous devez être en mesure de trouver le microphone listé sous vos **appareils d’enregistrement** lorsque le casque est branché.
 
 ## <a name="further-troubleshooting"></a>Résolution des problèmes
 

@@ -1,17 +1,17 @@
 ---
-title: Contrôles Windows Mixed Reality
-description: En savoir plus sur le schéma de contrôle de base pour l’exécution de AltspaceVR à l’aide de contrôleurs de mouvement Windows Mixed Reality.
+title: Commandes Windows Mixed Reality
+description: en savoir plus sur le schéma de contrôle de base pour l’exécution de AltspaceVR à l’aide de contrôleurs motion Windows Mixed Reality.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Windows Mixed Reality, contrôles
-ms.openlocfilehash: 02fa4d30a15b873f4a8b7a9ddcbaa143e5b8fed2
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: ca6342cdee6067cfb8b265090557b123a549f35f1dfafb5d18d11bb58b2cfb38
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212367"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127576"
 ---
-# <a name="windows-mixed-reality-controls"></a>Contrôles Windows Mixed Reality
+# <a name="windows-mixed-reality-controls"></a>Commandes Windows Mixed Reality
 
 Les contrôles de base pour Windows Mixed Reality sont répertoriés ci-dessous.
 

@@ -4,12 +4,12 @@ description: Restez à jour avec la dernière configuration système requise pou
 ms.date: 06/03/2021
 ms.topic: article
 keywords: exigences, affichages montés en tête, Rift Oculus, HTC, mode 2D Windows
-ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923156"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127553"
 ---
 # <a name="minimum-system-requirements"></a>Configuration système minimale requise
 
@@ -26,9 +26,9 @@ Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pou
 * Intel i3-6100/AMD FX4350 ou version ultérieure 
 * 8 GO + RAM 
 * Sortie vidéo compatible HDMI 1,3 
-* Windows 8 ou version ultérieure 
+* Windows 8 ou plus récent 
 
-## <a name="htc-vive-windows-only"></a>Très vive HTC (Windows uniquement)
+## <a name="htc-vive-windows-only"></a>Vive HTC (Windows uniquement)
 
 * NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 équivalent ou plus
 * Intel® i5-4590, AMD FX 8350 équivalent ou supérieur   
@@ -36,7 +36,7 @@ Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pou
 * HDMI 1,4, DisplayPort 1,2 ou plus récent
 * Windows 7 SP1, Windows 8.1 ou Windows 10
 
-## <a name="windows-2d-mode"></a>Mode 2D Windows
+## <a name="windows-2d-mode"></a>Mode Windows 2d
 
 * Windows 10 64 bits, version 1809 ou ultérieure.
 * Intel i5
@@ -46,7 +46,7 @@ Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pou
 
 ## <a name="windows-mixed-reality"></a>Windows Mixed Reality
 
-[Instructions matérielles pour PC Windows Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
+[Windows Mixed Reality Recommandations relatives au matériel pour PC](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
 
 ## <a name="bandwidth-requirements"></a>Besoins en bande passante
 

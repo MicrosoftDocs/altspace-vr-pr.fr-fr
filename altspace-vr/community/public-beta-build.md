@@ -4,12 +4,12 @@ description: Recevez les dernières informations sur l’installation et la cré
 ms.date: 02/10/2021
 ms.topic: article
 keywords: bêta, version bêta, bogues
-ms.openlocfilehash: 1153a8d3f07e23556769416a33e5d45b1ea5007d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1977fe235380ea0850162d3829905521cd2fa9778ea0443b18064a7810cf9128
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212180"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119124986"
 ---
 # <a name="public-beta-build-programs"></a>Programmes de build bêta publics
 
@@ -45,7 +45,7 @@ Magasin Oculus :
 4. Dans le menu déroulant, sélectionnez « RC : X. x. XXXXX ».
 5. Lancer le programme AltspaceVR pour entrer dans la version bêta
 
-## <a name="notes"></a>Notes
+## <a name="notes"></a>Remarques
 
 Dans la bibliothèque de vapeur, vous pouvez revenir à la version de build en direct en suivant la même procédure, mais en sélectionnant « aucun-désactiver de tous les programmes bêta » pour l’étape 5. 
 

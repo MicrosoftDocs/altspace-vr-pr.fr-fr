@@ -4,12 +4,12 @@ description: Découvrez comment basculer entre les modèles de contrôle nouveau
 ms.date: 02/10/2021
 ms.topic: article
 keywords: avatar, souris, clavier, 2D, mode PC, contrôles
-ms.openlocfilehash: ec63ae241ac1d91817e8f8a6675299f8d83a1bdb
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212322"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127996"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Contrôles d’avatar avec souris/clavier en mode PC 2D
 
@@ -17,7 +17,7 @@ Il existe deux schémas de contrôle différents pour le mode de PC 2D à l’ai
 * Nouveaux contrôles d’ordinateur, qui est la valeur par défaut pour les nouveaux comptes
 * Contrôles PC classiques
 
-Vous pouvez basculer entre les contrôles nouveaux/classiques en accédant à **Menu > paramètres > entrée > contrôles de PC classiques** et en activant ou désactivant l’option.
+vous pouvez basculer entre les contrôles nouveaux/classiques en accédant au **Menu > Paramètres > entrée > contrôles de PC classiques** et en activant ou désactivant l’option.
 
 ## <a name="new-pc-controls"></a>Nouveaux contrôles d’ordinateur
 
@@ -60,11 +60,11 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Movement**
 
-| Action | Clé : | Clé secondaire |
+| Action | Clé | Clé secondaire |
 |---|---|---|
 | Avancer | W | Flèche haut |
 | Déplacer vers l’arrière | S | Flèche bas |
-| Strafe gauche | Un | N/A |
+| Strafe gauche | A | N/A |
 | Strafe droit | D | N/A |
 | Exécuter vers l’avant | Maj + W | Maj + haut |
 | Exécuter en arrière | Maj + S | Maj + Flèche bas |
@@ -75,7 +75,7 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Options de menu**
 
-| Action | Clé : | Clé secondaire |
+| Action | Clé | Clé secondaire |
 |---|---|---|
 | Menu bascule | Échap | N/A |
 | Activer/désactiver l’application en plein écran | Alt + Entrée | N/A |

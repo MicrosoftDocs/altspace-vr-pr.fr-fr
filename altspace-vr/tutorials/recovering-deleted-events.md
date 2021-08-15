@@ -4,12 +4,12 @@ description: Découvrez comment récupérer vos événements supprimés dans Alt
 ms.date: 03/11/2021
 ms.topic: article
 keywords: événements
-ms.openlocfilehash: 13a9533dcf908142bdd1066b98b46ed05d647637
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: af9f7a7733e6a55e52f7ed861a837c6f9196f6932743d39cae69688e4717b9c6
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212454"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127337"
 ---
 # <a name="recovering-deleted-events"></a>Récupération des événements supprimés
 

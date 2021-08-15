@@ -4,22 +4,22 @@ description: Restez à jour sur le programme d’assistance de la communauté de
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Communauté, guide, règles
-ms.openlocfilehash: 6587ae86231c092da42aa68e782538828cc17606
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: a917396ee93d35ad2bef1835a3a08603238d1174dbefe8b7c7b5add70fe29d51
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212422"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125019"
 ---
 # <a name="community-helper-guide"></a>Guide d’assistance de la communauté
 
-La fonctionnalité de vote à suspendre est disponible exclusivement pour les AltspaceVRs de la communauté. Il s’agit d’un outil de modération qui permet de conserver l’AltspaceVR, la sécurité et l’maturité. Le vote à la suspension permet aux membres de la communauté de signaler à toute personne qui est en violation des directives de la communauté. Vous trouverez ci-dessous les règles et responsabilités officielles associées à la capacité de vote à interruption. 
+la fonctionnalité voter pour suspendre est disponible exclusivement pour les AltspaceVRs de la Community. Il s’agit d’un outil de modération qui permet de conserver l’AltspaceVR, la sécurité et l’maturité. le Vote à la suspension permet Community aux applications auxiliaires de signaler toute personne en violation de nos instructions Community. Vous trouverez ci-dessous les règles et responsabilités officielles associées à la capacité de vote à interruption. 
 
 ## <a name="vote-to-suspend-rules--responsibilities"></a>Règles de vote à suspension & responsabilités : 
 
 **Règles** 
 
-* La suspension est autorisée uniquement si un utilisateur est en violation des instructions de la communauté de AltspaceVR. Aucune autre raison. Aucune exception.  
+* la Suspension est autorisée uniquement si un utilisateur est en violation des instructions de Community de AltspaceVR. Aucune autre raison. Aucune exception.  
 * Les utilisateurs sous-classés doivent s’identifier de manière explicite en moins de 13 ans avant de pouvoir voter pour les suspendre. 
 * Tous les votes sont consignés et suivis dans notre système. 
 * Vous devez être prêt à expliquer votre raisonnement à un utilisateur Bun, si vous y êtes invité. 
@@ -34,5 +34,5 @@ La fonctionnalité de vote à suspendre est disponible exclusivement pour les Al
 
 **Vienne** 
 
-* Vous pouvez activer ou désactiver votre badge d’assistance de la communauté. Lorsque vous basculez votre badge « désactivé », vous désactivez également la fonctionnalité de vote à l’interruption. 
+* vous pouvez activer ou désactiver votre badge d’assistance Community. Lorsque vous basculez votre badge « désactivé », vous désactivez également la fonctionnalité de vote à l’interruption. 
 * La fonctionnalité de vote à interruption est un programme pilote et aucune garantie n’est faite pour garantir des capacités futures. 

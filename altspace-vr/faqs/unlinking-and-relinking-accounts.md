@@ -4,12 +4,12 @@ description: Obtenir des instructions pas à pas sur la façon de dissocier et d
 ms.date: 05/11/2021
 ms.topic: article
 keywords: inscription, compte, liaison de comptes, comptes Microsoft, FAQ, dépannage, MSA, AAD
-ms.openlocfilehash: 3ad57ca9becbec610bada7bcf029474a9283906a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 2629a474b2d22402a3e89b908ae7bdee1c29f299baa458dd0139e25b2f22d4cf
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961245"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121239"
 ---
 # <a name="unlinking-and-re-linking-your-microsoft-account"></a>Dissociation et Re-Linking de votre compte Microsoft
 
@@ -45,7 +45,7 @@ Nous vous recommandons vivement de lier votre compte AltspaceVR à un compte Mic
     
 * Si vous essayez d’utiliser la version consommateur de AltspaceVR, vous devez utiliser un compte Microsoft. Si vous utilisez un compte professionnel ou scolaire, vous recevrez un message d’erreur vous invitant à créer un lien vers un compte Microsoft personnel à la place. Suivez les étapes ci-dessus pour dissocier et recréer un lien entre les comptes. 
 
-* Soumettez vos journaux si vous rencontrez des problèmes en accédant au **menu principal > paramètres > prendre en charge les journaux de chargement >**.
+* soumettez vos journaux si vous rencontrez des problèmes en accédant au **MENU principal > paramètres > prendre en charge les journaux de Télécharger >**.
 
 * Rechercher d’autres conseils dans le [Forum aux questions](../getting-started/creating-and-linking-accounts.md) sur les comptes
 

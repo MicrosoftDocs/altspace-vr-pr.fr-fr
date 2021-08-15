@@ -1,17 +1,17 @@
 ---
-title: Comment fonctionnent les étiquettes d’étiquettes ?
+title: Comment fonctionnent les étiquettes d’identification ?
 description: En savoir plus sur les différents types d’étiquettes et leur fonctionnement dans AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2d635e04c4baec8577f7f5670c5a7f41714b8d3df3b530d26708b38287df7b84
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212177"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128137"
 ---
-# <a name="how-do-nametags-work"></a>Comment fonctionnent les étiquettes d’étiquettes ?
+# <a name="how-do-nametags-work"></a>Comment fonctionnent les étiquettes d’identification ?
 
 Si vous souhaitez voir la balise de l’utilisateur d’un autre utilisateur, sélectionnez son avatar avec votre curseur et leur étiquette d’étiquette, puis affichez ci-dessus.
 

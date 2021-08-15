@@ -4,12 +4,12 @@ description: En savoir plus sur la façon dont les événements Front Row permet
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 25bb2638dd0d9eeb1b11ac3913c1b5cab005bdf7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128171"
 ---
 # <a name="what-are-frontrow-events"></a>Que sont les événements FrontRow ? 
 
