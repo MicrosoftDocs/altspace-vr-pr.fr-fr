@@ -44,7 +44,7 @@ L’une des façons de placer des modèles et des scènes 3D dans Altspace consi
 
 Félicitations ! Vous venez de générer votre premier modèle.
 
-## <a name="troubleshooting"></a>Dépannage
+## <a name="troubleshooting"></a>Résolution des problèmes
 
 **Lorsque j’ai cliqué sur **confirmer** , rien ne s’est produit**
     * Nous avons actuellement une limite de 100 000 polygone. En cas d’échec, supprimez l’objet pour éviter des problèmes potentiels avec les utilisateurs qui rejoignent votre monde

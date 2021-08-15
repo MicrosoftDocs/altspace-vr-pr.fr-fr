@@ -55,7 +55,7 @@ Il n’y a pas de limite au nombre de sauvegardes et le fait d’avoir plus de s
 * Créez un autre environnement, affichez les options avancées et importez à partir de tout le monde. Choisissez le monde que vous souhaitez sauvegarder dans le menu déroulant dans le nouveau. Aucune limite n’est définie pour les importations.
 * Si vous utilisez le chargeur Unity, nous vous recommandons vivement d’utiliser le contrôle de version. Par exemple, [GitHub pour Unity](https://unity.github.com).
 
-## <a name="troubleshooting"></a>Dépannage
+## <a name="troubleshooting"></a>Résolution des problèmes
 
 **Aide ! J’ai restauré accidentellement une sauvegarde et mon travail n’a** pas de crainte. Nous créons automatiquement une nouvelle sauvegarde avant la restauration de l’ancienne. Recherchez-en un dont le nom commence par **auto** avec l’horodateur approprié et restaurez celui-ci (par exemple, **auto-01-14T08:23:33-08:00**).  Si cela ne fonctionne pas, envoyer un [support Request](https://help.altvr.com/hc/requests/new)
 

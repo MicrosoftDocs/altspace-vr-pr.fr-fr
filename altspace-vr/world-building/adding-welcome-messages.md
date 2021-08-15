@@ -26,7 +26,7 @@ Les intégrateurs mondiaux peuvent ajouter un message facultatif qui est affich�
 
 3. Dans Altspace, entrez votre monde et le message mis à jour doit s’afficher.
 
-## <a name="troubleshooting"></a>Dépannage
+## <a name="troubleshooting"></a>Résolution des problèmes
 
 **Les lignes ne sont pas renvoyées à la ligne/trop longues** Essayez d’entrer dans le champ de texte pour qu’il passe à la ligne suivante.
 

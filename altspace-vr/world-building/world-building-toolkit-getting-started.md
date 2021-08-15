@@ -67,7 +67,7 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 * Définissez votre monde comme privé et dérépertorié pour éviter les distractions.
 * Placez un cube à l’origine pour voir où les gens seront générés par défaut. Masquez le cube lors du téléchargement.
 
-## <a name="troubleshooting"></a>Dépannage
+## <a name="troubleshooting"></a>Résolution des problèmes
 
 **Je suis en chute ou ne peut pas se téléporter sur quoi que ce soit** Vous devez ajouter des collisions à des objets pour les réutiliser.
 
