@@ -32,7 +32,7 @@ Ce guide vous aidera à créer et à partager votre premier Altspace.
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
 
-Félicitations ! Vous avez créé votre premier monde Altspace, votre propre expérience de VR sociale multijoueur ! Jouez avec l’éditeur World, en commençant par les kits qui contiennent des objets que vous pouvez placer et manipuler.
+Félicitations ! Vous avez créé votre premier monde Altspace, votre propre expérience de VR sociale multijoueur ! Jouez avec l’éditeur World, en commençant par les kits qui contiennent des objets que vous pouvez placer et manipuler.
 
 ## <a name="sharing"></a>Partage
 

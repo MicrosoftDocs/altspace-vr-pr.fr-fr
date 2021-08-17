@@ -123,7 +123,7 @@ Il est possible que vous disposiez déjà d’un compte Microsoft. jouez-vous Mi
 
 **Cela signifie-t-il que je dois créer une nouvelle adresse de messagerie avec Outlook ?**
 
-Non. Vous pouvez configurer un compte Microsoft avec une adresse e-mail actuelle, même s’il n’est pas hébergé par Microsoft. (Par exemple : G-mail, Yahoo, etc.). Si vous vous connectez avec des informations d’identification Microsoft qui partagent le même message que votre compte AltspaceVR classique, vous êtes invité à lier votre compte après vous être connecté. Suivez les invites pour vous connecter à votre compte Classic, et vos comptes Altspace et Microsoft seront liés pour vous.
+Faux. Vous pouvez configurer un compte Microsoft avec une adresse e-mail actuelle, même s’il n’est pas hébergé par Microsoft. (Par exemple : G-mail, Yahoo, etc.). Si vous vous connectez avec des informations d’identification Microsoft qui partagent le même message que votre compte AltspaceVR classique, vous êtes invité à lier votre compte après vous être connecté. Suivez les invites pour vous connecter à votre compte Classic, et vos comptes Altspace et Microsoft seront liés pour vous.
 
 **L’argent coûte-t-il ?**
 

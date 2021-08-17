@@ -17,7 +17,7 @@ ms.locfileid: "119128061"
 
 FrontRow est une technologie AltspaceVR qui permet à l’ensemble de votre événement d’être mis en miroir sur plusieurs instances. FrontRow vous permet de mettre à l’échelle votre public au-delà des limites de la pièce, et peut être utilisé pour prendre en charge un grand public en un seul événement. Sans FrontRow, votre taille d’audience sera limitée à la limite d’espace de votre environnement principal.
 
-## <a name="how-does-it-work"></a>Comment cela fonctionne-t-il ?
+## <a name="how-does-it-work"></a>Fonctionnement
 
 FrontRow ajoute des fonctionnalités et des capacités supplémentaires à l’expérience de l’hôte, ce qui vous permet de contrôler au maximum votre événement et votre public. 
 

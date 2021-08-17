@@ -98,7 +98,7 @@ Disponible lorsque vous modifiez votre monde :
 | Modérateur | Identique au rôle de modérateur World Creator |
 | Intervenant musical |Meilleure qualité audio pour les instruments de Singers ou de jeux de musiciens  |
 | Pilote | Ajoute des fonctionnalités de vol pour cette personne. remarque : vous devez activer cette procédure dans Paramètres/Input/Fly |
-| Host | Identique au rôle d’hôte créateur de monde |
+| Hôte | Identique au rôle d’hôte créateur de monde |
 | Terraformer | Ajoute le bouton éditeur de monde à leur interface | 
 
 ### <a name="adding-more-admins-to-your-world"></a>Ajout de plus d’administrateurs à votre monde

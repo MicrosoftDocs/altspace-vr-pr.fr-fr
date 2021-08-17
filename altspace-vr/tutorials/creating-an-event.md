@@ -178,7 +178,7 @@ Les exigences en matière d’images sont les suivantes :
 le processus implique le téléchargement de votre image vers votre [Photos AltspaceVR](https://account.altvr.com/photos), puis l’utilisation de l’Photos dans l’éditeur universel dans le monde entier pour l’importer et la placer dans l’espace universel des événements.
 
 1. accédez à [Photos](https://account.altvr.com/photos) sur le site web AltspaceVR.
-2. Sélectionnez **Télécharger**.
+2. Sélectionnez **Charger**.
 3. Sélectionnez **Parcourir** pour ouvrir une boîte de dialogue sur votre ordinateur, puis recherchez et sélectionnez l’image optimisée.
 4. Sélectionnez **Ouvrir**.
 5. Sélectionnez **créer une photo**.

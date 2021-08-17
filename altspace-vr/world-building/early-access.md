@@ -34,7 +34,7 @@ Le programme d’accès anticipé vous donne accès aux fonctionnalités les plu
 3. Si vous êtes déjà dans Altspace, redémarrez
 4. Explorez vos nouvelles capacités !
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 * Je n’ai pas de capacité particulière
     * Avez-vous redémarré Altspace ? Les capacités sont chargées lors du premier démarrage de Altspace

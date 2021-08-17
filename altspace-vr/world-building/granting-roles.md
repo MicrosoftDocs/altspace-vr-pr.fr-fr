@@ -39,7 +39,7 @@ Après avoir sélectionné **mettre à jour**, réinitialisez l’espace dans le
 * Les capacités de l' **hôte** , comme la possibilité d’être en phase, ont mégaphone
 * **Terraformer** -possibilité d’utiliser l’éditeur du monde plus d’informations sur ([rôles dans les événements, mondes, groupes et dans AltspaceVR](../getting-started/roles.md))
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Puis-je supprimer des rôles ?**
 Oui, modifiez votre environnement, cliquez sur **supprimer** sous le rôle que vous souhaitez supprimer, puis cliquez sur **mettre à jour** .

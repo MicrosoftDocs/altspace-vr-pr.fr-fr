@@ -63,9 +63,9 @@ l’éditeur World contient des Kits contenant Artifacts que vous pouvez génér
     * En cas de réussite, vous verrez sur le côté gauche sous « charge » la taille des fichiers et pour PC et Android, ainsi que la date de leur dernière mise à jour.
     * En cas d’échec, assurez-vous que vous n’avez aucun script, nous ne prenons pas en charge les scripts, nous vérifions ceux-ci pour la sécurité, puis réessayez.
 
-Félicitations ! Vous êtes prêt à créer des mondes avec votre propre kit !
+Félicitations ! Vous êtes prêt à créer des mondes avec votre propre kit !
 
-## <a name="troubleshooting"></a>Résolution des problèmes 
+## <a name="troubleshooting"></a>Dépannage 
 
 **Existe-t-il des limites ?**
 Il n’existe pas encore de limite inconditionnelle, mais n’oubliez pas que les utilisateurs doivent télécharger le AssetBundle pour leur plateforme pour l’ensemble du Kit, même si un seul artefact est utilisé. Essayez de conserver le téléchargement par plateforme à 5 Mo ou moins. Pour ce faire, vous pouvez diviser les éléments en petits kits. Par exemple, 200 props doivent être divisées en deux. 

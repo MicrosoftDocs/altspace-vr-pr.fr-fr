@@ -27,7 +27,7 @@ Les personnes qui entrent dans votre monde peuvent **générer** ou apparaître 
 4. Vous devez générer votre nouveau point de génération !
 5. Si vous souhaitez que les gens fassent face à une direction différente, sélectionnez les paramètres du point de génération et définissez la **Rotation > Y** uniquement. Essayez d’affecter la valeur 180 à X et Z à 0 (AVERTISSEMENT : X et Z sont avancés peuvent rendre les personnes malades). Sélectionnez ensuite **confirmer** et entrez de nouveau le monde. Cela devrait vous faire face à la direction opposée. 
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Les gens génèrent toujours à l’origine ?**
     * Assurez-vous que vos points de génération sont légèrement au-dessus du sol ou de la surface. Si le point de génération chevauche d’autres objets, les personnes génèrent à l’emplacement par défaut, l’origine. Cela peut se produire si le point de génération à l’intérieur d’un objet et la hauteur de la personne varient. 

@@ -34,7 +34,7 @@ Vous pouvez également utiliser le [chargeur Unity](world-building-toolkit-getti
 
 4. Accédez à votre monde et ouvrez l’éditeur de monde. Sous skyboxes, sélectionnez votre nouveau skybox. En quelques secondes, le ciel change littéralement. D’autres dans votre monde voient également la modification du ciel. Pour revenir en arrière, choisissez le skybox **par défaut** dans cette même liste. 
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Il y a une couture ou une ligne dans le ciel :-(.** Il s’agit d’un bogue que nous corrigerons bientôt
 

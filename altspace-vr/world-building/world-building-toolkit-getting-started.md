@@ -42,7 +42,7 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 5. Sélectionnez **charger les modèles** , puis sélectionnez **Hello World modèle** .
 6. Ajoutez un cube à votre scène et enregistrez.
 7. vérifier la **build pour Windows ?** et décocher **générer pour Android ?**
-8. Sélectionnez **Télécharger**. en environ une minute, vous devriez voir **Télécharger** terminé.
+8. Sélectionnez **Charger**. en environ une minute, vous devriez voir **Télécharger** terminé.
 9. Rejoignez **Hello World** en lançant Altspace et en entrant à partir de **Menu > mondes > mes mondes**
 10. réinitialiser le monde à partir du **Menu > Paramètres > l’espace de réinitialisation modérée >**
 11. Le cube doit s’afficher. Si vous le faites rapidement comme dans la vidéo ci-dessus, vous pouvez voir les modifications en moins de 10 secondes.
@@ -67,7 +67,7 @@ Le chargeur vous permet d’utiliser une scène Unity comme modèle pour vos mon
 * Définissez votre monde comme privé et dérépertorié pour éviter les distractions.
 * Placez un cube à l’origine pour voir où les gens seront générés par défaut. Masquez le cube lors du téléchargement.
 
-## <a name="troubleshooting"></a>Résolution des problèmes
+## <a name="troubleshooting"></a>Dépannage
 
 **Je suis en chute ou ne peut pas se téléporter sur quoi que ce soit** Vous devez ajouter des collisions à des objets pour les réutiliser.
 

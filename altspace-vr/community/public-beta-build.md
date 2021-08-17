@@ -45,7 +45,7 @@ Magasin Oculus :
 4. Dans le menu déroulant, sélectionnez « RC : X. x. XXXXX ».
 5. Lancer le programme AltspaceVR pour entrer dans la version bêta
 
-## <a name="notes"></a>Remarques
+## <a name="notes"></a>Notes
 
 Dans la bibliothèque de vapeur, vous pouvez revenir à la version de build en direct en suivant la même procédure, mais en sélectionnant « aucun-désactiver de tous les programmes bêta » pour l’étape 5. 
 

@@ -20,7 +20,7 @@ Les [extensions de réalité mixte](https://developer.altvr.com/) (MREs) sont de
 3. Accédez à votre monde et ouvrez l’éditeur du monde pour accéder aux **bases > application SDK**. Collez l’URL des casques dans le champ URI cible et sélectionnez **confirmer**. L’objet MRE doit apparaître et tenter de se connecter au MRE qui s’exécute dans le Cloud. Vous devez maintenant voir certains casques sur lesquels vous pouvez cliquer.
 4. Déplacez/faites pivoter/mettez à l’échelle le MRE comme vous le feriez pour tout autre objet monde.
 
-Félicitations ! Vous utilisez MREs Now, vous êtes tellement cool !
+Félicitations ! Vous utilisez MREs Now, vous êtes tellement cool !
 
 ## <a name="troubleshooting"></a>Dépannage
 

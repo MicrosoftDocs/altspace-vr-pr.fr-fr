@@ -25,6 +25,6 @@ AltspaceVR dispose d’une prise en charge intégrée du boîtier pour Windows e
 | L (déclencheur) | Sprint |
 | Gâchette haute droite | Rotation « mode Comfort » à droite |
 | Gâchette haute gauche | Rotation « mode Comfort » à gauche |
-| Bouton A | Sélectionnez |
+| Bouton A | Sélectionner |
 | Bouton Démarrer | Afficher/masquer la barre d’action |
 | Pavé D | Défilement de la page Web |

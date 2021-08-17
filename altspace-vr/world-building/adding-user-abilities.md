@@ -20,7 +20,7 @@ Vous ne pouvez pas vous battre dans des événements ou dans le Campfire, car il
 1. Modifiez votre univers sur notre site Web. Pour obtenir de l’aide, consultez [Comment faire gérer mes mondes](managing-worlds.md) .
 2. Faites défiler jusqu’au champ **en VR > rôles contextuels par défaut** . Vous pouvez pointer sur le point d’interrogation vert pour afficher plus de détails. Tous les rôles possibles sont répertoriés.
 3. Spécifiez les rôles que tout le monde peut recevoir. Chaque rôle est associé à ses propres capacités.
-4. Cliquez sur **Update**. Les utilisateurs devront entrer de nouveau dans le monde pour bénéficier de nouvelles fonctionnalités.
+4. Cliquez sur **Mettre à jour**. Les utilisateurs devront entrer de nouveau dans le monde pour bénéficier de nouvelles fonctionnalités.
 
 ## <a name="roles-and-abilities"></a>Rôles et capacités
 
