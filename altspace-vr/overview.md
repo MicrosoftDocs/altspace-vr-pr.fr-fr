@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR, Meetup virtuel, Virtual realisation Meetup, VR Meetup, les plateformes de réalité virtuelle, la plateforme VR, les événements virtuels immersifs, les événements d’immersion, les événements de réalité virtuelle, les événements VR, la création de la planète, la pratique de la VR, l’expérience de l’événement de réalité virtuelle
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131832"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122978999"
 ---
 # <a name="what-is-altspacevr"></a>Qu’est-ce que AltspaceVR
 

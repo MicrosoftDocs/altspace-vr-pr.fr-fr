@@ -1,21 +1,23 @@
 ---
 title: Exploration d’AltspaceVR
 description: Commencez à créer et à héberger des événements virtuels sur la plateforme AltspaceVR avec notre parcours de point de contrôle organisée.
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace, réalité virtuelle, événements, génération mondiale, didacticiels
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: AltspaceVR, Meetup virtuel, Virtual realisation Meetup, VR Meetup, les plateformes de réalité virtuelle, la plateforme VR, les événements virtuels immersifs, les événements d’immersion, les événements de réalité virtuelle, les événements VR, la création de la planète, la pratique de la VR, l’expérience de l’événement de réalité virtuelle
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126446"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979028"
 ---
 # <a name="exploring-altspacevr"></a>Exploration d’AltspaceVR
 
 ![Image de bannière AltspaceVR](images/altspace-vr-banner.png)
 
-AltspaceVR est une plateforme sociale de pointe pour la réalité virtuelle. Axé sur des événements allant de la mise à l’échelle de concerts de taille à spécialité, AltspaceVR utilise la technologie pour vous aider à mettre à l’échelle votre connexion humaine.
+AltspaceVR est la plateforme leader pour les expériences de réalité mixte en direct. AltspaceVR permet aux artistes, aux créateurs, aux marques et aux entreprises de créer facilement leurs propres événements virtuels. Cette application sociale permet aux personnes du monde entier de se connecter et de collaborer en temps réel avec un vrai sens de présence. Les avatars expressifs, l’implication des contacts oculaires, le son spatial et les environnements virtuels immersifs permettent aux utilisateurs de se sentir ensemble même lorsque les océans sont éloignés. Face à l’intersection de l’expérience, du contenu et de la Communauté, AltspaceVR est l’emplacement premier pour les concerts en direct, les conférences, les comédie, les festivals, les conversations technologiques, les réunions d’équipe, la collaboration à distance et bien plus encore.  
 
 Que vous soyez un ancien combattant AltspaceVR ou un nouvel utilisateur, il est important d’avoir des ressources solides que vous pouvez compter. Nous avons compilé les points de contrôle suivants pour vous guider dans l’intégration de vos événements virtuels dans le monde entier. Vous pouvez les aborder de façon séquentielle, ce qui est recommandé, ou passer directement à l’opération si vous savez ce que vous recherchez. Dans les deux cas, vous voudrez revoir ce voyage chaque fois que vous avez besoin de la direction.
 
