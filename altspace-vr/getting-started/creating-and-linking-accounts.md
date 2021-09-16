@@ -4,12 +4,12 @@ description: Obtenir des instructions pas à pas sur la création d’un compte 
 ms.date: 06/25/2021
 ms.topic: article
 keywords: inscription, compte, création de compte, liaison de comptes, comptes Microsoft, FAQ, dépannage, mode 2D, mode VR, nom d’utilisateur, affichage, nom
-ms.openlocfilehash: 213fcb788d99942aed0eccfc62b7d47221e93aa435349a12127d6d2e06463bd3
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5606e850da21582f07bf3b123746ca53bfae1360
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127910"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871207"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Création et liaison de votre compte AltspaceVR
 
@@ -46,6 +46,13 @@ Création de votre compte avec une connexion Microsoft :
 3. Une fenêtre distincte s’ouvre et vous invite à sélectionner le compte Microsoft que vous souhaitez utiliser. Sélectionnez un compte Microsoft personnel, et non un compte associé à un compte professionnel ou scolaire.
 4. Une fois que vous avez terminé le processus de liaison de comptes, une invite vous demande de renseigner votre nom d’affichage et votre nom d’utilisateur.
 5. Sélectionnez « inscrire ».
+
+## <a name="how-to-create-an-account-on-altvrcom"></a>Création d’un compte sur altvr.com
+
+1. Lancez un navigateur et accédez à la page de [connexion](https://account.altvr.com/users/sign_in) .
+2. Sélectionnez « Se connecter avec Microsoft ».
+3. Connectez-vous avec votre compte Microsoft personnel ou sélectionnez « créer un ! » pour créer un compte Microsoft personnel à utiliser avec AltspaceVR.
+4. Une fois que vous avez terminé le processus de connexion au compte Microsoft, votre compte AltspaceVR est créé et un message de confirmation s’affiche.
 
 ## <a name="linking-your-microsoft-account"></a>Liaison de votre compte Microsoft
 
@@ -123,7 +130,7 @@ Il est possible que vous disposiez déjà d’un compte Microsoft. jouez-vous Mi
 
 **Cela signifie-t-il que je dois créer une nouvelle adresse de messagerie avec Outlook ?**
 
-Faux. Vous pouvez configurer un compte Microsoft avec une adresse e-mail actuelle, même s’il n’est pas hébergé par Microsoft. (Par exemple : G-mail, Yahoo, etc.). Si vous vous connectez avec des informations d’identification Microsoft qui partagent le même message que votre compte AltspaceVR classique, vous êtes invité à lier votre compte après vous être connecté. Suivez les invites pour vous connecter à votre compte Classic, et vos comptes Altspace et Microsoft seront liés pour vous.
+Non. Vous pouvez configurer un compte Microsoft avec une adresse e-mail actuelle, même s’il n’est pas hébergé par Microsoft. (Par exemple : G-mail, Yahoo, etc.). Si vous vous connectez avec des informations d’identification Microsoft qui partagent le même message que votre compte AltspaceVR classique, vous êtes invité à lier votre compte après vous être connecté. Suivez les invites pour vous connecter à votre compte Classic, et vos comptes Altspace et Microsoft seront liés pour vous.
 
 **L’argent coûte-t-il ?**
 

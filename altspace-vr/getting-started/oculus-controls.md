@@ -1,21 +1,23 @@
 ---
 title: Contrôles et autorisations Oculus Quest/Quest 2
 description: Découvrez les contrôles de base pour les appareils Oculus Quest et Quest 2, la gestion des autorisations et l’utilisation de mouvements manuels.
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: Oculus, Oculus Quest, contrôles, autorisations, mouvements manuels
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127859"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871149"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Contrôles et autorisations Oculus Quest/Quest 2
 
 ## <a name="basic-controls"></a>Contrôles de base
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | Main gauche | À droite |
 |---|---|
@@ -29,6 +31,8 @@ ms.locfileid: "119127859"
 
 ## <a name="hand-gestures"></a>Mouvements des mains
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | Mouvement | Entrée |
 |---|---|
 | Au repos | Position par défaut |
@@ -37,8 +41,6 @@ ms.locfileid: "119127859"
 | Poing | Boutons poignée, déclencheur et A/X maintenus |
 
 ## <a name="managing-permissions"></a>Gestion des autorisations
-
-<!-- Missing image -->
 
 Pour gérer vos autorisations sur le Oculus Quest pour chaque application à partir de votre bibliothèque Oculus :
 

@@ -1,15 +1,17 @@
 ---
 title: Contrôles d’avatar avec souris/clavier en mode PC 2D
 description: Découvrez comment basculer entre les modèles de contrôle nouveaux et classiques pour déplacer vos avatars à l’aide de la souris et du clavier en mode PC 2D.
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: avatar, souris, clavier, 2D, mode PC, contrôles
-ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127996"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871229"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Contrôles d’avatar avec souris/clavier en mode PC 2D
 
@@ -25,15 +27,15 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 * Le **mode curseur** vous permet d’interagir avec les menus. Vous savez que vous êtes en mode curseur quand vous voyez le bouton de menu ou le logo AltspaceVR en bas à gauche de votre affichage :
 
-![Mode curseur avec menu](images/avatar-controls-img-01.png)
+    ![Mode curseur avec menu](images/avatar-controls-img-01.png)
 
 * Le **mode apparence** vous permet de rechercher et est parfait si vous utilisez un ordinateur portable pavé tactile. Vous pouvez utiliser le mode d’apparence et le clavier pour regarder/déplacer en même temps. Vous savez que vous êtes en mode d’affichage si le bas à gauche de votre affichage ressemble à la capture d’écran ci-dessous :
 
-![Mode de recherche](images/avatar-controls-img-02.png)
+    ![Mode de recherche](images/avatar-controls-img-02.png)
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Nouveaux contrôles PC pour le clavier/la souris
 
-![Clavier et souris avec mappages d’entrée](images/avatar-controls-img-03.png)
+<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
 
 ## <a name="classic-pc-controls"></a>Contrôles PC classiques 
 
@@ -60,11 +62,11 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Movement**
 
-| Action | Clé | Clé secondaire |
+| Action | Clé : | Clé secondaire |
 |---|---|---|
 | Avancer | W | Flèche haut |
 | Déplacer vers l’arrière | S | Flèche bas |
-| Strafe gauche | A | N/A |
+| Strafe gauche | Un | N/A |
 | Strafe droit | D | N/A |
 | Exécuter vers l’avant | Maj + W | Maj + haut |
 | Exécuter en arrière | Maj + S | Maj + Flèche bas |
@@ -75,7 +77,7 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Options de menu**
 
-| Action | Clé | Clé secondaire |
+| Action | Clé : | Clé secondaire |
 |---|---|---|
 | Menu bascule | Échap | N/A |
 | Activer/désactiver l’application en plein écran | Alt + Entrée | N/A |
