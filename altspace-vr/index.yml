@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: Prise en main
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: Découvrir le contenu et les personnes
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: Résolution des problèmes
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: Bien démarrer
   summary: 'Utilisez AltspaceVR pour héberger des événements, créer des mondes virtuels et interagir à distance avec des utilisateurs et des communautés du monde entier.'
@@ -94,13 +94,13 @@ additionalContent:
         - title: Dépannage et support
           links:
             - text: Problèmes audio
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: Comptes et avatars
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: Application AltspaceVR
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: Santé et sécurité
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: Événements
               url: faqs/front-row-events.md
         - title: Nous contacter

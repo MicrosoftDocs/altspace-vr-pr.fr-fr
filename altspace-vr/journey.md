@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: AltspaceVR, Meetup virtuel, Virtual realisation Meetup, VR Meetup, les plateformes de réalité virtuelle, la plateforme VR, les événements virtuels immersifs, les événements d’immersion, les événements de réalité virtuelle, les événements VR, la création de la planète, la pratique de la VR, l’expérience de l’événement de réalité virtuelle
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979028"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310469"
 ---
 # <a name="exploring-altspacevr"></a>Exploration d’AltspaceVR
 
@@ -48,7 +48,7 @@ Vous n’avez pas toujours besoin d’être un ordinateur hôte dans AltspaceVR.
 |  Point de contrôle  |  Résultat  |
 | --- | --- |
 | [Exploration de l’écran de titre](community/exploring-title-screen.md) | Accédez à la plateforme AltspaceVR à partir de l’écran de titre pour vous connecter, entrer un événement ou personnaliser votre avatar |
-| [Caractéristiques sociales & étiquettes d’étiquettes](faqs/nametags.md) | Découvrez comment les étiquettes et les fonctionnalités sociales fonctionnent dans AltspaceVR |
+| [Caractéristiques sociales & étiquettes d’étiquettes](faqs/account-avatar-faq.md#how-do-nametags-work) | Découvrez comment les étiquettes et les fonctionnalités sociales fonctionnent dans AltspaceVR |
 
 ## <a name="4-creating--hosting-events"></a>4. création d’événements d’hébergement &
 

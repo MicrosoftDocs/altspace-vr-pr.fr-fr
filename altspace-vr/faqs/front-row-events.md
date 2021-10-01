@@ -4,12 +4,12 @@ description: En savoir plus sur la façon dont les événements Front Row permet
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 86ba4e836c55648d5434de7764c09f8ef7646d2f
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128171"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310497"
 ---
 # <a name="what-are-frontrow-events"></a>Que sont les événements FrontRow ? 
 
@@ -26,3 +26,10 @@ Une fois que l’un de vos amis a rejoint un événement de début de ligne, vou
 Le talent de l’étape consiste à afficher l’audience en remplissant une seule instance de l’événement de ligne avant, bien qu’ils puissent voir les Emoji générés par les utilisateurs sur toutes les instances de l’événement.
 
 Quand un utilisateur sélectionne son bouton « lever la main », les hôtes d’événements peuvent activer l’air pour cette personne à l’aide de nos outils d’ordinateur hôte. À ce stade, le membre de l’assistance peut être consulté et entendu sur toutes les instances comme les intervenants. Cela permet aux utilisateurs de participer au diaporama et d’interagir avec les talents pendant Q&une session, quelle que soit leur salle de réunion.
+
+## <a name="support"></a>Support
+
+Vous avez des questions ou des commentaires pour l’équipe AltspaceVR ? 
+
+> [!div class="nextstepaction"]
+> [Cliquez ici pour envoyer une demande de support](https://help.altvr.com/hc/requests/new)
