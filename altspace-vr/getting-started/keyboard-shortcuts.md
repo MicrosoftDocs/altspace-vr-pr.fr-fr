@@ -6,16 +6,16 @@ author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: clavier, raccourcis
-ms.openlocfilehash: b994590583fb6eea4141598febce40510ae77fb8
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: 75255a54efec0099a27faf6b4aa6c5fc4c8ae7cd
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871264"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446197"
 ---
 # <a name="keyboard-shortcuts"></a>Raccourcis clavier
 
-<img src="images\keyboard-shortcuts.png" alt="Keyboard shortcuts">
+![Raccourcis clavier](images\keyboard-shortcuts.svg)
 
 | Clé | Action |
 |---|---|

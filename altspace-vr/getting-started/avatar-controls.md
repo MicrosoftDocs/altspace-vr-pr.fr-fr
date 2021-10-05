@@ -1,17 +1,17 @@
 ---
 title: Contrôles d’avatar avec souris/clavier en mode PC 2D
 description: Découvrez comment basculer entre les modèles de contrôle nouveaux et classiques pour déplacer vos avatars à l’aide de la souris et du clavier en mode PC 2D.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: avatar, souris, clavier, 2D, mode PC, contrôles
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871229"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446299"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Contrôles d’avatar avec souris/clavier en mode PC 2D
 
@@ -35,7 +35,7 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Nouveaux contrôles PC pour le clavier/la souris
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![Clavier et souris avec mappages d’entrée](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>Contrôles PC classiques 
 
@@ -62,7 +62,7 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Movement**
 
-| Action | Clé : | Clé secondaire |
+| Action | Clé | Clé secondaire |
 |---|---|---|
 | Avancer | W | Flèche haut |
 | Déplacer vers l’arrière | S | Flèche bas |
@@ -77,7 +77,7 @@ Vous avez deux modes différents lorsque vous utilisez les nouveaux contrôles P
 
 **Options de menu**
 
-| Action | Clé : | Clé secondaire |
+| Action | Clé | Clé secondaire |
 |---|---|---|
 | Menu bascule | Échap | N/A |
 | Activer/désactiver l’application en plein écran | Alt + Entrée | N/A |
