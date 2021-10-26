@@ -4,16 +4,16 @@ description: Restez à jour avec la dernière configuration système requise pou
 ms.date: 06/03/2021
 ms.topic: article
 keywords: exigences, affichages montés en tête, Rift Oculus, HTC, mode 2D Windows
-ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1a43574c0c88dbceea77cd9191797e7d9f6c96f7
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127553"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298766"
 ---
 # <a name="minimum-system-requirements"></a>Configuration système minimale requise
 
-Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pour bénéficier de l’expérience AltspaceVR complète. AltspaceVR prend actuellement en charge les affichages montés en tête suivants :
+Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pour bénéficier de l’expérience AltspaceVR complète. AltspaceVR prend en charge les affichages montés en tête suivants :
 
 * Oculus du Rift CV1
 * HTC Vive
@@ -54,3 +54,5 @@ Nous vous recommandons d’utiliser les profils système minimaux ci-dessous pou
 
 > [!NOTE]
 > Les événements avec de nombreux flux vidéo peuvent nécessiter davantage de bande passante.
+
+<!-- test1 101921 -->

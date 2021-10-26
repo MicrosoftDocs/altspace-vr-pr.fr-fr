@@ -1,15 +1,15 @@
 ---
 title: Utilisation de la fonctionnalité groupes pour créer des événements privés
 description: Découvrez comment créer des espaces privés de VR qui sont ouverts dans des listes d’invités approuvées à l’aide de la fonctionnalité d’événements de groupe.
-ms.date: 03/11/2021
+ms.date: 10/24/2021
 ms.topic: article
 keywords: groupes, événements privés, patreon, Eventbrite, résolution des problèmes
-ms.openlocfilehash: 0599792b6dd5ea73a3f4c15b00cdee36dea5ceaab3fc646ef0f72e965e0cbad2
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
+ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126606"
+ms.lasthandoff: 10/25/2021
+ms.locfileid: "130298851"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Utilisation de la fonctionnalité groupes pour créer des événements privés
 
@@ -69,9 +69,9 @@ Notre fonctionnalité de groupes offre aux hôtes la possibilité de créer un e
 
 ![Application AltspaceVR avec le panneau mes mondes mis en surbrillance](images/group-features-img-07.png)
 
-## <a name="how-to-use-patreon-and-eventbrite-to-host-a-ticketed-vr-event"></a>Comment utiliser Patreon et Eventbrite pour héberger un événement VR avec tickets : 
+## <a name="how-to-add-an-email-list-to-a-group"></a>Comment ajouter une liste de messages à un groupe 
 
-Vous pouvez utiliser Patreon, Eventbrite pour créer des événements avec ticket dans Altspace.Vous devez soit créer une liste des adresses de messagerie de vos utilisateurs, soit exporter ces informations à partir de votre plateforme de paiement.  
+Si vous avez un grand groupe et que vous devez les ajouter en bloc, vous devez d’abord créer une liste d’adresses de messagerie pour toutes celles associées à votre groupe. N’oubliez pas que s’ils s’inscrivent avec la liaison de compte Microsoft, vous aurez besoin de leur adresse de compte Microsoft pour que cette étape fonctionne.
 
 ### <a name="creating-a-list"></a>Création d’une liste
 
@@ -87,7 +87,7 @@ Utilisez un programme de feuille de calcul pour créer une colonne unique avec t
 
 ### <a name="importing-a-list"></a>Importation d’une liste
 
-Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un fichier * .csv (valeur séparée par des virgules) qui a une colonne « adresse de messagerie » dédiée.Vous pouvez sélectionner cette colonne pour l’utiliser.Une fois que cette opération est disponible, les étapes sont essentiellement les mêmes :  
+Certaines plateformes peuvent vous permettre d’exporter un fichier * .csv (valeur séparée par des virgules) qui a une colonne « adresse de messagerie » dédiée.Vous pouvez sélectionner cette colonne pour l’utiliser.Une fois que cette opération est disponible, les étapes sont essentiellement les mêmes :  
 
 1. Créez ou modifiez votre groupe.  
 2. Recherchez le champ **e-mails des membres** .  
@@ -97,7 +97,7 @@ Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un
 > [!NOTE]
 > Si vous le souhaitez, vous pouvez également copier et coller des courriers électroniques dans le champ au lieu d’importer à partir d’un fichier * .csv.
 
-## <a name="faq"></a>Questions fréquentes (FAQ) 
+## <a name="faq"></a>Forum aux questions 
 
 ### <a name="im-having-trouble-filling-out-the-fields-in-groups-what-do-they-mean"></a>Je ne parviens pas à renseigner les champs dans des groupes. Qu’est-ce que cela signifie ?
 
@@ -105,7 +105,7 @@ Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un
 
 * **Nom**   : Nom du groupe qui sera visible pour tous les membres.   
 * **Description**   : Champ pour décrire l’objectif du groupe. Visible pour tous les membres.
-* **Utilisateurs**   : Ce champ vous permet de répertorier les membres du groupe en tant que nom d’utilisateur ou adresse de messagerie, tant qu’il s’agit d’un nom de domaine par ligne.C’est une façon de définir les membres du groupe.  **Toutefois, pour ceux qui utilisent des plateformes de paiement externes comme Patreon, utilisez le champ « liste d’autorisation de messagerie » décrite plus loin dans cette page.**
+* **Utilisateurs**   : Ce champ vous permet de répertorier les membres du groupe en tant que nom d’utilisateur ou adresse de messagerie, tant qu’il s’agit d’un nom de domaine par ligne.C’est une façon de définir les membres du groupe.
     * Renseignez un nom d’utilisateur ou un message électronique par ligne.  
     * Pour trouver un nom d’utilisateur dans AltspaceVR, vous devez ouvrir le menu principal et accéder à la section « moi ».Il s’agit du nom entre parenthèses.  
     * Pour trouver le nom d’utilisateur sur le site Web, placez l’utilisateur « profile » à partir de l’option « profil plus > ». Vous pouvez le trouver dans la colonne de gauche de la page de profil.  
@@ -129,12 +129,12 @@ Les plateformes telles que Patreon et Eventbrite vous permettent d’exporter un
 > Cette fonctionnalité est en version bêta. Nous encourageons les groupes à utiliser des mondes préexistants dans la boîte de dialogue de sélection de l’environnement.
 
 * Le mot « de la société » apparaît toujours comme suffixe pour le monde Hangout de tout groupe.  
-* **E-mails**   des membres : Ce champ vous permet de répertorier les utilisateurs en fonction de l’adresse de messagerie associée à un compte AltspaceVR.  **L’utilisation de cette liste remplace la liste « utilisateurs » décrite ci-dessus.**   Il s’agit de la méthode recommandée pour gérer l’appartenance à un groupe, en particulier celles utilisant des plateformes de paiement externes.  
-    * Lorsque vous renseignez ce champ, assurez-vous que le courrier électronique associé à votre compte AltspaceVR est listé ou que vous risquez de perdre l’accès au groupe.  
+* **E-mails**   des membres : Ce champ vous permet de répertorier les utilisateurs en fonction de l’adresse de messagerie associée à un compte AltspaceVR.  **L’utilisation de cette liste remplace la liste « utilisateurs » décrite ci-dessus.**   Il s’agit de la méthode recommandée pour gérer l’appartenance à un groupe.  
+    * Lorsque vous renseignez ce champ, assurez-vous que le courrier électronique associé à votre compte AltspaceVR est listé ou que vous risquez de perdre l’accès au groupe. Si vous avez lié votre compte à la liaison de compte Microsoft, vous devez vous assurer que l’adresse de messagerie utilisée est celle de votre compte Microsoft.  
     * Lorsque vous collez des adresses dans son champ, assurez-vous qu’un seul message électronique par ligne est présent.  
     * Cette liste accepte les courriers électroniques sans compte AltspaceVR valide.Les noms d’utilisateur AltspaceVR sont vérifiés, les adresses de messagerie ne le sont pas. Toutefois, lorsque ce courrier électronique est utilisé pour créer un compte AltspaceVR, l’utilisateur auquel il est associé peut accéder au groupe.  
     * Vous pouvez importer une liste à partir d’un fichier * .csv. Sélectionnez l’option « choisir un fichier » et sélectionnez votre fichier.
-    * Nous vous recommandons d’utiliser des E-mails de membre pour gérer les groupes créés à partir de plateformes de paiement telles que Patreon ou Eventbrite, car il s’agit d’un moyen plus définitif de concilier vos membres.Notez que les administrateurs de groupe doivent informer leurs utilisateurs/membres qu’ils doivent utiliser la même adresse de messagerie exacte qu’ils ont utilisée sur la plateforme de paiement pour créer un compte AltspaceVR.  
+    * Nous vous recommandons d’utiliser des E-mails de membre pour gérer des groupes de grande taille, car il s’agit d’un moyen plus définitif de concilier vos membres.Notez que les administrateurs de groupe doivent informer leurs utilisateurs/membres qu’ils doivent utiliser la même adresse de messagerie exacte qu’ils ont utilisée sur la plateforme de paiement pour créer un compte AltspaceVR.  
     * Pour obtenir des instructions sur l’obtention de votre liste d’utilisateurs, consultez la section importation d’utilisateurs dans des groupes.   
 * **Activer l’importation automatique**   – L’importation automatique est un processus périodique exécuté dans la liste d’autorisation de courrier électronique. Il rapproche si un compte de AltspaceVR valide est associé à un message électronique et accorde l’accès.   
     * Nous vous recommandons de l’activer si vous utilisez un chargement de fichier CSV.
@@ -192,29 +192,5 @@ La page de groupe s’affiche lorsque vous êtes administrateur d’un groupe.No
 
 Il s’agit d’une page de groupe avec un événement planifié. Les événements créés pour le groupe s’affichent ici.
 
-### <a name="i-want-to-use-eventbrite-and-patreon-but-i-dont-see-where-to-get-the-email-addresses-for-my-groups"></a>Je souhaite utiliser Eventbrite et Patreon, mais je ne vois pas où obtenir les adresses de messagerie pour mes groupes
-
-**Patreon ** 
-
-[Patreon](https://www.patreon.com/)   est une plateforme d’appartenance dans laquelle les éléments créatifs peuvent créer un programme d’abonnement pour leur contenu.Bien que Patreon dispose de plusieurs méthodes pour exporter des données de promesse, nous nous concentrerons sur les directions du volume partagé de cluster. Vous trouverez la page d’aide de ces informations [ici](https://www.patreon.com/portal/how-to/export-pledge-data)   ou vous pouvez suivre les instructions ci-dessous :  
-
-1. Recherchez le champ « consommateurs » dans la barre latérale du créateur à gauche du site Patreon.  
-2. Développez-le pour trouver le « gestionnaire de relations » et sélectionnez-le.  
-3. En haut de la page, est un bouton de téléchargement appelé CSV. Sélectionnez-le.  
-4. Un champ de boîte de dialogue Windows s’ouvre pour enregistrer le fichier.Enregistrez-le.  
-5. Suivez les instructions d’importation dans la page du groupe AltspaceVR pour utiliser ce fichier.  
-
-**Eventbrite ** 
-
-[Eventbrite](https://www.eventbrite.com)   est un site Web de tickets qui permet aux utilisateurs de gérer et de créer des tickets pour les événements.Comme Patreon, il existe de nombreuses façons de générer des listes de messagerie de participants.Nous nous concentrerons à nouveau sur les directions du volume partagé de cluster. Vous trouverez la page d’aide de ces informations [ici](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US)   ou vous pouvez suivre les instructions ci-dessous pour extraire ces données.  
-
-1. Dans le menu de votre profil, recherchez le menu « gérer les événements ». 
-2. Sélectionnez l’événement dans lequel vous souhaitez obtenir la liste de courrier électronique du participant. 
-3. Dans le tableau de bord de l’événement, recherchez la catégorie appelée « rapports communs ». 
-4. Vous pouvez également trouver « rapports communs » dans le menu de la colonne de gauche sous « analyser les rapports d’événements >s ».   
-5. Sélectionnez « Résumé du participant ». 
-6. Recherchez la section « résultats du rapport ». 
-7. Sélectionnez le bouton « CSV » pour télécharger le fichier. 
-
 > [!IMPORTANT]
-> Il s’agit d’une fonctionnalité bêta. AltspaceVR est une expérience gratuite et n’est pas responsable des problèmes techniques pouvant survenir avec l’expérience qui peuvent empêcher les participants d’accéder aux événements avec tickets.
+> Il s’agit d’une fonctionnalité bêta. AltspaceVR est une expérience gratuite et n’est pas responsable des problèmes techniques pouvant survenir avec l’expérience qui peuvent empêcher les participants d’accéder à des événements privés.
