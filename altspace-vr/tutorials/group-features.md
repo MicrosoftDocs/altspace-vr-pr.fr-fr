@@ -4,12 +4,12 @@ description: Découvrez comment créer des espaces privés de VR qui sont ouvert
 ms.date: 10/24/2021
 ms.topic: article
 keywords: groupes, événements privés, patreon, Eventbrite, résolution des problèmes
-ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 92a05d6b0ee6f1212918dead7630cb917bf6972c
+ms.sourcegitcommit: 442497136b369a9789be161eae09d0e662094a85
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298851"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "130325893"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Utilisation de la fonctionnalité groupes pour créer des événements privés
 
